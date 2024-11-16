@@ -1,0 +1,17 @@
+GEOGCRS["Toril GCS (Myth Drannor)",
+    DATUM["Toril",
+        ELLIPSOID["Toril",6410000,160.25,
+            LENGTHUNIT["metre",1]]],
+    PRIMEM["Myth Drannor",-53.48150148799,
+        ANGLEUNIT["degree",0.0174532925199433]],
+    CS[ellipsoidal,2],
+        AXIS["latitude (Lat)",north,
+            ORDER[1],
+            ANGLEUNIT["degree",0.0174532925199433]],
+        AXIS["longitude (Lon)",east,
+            ORDER[2],
+            ANGLEUNIT["degree",0.0174532925199433]],
+    USAGE[
+        SCOPE["Web mapping and visualisation of Toril."],
+        AREA["World."],
+        BBOX[-90,-180,90,180]]]
