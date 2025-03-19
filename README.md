@@ -1,9 +1,16 @@
 # Toril GIS
+***The Source for Forgotten Realms Geospatial Data***
 
-The **Toril GIS** project, under the umbrella of [Geospatial Grimoire](https://geospatial-grimoire.com/), is creating a functional and easy-to-use geospatial database for the Forgotten Realms. By digitizing maps and lore using the free and open-source [QGIS software](https://www.qgis.org/), the project empowers Dungeon Masters and players to explore and visualize the Realms in exciting new ways. Users can create derivative products such as interactive maps, 3D models, and more, with multilingual support for map labels. Join us as we transcend the limitations of static maps and delve into the rich geospatial data of the Toril planet! 
+The **Toril GIS** project, part of [Geospatial Grimoire](https://geospatial-grimoire.com/), is building an open geospatial database for the Forgotten Realms. Using free and open-source [QGIS software](https://www.qgis.org/), we digitize maps and lore to create an interactive and data-rich representation of Toril. Our goal is to empower Dungeon Masters and players with geospatial tools to explore, visualize, and expand the Realms in exciting new ways.
 
-**Note**: This project is under active development, and content updates will be released soon—anticipated around early 2025. Stay tuned for more!
+<img src="images/toril-gis-proj-behrmann.jpg" alt="Toril GIS Banner" height="200">
+
+### What’s Coming Next?
+
+While the project is still in active development, we are laying the foundation for a QGIS-based mapping package that users will eventually be able to download and run on their own computers. This package will include ready-to-use spatial layers, styles, and metadata—allowing for exploration, analysis, and customization.
+
+Stay tuned for updates and insights on our blog: [Geospatial Grimoire Blog](https://www.geospatial-grimoire.com/blog/)
 
 ## Usage Terms
 
-Toril GIS is unofficial Fan Content permitted under the [Fan Content Policy](/USAGE_TERMS.md). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+Toril GIS is unofficial Fan Content based on materials from Wizards of the Coast. See [Usage Terms](/USAGE_TERMS.md) for details.
