@@ -3,7 +3,7 @@
 
 The **Toril GIS** project, part of [Geospatial Grimoire](https://geospatial-grimoire.com/), is building an open geospatial database for the Forgotten Realms. Using free and open-source [QGIS software](https://www.qgis.org/), we digitize maps and lore to create an interactive and data-rich representation of Toril. Our goal is to empower Dungeon Masters and players with geospatial tools to explore, visualize, and expand the Realms in exciting new ways.
 
-<img src="images/toril-gis-proj-behrmann.jpg" alt="Toril GIS Banner" height="200">
+![Toril GIS Banner](images/toril-gis-proj-behrmann.jpg)
 
 ### What’s Coming Next?
 
