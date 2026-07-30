@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4000" height="2000" viewBox="0 0 4000 2000" data-layer-id="srf_civ_important_sites_pt" data-map-west="-180.0" data-map-south="-90.0" data-map-east="180.0" data-map-north="90.0">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Toril GIS: Editable Offline Map of the Forgotten Realms - srf_civ_important_sites_pt</dc:title>
+        <dc:creator>Geospatial Grimoire</dc:creator>
+        <dc:source>https://github.com/geospatial-grimoire/toril-gis</dc:source>
+        <dc:rights>Unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Copyright Wizards of the Coast LLC.</dc:rights>
+        <dc:description>Geospatial Grimoire. Toril GIS: Editable Offline Map of the Forgotten Realms. Available at: https://github.com/geospatial-grimoire/toril-gis</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <style>
+    .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222; stroke-width: 1; vector-effect: non-scaling-stroke; fill-rule: evenodd; }
+    .layer-line { fill: none; stroke: #222; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+    .layer-point { fill: #222; stroke: #fff; stroke-width: 1; vector-effect: non-scaling-stroke; }
+    .svg-layer-srf_civ_important_sites_pt .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222222; stroke-width: 1.0; }
+    .svg-layer-srf_civ_important_sites_pt .layer-line { stroke: #222222; stroke-width: 1.5; }
+    .svg-layer-srf_civ_important_sites_pt .layer-point { fill: #222222; stroke: #ffffff; stroke-width: 1.0; }
+  </style>
+  <g id="srf_civ_important_sites_pt" class="svg-layer svg-layer-srf_civ_important_sites_pt">
+    <g class="feature-class-layer feature-class-ruins" data-feature-class="Ruins">
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="010aa9d2-394a-40a9-aa0e-db2438ce6e9f">
+        <title>Elbulder</title>
+        <circle class="layer-point" cx="1439.628" cy="704.616" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="cc1000dc-e1c3-4ca7-9ca3-1ff6c16b0fd3">
+        <title>Myth Drannor</title>
+        <circle class="layer-point" cx="1405.761" cy="539.873" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="0308214e-c9b9-4da5-96ae-f7a63d627d02">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1726.368" cy="1097.354" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="60e1a20d-ec60-46f3-9646-df721c42811b">
+        <title>Owl Old Well</title>
+        <circle class="layer-point" cx="1182.137" cy="461.081" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="687c74fe-9d14-45ce-ae94-abd68f1d4a4d">
+        <title>Seawave Ruins</title>
+        <circle class="layer-point" cx="1438.396" cy="525.433" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="6ca300d8-2e7c-44ae-8214-8d3dca6a5460">
+        <title>Fort Dalton</title>
+        <circle class="layer-point" cx="1442.119" cy="535.713" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="04f8646a-d8c3-4ef8-9595-c78c917b24ac">
+        <title>Gazzeth</title>
+        <circle class="layer-point" cx="1434.745" cy="525.953" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="0fff6073-50c3-4836-8bff-3617974d6153">
+        <title>Wreck Graveyard</title>
+        <circle class="layer-point" cx="1411.115" cy="523.152" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="940580d7-cbde-4190-be41-21c6cfff9a3f">
+        <title>Kagang Su</title>
+        <circle class="layer-point" cx="2336.252" cy="881.889" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="96732c28-4b99-46db-8f49-02415e3ebf0c">
+        <title>Port Mir</title>
+        <circle class="layer-point" cx="1347.489" cy="547.042" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="0ba1f627-c9e0-411c-aacd-85f2b10c9eda">
+        <title>Shou Yang</title>
+        <circle class="layer-point" cx="2263.115" cy="783.027" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="135e5aa5-6175-4dc8-9794-3e616ab671fa">
+        <title>Lone Tower</title>
+        <circle class="layer-point" cx="1406.246" cy="518.288" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="33a01881-b6da-4573-8b56-dda89c15965b">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1638.71" cy="1233.65" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="3509a509-2bf6-41c3-af57-e3b1659973ba">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1692.313" cy="1137.246" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="354e0563-49b9-42fb-93ea-bdf9dc3a34bc">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1836.661" cy="1216.473" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="0e01482a-8924-4fd5-bd32-bdc77a0f1100">
+        <title>Chowok Pit</title>
+        <circle class="layer-point" cx="1982.811" cy="976.478" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="33b4bcb9-d558-4dd9-b36d-e6f8f4c4c145">
+        <title>Tan</title>
+        <circle class="layer-point" cx="2259.178" cy="871.893" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="a0838143-970f-4c3e-94a7-51aed150217f">
+        <title>Chasoiné</title>
+        <circle class="layer-point" cx="1432.582" cy="943.103" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="4320bcbf-fce0-4b04-8807-d09b4108b7f9">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1824.122" cy="1227.068" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="177a2620-f9db-4894-ae36-3770eeb5796c">
+        <title>Sumitra Tower</title>
+        <circle class="layer-point" cx="1970.194" cy="1004.692" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="6971aadb-bbc2-477f-9d36-842ff2c2a505">
+        <title>Fortress Clymph</title>
+        <circle class="layer-point" cx="1556.18" cy="543.226" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="45c8da64-39f3-42c5-9b9b-37eb59436bb9">
+        <title>Yûlash</title>
+        <circle class="layer-point" cx="1399.717" cy="527.335" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="47ca0a72-2c2e-4a70-9f8e-373fb42075c5">
+        <title>The Ruins</title>
+        <circle class="layer-point" cx="1211.208" cy="431.221" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="4909bde4-3ad6-46f1-894a-887ed5aa28d6">
+        <title>Inthar</title>
+        <circle class="layer-point" cx="1090.35" cy="498.403" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="4bb31924-f4b9-4016-a1b7-99797770a0fc">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1811.955" cy="1231.927" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="4c9c170d-a075-480e-82c8-426195d54bfd">
+        <title>Point Iron</title>
+        <circle class="layer-point" cx="1451.29" cy="528.384" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="7d23aab0-937a-44a9-b3ea-2ed5a550f5a1">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1728.529" cy="1086.815" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="54798783-0358-469c-8aaf-13201ad3aa73">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1764.384" cy="1196.632" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="55851c00-bfa1-4dd0-bd72-90fa7124619d">
+        <title>Miska</title>
+        <circle class="layer-point" cx="2264.876" cy="828.079" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="56f83780-f936-442c-b420-e6859970cdf0">
+        <title>Ruins of Dekanter</title>
+        <circle class="layer-point" cx="1278.45" cy="507.503" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="d4551185-e8cf-4783-b2e0-a6e2a40cdb30">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1853.13" cy="1160.166" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="278346db-3fbc-4737-94c2-b3ef17a7f168">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1804.161" cy="1197.991" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="534d28d1-3b0c-489e-807d-e56f1a81548b">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1796.101" cy="1155.798" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="5bbb1289-d538-4588-97e4-cc54ac62ddd2">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1953.624" cy="1017.604" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="8be1fc5b-65c8-4853-a432-973348d1dfa9">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1856.584" cy="1195.525" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="5ebbcbec-6192-4cce-9d91-a3e4bdf13661">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1846.089" cy="1203.77" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="6b8cfd45-5e7b-4b88-a356-16f83b132f24">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1848.56" cy="1143.407" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="70cc3221-b2b4-475c-ad85-cffa4a93f263">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1654.709" cy="1093.149" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="fd4d3ec8-b4b6-43e9-9ff3-e9523bc7cf32">
+        <title>Blaskaltar</title>
+        <circle class="layer-point" cx="1410.032" cy="788.762" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="781706c0-99ca-495e-af14-27598b49cde0">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1788.696" cy="1197.923" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="7fbad950-2618-4ae5-a785-6752d306cfc2">
+        <title>Sokkar</title>
+        <circle class="layer-point" cx="1734.137" cy="1041.669" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="83117b6f-b856-4632-b891-3feab5015274">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1767.519" cy="1192.006" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="840ce1ad-0572-44d6-bf69-16e206c2560a">
+        <title>Balanzia</title>
+        <circle class="layer-point" cx="2300.143" cy="825.627" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="85400a45-b8be-4b7e-8ae1-a34494aa1422">
+        <title>Elven Watchtower</title>
+        <circle class="layer-point" cx="1414.758" cy="526.957" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="8c48fd8d-f494-40bb-a224-5f71dd0580b0">
+        <title>House of the Black Hand</title>
+        <circle class="layer-point" cx="1140.578" cy="543.009" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="9496f528-0803-44ee-9ce5-f5572ce35464">
+        <title>Monrativi Teshy Mir</title>
+        <circle class="layer-point" cx="1254.564" cy="712.893" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="94fac7f7-6055-401a-94e7-ee979f648817">
+        <title>Nikaro Monument</title>
+        <circle class="layer-point" cx="2312.54" cy="852.383" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="98cc0141-162f-470e-9e89-7388dc7cd45b">
+        <title>Kaji-Men Point</title>
+        <circle class="layer-point" cx="2309.528" cy="833.802" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="99233f7d-3e45-4ab0-9f6f-798d7dc3b20c">
+        <title>Citadel Rashemar</title>
+        <circle class="layer-point" cx="1631.692" cy="561.312" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="9aa7f259-1c00-42f2-a667-d620c72fde1f">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1779.64" cy="1169.919" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="9e9b973a-a184-4ee9-a586-43e343e41732">
+        <title>Darkhorn Castle</title>
+        <circle class="layer-point" cx="1122.006" cy="585.251" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="9eb38fce-4ea0-4399-90ed-1bcfcbdde454">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1646.118" cy="1133.604" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="9f1486ae-04b2-433c-9b1d-dc5ae7179ec9">
+        <title>Doors of Shajar</title>
+        <circle class="layer-point" cx="1771.025" cy="1217.462" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="9fdd52fc-31bd-43b3-a861-a4632c860ea2">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1845.81" cy="1224.546" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="9fdedf2f-72c2-4db2-b168-40198b7f0963">
+        <title>Sampak</title>
+        <circle class="layer-point" cx="1944.127" cy="1036.937" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="9fdfdc99-cf62-4b9e-b9d6-e4a6d37cbccc">
+        <title>Ruins of Castle Perilous</title>
+        <circle class="layer-point" cx="1471.748" cy="496.544" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="a04b8281-a28d-4e83-81e6-8f7a3e3639a0">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1710.009" cy="1200.959" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="a0eee1a4-c370-45d5-82e9-0bc9b2416b51">
+        <title>Qi Dao</title>
+        <circle class="layer-point" cx="2354.388" cy="854.568" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="a1f52df8-d1fb-4ba9-80c6-beaf4d26e5e7">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1743.523" cy="1041.759" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="a245591c-b8df-4230-ac2d-4418d8bfe9b4">
+        <title>Elven Ruins</title>
+        <circle class="layer-point" cx="1422.702" cy="534.892" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="a47f553d-1f73-4710-9610-e06cc8611899">
+        <title>Ruins of Ordlin</title>
+        <circle class="layer-point" cx="1337.228" cy="543.796" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="a4828d64-c60a-4953-8b8b-40c0ce49c28b">
+        <title>Sulasspryn</title>
+        <circle class="layer-point" cx="1448.566" cy="521.322" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="a4865a37-f9c3-4570-8da5-9c1f7b437150">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1783.262" cy="1190.645" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="ac41b0ba-20dc-4a20-8f86-8071528d97b2">
+        <title>Dyogo</title>
+        <circle class="layer-point" cx="2354.629" cy="639.198" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="af0d05fb-c6cd-4418-bd5f-4d0f22804f2e">
+        <title>Ruins of Chonis&#x27; Temple</title>
+        <circle class="layer-point" cx="1318.144" cy="575.285" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="b0428a5b-9205-4bd7-80ba-b56700514ee2">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1853.966" cy="1152.827" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="b11368f9-7a72-43f5-87bd-d10470b0554f">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1850.733" cy="1226.527" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="b2069268-4ff7-4f63-8e1c-5f2cbe29c814">
+        <title>Frozen Flindyke</title>
+        <circle class="layer-point" cx="1417.357" cy="477.61" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="b2518e56-3a2d-47e5-8703-dae6a30b1e7e">
+        <title>Lhesper</title>
+        <circle class="layer-point" cx="1422.486" cy="782.57" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="b7228234-3512-49cb-b10b-80e68dfe7a05">
+        <title>Hulburg</title>
+        <circle class="layer-point" cx="1441.761" cy="523.449" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="ba959f42-71e2-4ae0-b22d-ae145f2c5319">
+        <title>Castle Tethyr</title>
+        <circle class="layer-point" cx="1234.452" cy="692.761" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="bc60a6c7-5ac2-4a84-abd0-6d1805375e8f">
+        <title>Delhumide</title>
+        <circle class="layer-point" cx="1605.966" cy="597.851" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="c18ac6dd-c0f5-42bb-b3f8-cb75e3e4518a">
+        <title>Kuo Meilan</title>
+        <circle class="layer-point" cx="2049.253" cy="573.19" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="ba14e64c-a75b-426e-862c-03a85fa5e4d6">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1687.206" cy="1052.108" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="c66625be-6a54-4df4-9f9b-98d0a6acdc01">
+        <title>Kuo Meilan</title>
+        <circle class="layer-point" cx="2000.103" cy="551.139" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="cb04c279-1b1a-4ddb-90fd-45bd26df5adc">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1791.256" cy="1149.144" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="cdf10f98-244b-44a3-a909-81e33b215da9">
+        <title>Big Cave</title>
+        <circle class="layer-point" cx="1120.463" cy="589.966" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="d04b8b1a-6e23-40e7-96b1-959f71dc8dfb">
+        <title>Ascore</title>
+        <circle class="layer-point" cx="1287.43" cy="432.97" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="d4f37b0d-9deb-41c0-9c28-67624e88ffe0">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1846.414" cy="1228.733" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="dddd48e6-e36d-4691-8cd1-77c6f21dac5e">
+        <title>Rauder Ruins</title>
+        <circle class="layer-point" cx="1715.663" cy="723.609" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="e0693360-2e76-459a-a595-e239dd35bd3c">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1790.507" cy="1213.873" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="e2d89d98-58ee-4881-80f7-c799bebff261">
+        <title>Settlestone</title>
+        <circle class="layer-point" cx="1220.628" cy="427.653" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="e3f2d1ce-d532-4476-8792-b1a946884c49">
+        <title>Abarats Folly</title>
+        <circle class="layer-point" cx="1407.399" cy="531.843" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="e8ddf04c-8d55-47e0-b641-84a883f80ffd">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1674.977" cy="1060.816" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="eb892dfe-a342-475c-bdd9-5a36ea9a683a">
+        <title>I&#x27;kuni Wanta</title>
+        <circle class="layer-point" cx="2302.549" cy="917.767" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="ed192042-b5be-460d-a0a5-6b44578826fa">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1820.306" cy="1128.048" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="ee7d33d4-20ab-4154-a17e-43b39aa28d7a">
+        <title>Ilimar</title>
+        <circle class="layer-point" cx="1444.399" cy="904.761" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="fa4f8762-523b-45d0-8080-7206ed752917">
+        <title>Fortress Narder</title>
+        <circle class="layer-point" cx="1559.91" cy="548.268" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="fba87ef6-cbd6-4a98-948a-f37f6d4e23d7">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1593.35" cy="812.67" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="ff3b3454-9abd-4554-8c37-49edd06a3487">
+        <title>Lis Ruins</title>
+        <circle class="layer-point" cx="1439.517" cy="535.668" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-fortification" data-feature-class="Fortification">
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="6782ce5c-5b54-436e-acae-257fa257a65b">
+        <title>Citadel Adbar</title>
+        <circle class="layer-point" cx="1269.818" cy="419.351" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="83e20fa2-3024-42e1-b368-599ec70c5509">
+        <title>Ruins of Inlarv&#x27;s Tower</title>
+        <circle class="layer-point" cx="1170.988" cy="484.378" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="936ed968-e79e-49fd-b36d-3ce570e51c9e">
+        <title>Barbarians&#x27; Camp</title>
+        <circle class="layer-point" cx="1157.837" cy="404.198" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="c0fe96c6-0524-4f73-b2e3-9467e50b60d1">
+        <title>Warlock&#x27;s Crypt</title>
+        <circle class="layer-point" cx="1204.702" cy="545.771" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ffbd6333-80a1-4bb7-8ede-9029c9da83e4">
+        <title>Hellgate Keep</title>
+        <circle class="layer-point" cx="1268.446" cy="449.33" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="31c74217-fb3f-422d-a788-6176a5e2c107">
+        <title>Erlaban</title>
+        <circle class="layer-point" cx="2137.354" cy="475.158" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="457d86ed-24f3-4772-ad1b-5aa43f2f7259">
+        <title>Vumbu Citadel</title>
+        <circle class="layer-point" cx="1855.045" cy="690.128" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="0c662049-82c6-42ed-853b-b2bf5d6c8705">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1696.994" cy="1078.657" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="0da235b4-e749-4dca-bf31-2ccb50092a1b">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1114.646" cy="596.64" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="06d0baae-6088-467d-8805-eb98606033b4">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1703.888" cy="1126.065" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="1786f019-ab42-4fb1-9c7b-f2795a20ec1e">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1658.053" cy="1182.263" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="08c30b9f-438e-48a2-bcb6-a72f42d857ac">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2155.428" cy="482.111" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="0c024059-c47b-4e27-a52b-0431d74cfc36">
+        <title>Tower Threespires</title>
+        <circle class="layer-point" cx="1566.045" cy="540.583" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="0de2d56f-6076-4eac-a76b-ec8a1151f0ff">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1672.302" cy="1109.561" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="20b6fc5a-1454-4a1e-b1b8-757977488461">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1659.493" cy="1189.407" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="217373d2-893e-459f-807a-b04c88b144b0">
+        <title>Slingdyke</title>
+        <circle class="layer-point" cx="1343.899" cy="567.8" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="22280dd8-03b1-4ca9-ac05-faf18dd60c87">
+        <title>Maligor&#x27;s Tower</title>
+        <circle class="layer-point" cx="1573.103" cy="620.907" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="1e39153c-f3be-4206-8382-5e3b8f145ce6">
+        <title>Xi&#x27;an</title>
+        <circle class="layer-point" cx="2130.78" cy="784.416" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="2bc50e93-9dae-41ae-a0ea-19a73ec6a025">
+        <title>Bhaluin</title>
+        <circle class="layer-point" cx="1715.771" cy="669.887" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="2dd268b2-9fb1-431f-8aad-053d2969f5d5">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1684.134" cy="1081.393" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="2e798332-dde1-4530-8f95-302a36a5d732">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1673.897" cy="1210.081" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="30a450d7-5e0c-486e-9037-075f0aedaa6b">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1735.319" cy="1119.637" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="35850760-a949-44b0-8c02-afdfc2ab1f6a">
+        <title>Argistikhin</title>
+        <circle class="layer-point" cx="2142.681" cy="470.344" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="35c3e29a-cd47-466e-ba7e-06c086e02734">
+        <title>Castle Craig</title>
+        <circle class="layer-point" cx="1347.996" cy="569.109" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="2ac8e468-3240-4c48-ac5d-2fefdf32e5a3">
+        <title>Thruldar</title>
+        <circle class="layer-point" cx="1612.982" cy="853.515" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="38f0975d-e071-4fac-902d-7fe2e52ee0e4">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2151.538" cy="485.131" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="3a1426f6-5375-4b94-8040-638033a4e054">
+        <title>Dragonspear Castle</title>
+        <circle class="layer-point" cx="1226.803" cy="534.823" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="3a6106f2-4a0c-4137-9bc9-058f2293ac52">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1623.278" cy="1176.724" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="3b009466-2935-4c07-9c1f-012118d7e36f">
+        <title>Krak al-Sajjaan</title>
+        <circle class="layer-point" cx="1762.921" cy="1203.97" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="292e2667-64a6-45d4-836c-313a4b2fec1a">
+        <title>Gate of Iron</title>
+        <circle class="layer-point" cx="1760.955" cy="766.052" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="29a7f236-ad16-4b3f-a707-c9122482923c">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1675.749" cy="1156.247" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="3bf2fb5d-23e3-410f-b2fd-64f1379477d7">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1704.196" cy="1130.113" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="3ddd0eb1-a616-406a-a3b7-fe765cbf8b71">
+        <title>Nighthawk Tower</title>
+        <circle class="layer-point" cx="1562.106" cy="537.339" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="40f1c168-a9c3-4675-824a-864853c8bfd7">
+        <title>Te Pachan Castle</title>
+        <circle class="layer-point" cx="2358.629" cy="817.279" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="544d764b-1146-47a8-a9d4-f3d597f57830">
+        <title>Kung Tower</title>
+        <circle class="layer-point" cx="2335.444" cy="907.539" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="547055a1-75f1-452d-84a9-0cc8bf4c5cd8">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1617.516" cy="1215.286" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="42e2ef1f-dbf1-47ae-a654-4f4f6c7764ad">
+        <title>Citadel of Raven</title>
+        <circle class="layer-point" cx="1392.747" cy="514.978" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="4353cf1d-fb57-4c9b-8bdb-caa342c4c392">
+        <title>Krak al-Uruj</title>
+        <circle class="layer-point" cx="1769.191" cy="1173.81" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="45c91ad6-02f4-4a89-baf2-0c36764e485b">
+        <title>Bumi Garnak</title>
+        <circle class="layer-point" cx="2023.923" cy="961.001" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="4bde6aa6-ca6f-4eef-baaf-00b04c45b4b7">
+        <title>Corwell</title>
+        <circle class="layer-point" cx="1118.294" cy="591.871" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="3b296bdc-6f90-49e0-a9f0-cf11cd1c641d">
+        <title>Quas al&#x27;Tarik</title>
+        <circle class="layer-point" cx="1784.919" cy="690.195" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="4f9a5446-c3dc-41ed-b2e9-87dfee28a8a1">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1697.116" cy="1043.622" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="5039c7ac-25b3-4610-9ecc-73f95a362efc">
+        <title>Lonely Tower</title>
+        <circle class="layer-point" cx="1244.821" cy="408.118" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="505553c9-c3ac-417b-8ba2-518726dd93db">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1652.548" cy="1305.139" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="53bd7bd2-e628-4f24-89b3-da475662fa5b">
+        <title>Krak al-Niraan</title>
+        <circle class="layer-point" cx="1733.909" cy="1048.494" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="53be7969-eb6b-40ff-baaa-a88417d8af01">
+        <title>Rogarsheim</title>
+        <circle class="layer-point" cx="1099.13" cy="556.405" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="19c1e3eb-5cda-4e63-82f5-69e12afa5ec6">
+        <title>Caer Allisynn (1st location)</title>
+        <circle class="layer-point" cx="1130.319" cy="585.216" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="2dfbb948-f949-439f-ab39-527a1196cb80">
+        <title>Great Spire</title>
+        <circle class="layer-point" cx="1746.442" cy="423.947" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="48ed7184-5aa9-4fa6-8f3b-6296ffcc121f">
+        <title>Sea Tower</title>
+        <circle class="layer-point" cx="1167.761" cy="668.127" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="580c8752-4510-4b2a-8bec-941705cd6aa5">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1663.505" cy="1200.156" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="59c781c5-780d-4341-a955-4f456a58d2c1">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1693.496" cy="1109.359" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="5b76d56b-2c6a-430d-8932-ae6b18f4c0f8">
+        <title>Quas al-Hasani</title>
+        <circle class="layer-point" cx="1763.712" cy="699.36" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="5b8baca3-3c81-4b01-ba17-1359820df119">
+        <title>Dien Nyo</title>
+        <circle class="layer-point" cx="2351.666" cy="886.924" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="7b8a49b4-ec5d-4b49-911d-57050ada1fac">
+        <title>Ironfang keep</title>
+        <circle class="layer-point" cx="1455.834" cy="531.086" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="5cca0efa-e9dc-4638-8e4b-447d4cc36e8e">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2139.209" cy="475.814" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="5fa3d769-7ca0-4244-b3d5-72c85991352b">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1619.008" cy="1111.385" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="5fceaf99-78a3-43cf-ab75-dbee548ee05e">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1663.351" cy="1084.839" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="6857490e-9c6c-48a1-8e6e-0a57f886702b">
+        <title>Tordraken</title>
+        <circle class="layer-point" cx="1191.491" cy="650.072" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="68a6c03e-bbe2-442d-99eb-19e9fea36b25">
+        <title>Semkhrun</title>
+        <circle class="layer-point" cx="1735.719" cy="699.519" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="6ac9ad05-df37-48fc-a1db-b20493cdcefc">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1831.321" cy="1212.544" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="70a873c7-447f-425a-bd94-4812e5f7adb6">
+        <title>High Horn</title>
+        <circle class="layer-point" cx="1324.367" cy="571.271" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="75028008-4051-40ca-98fd-b6e2d2579196">
+        <title>Jorhat Citadel</title>
+        <circle class="layer-point" cx="1793.473" cy="714.532" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="75407742-e7a2-44b2-8d53-ddf3bc4900ac">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1807.853" cy="1246.171" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="75e7cbb3-dc1f-46a6-85ef-f783104f0e6b">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1638.865" cy="1074.4" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="7e4e78a1-6e89-47ac-b094-1727837f8bab">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1683.054" cy="1145.234" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="8031c559-9eaa-49df-b2dd-1d73319ce066">
+        <title>Nodo&#x27;ung Garrison</title>
+        <circle class="layer-point" cx="2334.459" cy="929.061" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="819127d3-645d-4608-ae87-78b6b3e08808">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1633.875" cy="1169.971" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="846d16ed-21c4-4e5b-87df-dd87717e9e9f">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1718.652" cy="1154.631" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="89118f84-5765-44b0-9e18-59138a130d9f">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1693.87" cy="1274.999" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="8aa5e44b-4953-422a-a8a9-a953af3d41de">
+        <title>Quenche</title>
+        <circle class="layer-point" cx="2250.46" cy="928.522" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="8e09c2a5-237d-4abe-a0df-9ce7cdd539c5">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1629.502" cy="1118.777" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="8eda9b7b-c66c-450b-a763-1077544069c2">
+        <title>Taihe</title>
+        <circle class="layer-point" cx="2178.601" cy="788.505" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="8f992dc3-80d2-4ac6-8966-4e183f4c308e">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1719.732" cy="1130.619" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="91cffafa-7f6b-421b-b642-c0d80a376474">
+        <title>Tiger&#x27;s Nest</title>
+        <circle class="layer-point" cx="1802.168" cy="743.153" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="931b874e-dd94-476f-9e67-6bead6c36311">
+        <title>Rartu</title>
+        <circle class="layer-point" cx="2145.493" cy="466.155" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="958294e6-1e83-437c-a745-16a7bf6d64c0">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1649.41" cy="1181.156" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="95a7bde7-30f7-4509-bb3e-18dbfcf9688c">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1618.493" cy="1102.268" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="95ac73ff-7860-4cb4-ba44-31afcc4bc494">
+        <title>Fortress of the Old Man</title>
+        <circle class="layer-point" cx="1764.85" cy="633.699" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="96f6a84c-2b93-4c9f-8f2b-dd0ba2ed90dd">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1741.904" cy="1193.93" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="9b55025c-9f22-42f5-8e58-005f726e653e">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1691.799" cy="1154.53" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="9cb3f4cd-9ce0-4a66-b248-27f13ce60b37">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2142.381" cy="493.195" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="9d508370-cce2-4993-82fa-20c8578f8d49">
+        <title>Hand of the Sky</title>
+        <circle class="layer-point" cx="1730.072" cy="1092.693" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="9f06dd99-47dd-4a30-bfc5-b82efa27be6d">
+        <title>Citadel</title>
+        <circle class="layer-point" cx="1583.378" cy="601.364" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="9f0d1635-df1d-48fd-b175-5e24d783ee9a">
+        <title>Orc Fort</title>
+        <circle class="layer-point" cx="1422.426" cy="518.214" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="a6b0a4c6-e901-444b-ae8e-b7ab59ca6fb5">
+        <title>Haunted Halls</title>
+        <circle class="layer-point" cx="1335.785" cy="572.84" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ab046533-3c08-4022-aeb3-43172f9e9880">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1641.745" cy="1080.582" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ab1bf880-758d-4bc4-ac91-186f3ccb0eb2">
+        <title>Dar al Kalif</title>
+        <circle class="layer-point" cx="1747.144" cy="673.231" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ab6ec021-aaf4-4c3d-b6b5-0445a75aedac">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1664.997" cy="1097" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="adfa85b4-ea29-4def-84da-871b525f26de">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1646.838" cy="1203.266" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="b09ba655-01df-4ef6-8d5c-38eea8bb11c7">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1686.089" cy="1129.709" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="b1659a66-dfe7-4145-ade1-60ab213a0e9c">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2132.686" cy="489.156" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="b3b265d1-29dd-495f-8fd3-b15ce076aed9">
+        <title>We&#x27;peng Garrison</title>
+        <circle class="layer-point" cx="2338.888" cy="895.619" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="b4bdc7d0-144b-4620-9778-851a9b598d24">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2149.204" cy="472.725" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="b8e8973d-7279-43a4-be24-884a435e2c24">
+        <title>Blackthorne Manor</title>
+        <circle class="layer-point" cx="1180.955" cy="653.216" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="bcf66622-d19a-444c-9aae-861746cad3bb">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2154.949" cy="486.455" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="be50d44a-ab31-4537-9f5c-68a79f516c79">
+        <title>Palace of Balinalkai</title>
+        <circle class="layer-point" cx="2190.917" cy="448.173" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="be5dd472-c7fd-4f02-8e01-90589020f32d">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1608.548" cy="1273.812" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="bf5b393f-9d67-4ff4-9bac-6391de2f0dfe">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1650.954" cy="1135.729" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="c07f621b-172f-42b2-b52b-171d7b386949">
+        <title>Westphal</title>
+        <circle class="layer-point" cx="1136.781" cy="592.459" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="c261554b-378b-47f4-ab3f-f58246db9f23">
+        <title>Punakha Dzong</title>
+        <circle class="layer-point" cx="1855.822" cy="723.001" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="c3d23efe-8441-46b3-a810-e785df0b8cbf">
+        <title>Mythral Hall</title>
+        <circle class="layer-point" cx="1222.107" cy="426.53" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="c4d7c8be-7836-44cc-b7c8-ef645a97a238">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1639.173" cy="1112.093" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="c5934341-0b7a-4d9b-adb2-2a2d7a9db5e2">
+        <title>The Lonely Tower</title>
+        <circle class="layer-point" cx="1244.836" cy="407.984" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="f793244b-2aa6-4c4e-a445-824f0e931002">
+        <title>Forgotten Keep</title>
+        <circle class="layer-point" cx="1338.665" cy="570.01" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="c8e9199c-a10b-4758-b038-6d6aaaa0cb08">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1669.576" cy="1208.278" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="cac77cfa-e1b0-49c4-a609-ff49cc6fbcb6">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1734.393" cy="1099.685" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="cb9dc95b-9fdb-4e86-b997-326c9d1833d0">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2140.047" cy="480.322" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="cc256724-2746-47fc-b316-510da223efb1">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2151.179" cy="469.412" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="cc84ce43-6e1f-4b90-9b2d-f89df5c971b4">
+        <title>Winterkeep</title>
+        <circle class="layer-point" cx="1738.83" cy="545.261" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="cd3b4ec1-08fb-4fc9-8dc0-e0aa356a2986">
+        <title>Wenxiang Garrison</title>
+        <circle class="layer-point" cx="2100.018" cy="933.462" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ceb88bf0-d22a-46a6-afdb-ead045496cdd">
+        <title>Pit of the Laughing Efreeti</title>
+        <circle class="layer-point" cx="1721.121" cy="1098.773" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="d19400c9-1853-4213-892d-6b8690fd825d">
+        <title>Szass Tam&#x27;s Keep</title>
+        <circle class="layer-point" cx="1586.358" cy="617.757" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="d1da7240-6db9-4f34-ad07-bcbda3704fa4">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1611.446" cy="1167.652" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="d328a98a-c896-4125-898f-d778008f900e">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1638.762" cy="1122.32" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="d8705e6b-b66c-4cc5-96d6-d4a701354f6a">
+        <title>Sekras</title>
+        <circle class="layer-point" cx="1580.285" cy="726.032" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="d9c0496f-8dd7-43d5-bcff-b5021e4baf28">
+        <title>Teishaban</title>
+        <circle class="layer-point" cx="2123.709" cy="482.111" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="da41aebb-c94b-441b-b8d8-a7729e129b5e">
+        <title>Sumbrar</title>
+        <circle class="layer-point" cx="903.769" cy="563.426" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="dae46e7e-4a6f-4d46-919a-d0b29fec48b9">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2147.169" cy="470.344" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="dc094f46-69fd-4f97-b0b2-ec11e932ef74">
+        <title>Wafang Garrison</title>
+        <circle class="layer-point" cx="2161.039" cy="936.694" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="dc369504-eada-4a5b-a90a-df2ec62c04c3">
+        <title>Sea Tower</title>
+        <circle class="layer-point" cx="1172.694" cy="644.816" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="dcc14332-67c9-4468-8bfa-972f0d2f69ae">
+        <title>Moray</title>
+        <circle class="layer-point" cx="1095.993" cy="575.213" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="dd2d43c5-57d1-49e6-97be-32dd577cc8bf">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1614.635" cy="1220.585" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ddc95f47-69dc-4c4e-bbf9-52b84abbd7d5">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2275.674" cy="857.346" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="de012dc7-bf9a-48aa-98ee-db7317c7f1b4">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2153.812" cy="478.864" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="e00b90b4-bb41-4ff9-a92f-405790ef8888">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1675.594" cy="1125.661" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="e3c61749-c844-4418-959c-0d24828403df">
+        <title>The Dwarven Halls</title>
+        <circle class="layer-point" cx="1201.872" cy="474.114" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="e7215526-7b5e-4926-a819-d261c9c23caa">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1628.525" cy="1204.269" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="e874f43e-c745-40aa-a150-b97402ce695d">
+        <title>Darkhold</title>
+        <circle class="layer-point" cx="1295.499" cy="577.094" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ec356437-9a0e-4b98-8144-fbe2c6e934ed">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1688.641" cy="1016.413" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ed49930e-ef6c-40ba-b65f-4c0acc77b848">
+        <title>Olbi</title>
+        <circle class="layer-point" cx="697.506" cy="749.355" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="eea191a2-6320-4cc8-8a2a-63ae9911ae7e">
+        <title>Jiayu</title>
+        <circle class="layer-point" cx="2168.091" cy="806.848" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ef114086-d1a9-45f9-a9b6-454eacc407e0">
+        <title>Palace of the Purple Emperor</title>
+        <circle class="layer-point" cx="1693.7" cy="725.628" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="ef7cf372-02bd-40a9-988f-47e18a0d61bd">
+        <title>Many Windowed Tower</title>
+        <circle class="layer-point" cx="1690.691" cy="494.942" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="f0a9cbe6-939e-4fed-9521-1632ac3b5ede">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1637.579" cy="1150.994" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="f238b699-f59f-48ef-bcd4-c40a9699d619">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1620.294" cy="1167.45" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="f31d562e-a5be-4f1c-8b05-6b6d106bc278">
+        <title>Sorcerer&#x27;s Tower</title>
+        <circle class="layer-point" cx="1417.89" cy="519.027" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="f5b60ccc-2c2b-4a7d-94b7-1aee31a5d0c8">
+        <title>S&#x27;ian Li Garrison</title>
+        <circle class="layer-point" cx="2280.523" cy="816.09" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="f77fe792-aa02-481d-9b94-4b175f8b5309">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1673.177" cy="1201.26" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="fc54784d-d148-4056-ba2c-aec293cccf59">
+        <title>Tewahca</title>
+        <circle class="layer-point" cx="721.301" cy="824.515" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="fe2d5c2b-64a0-450c-996c-1c118d77b661">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1724.619" cy="1114.777" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="fe37da61-65cd-4d4b-ba11-cbbaed77a820">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2125.923" cy="484.942" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-other" data-feature-class="Other">
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="12fa7453-1955-46b2-800c-9b52254b18df">
+        <title>The Fork</title>
+        <circle class="layer-point" cx="1276.6" cy="434.4" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="0beb6382-5bf7-4ee6-91a3-5889527b0705">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2172.047" cy="757.852" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="1e8b8223-fde0-4f54-a7ba-259b95139683">
+        <title>T&#x27;hai Salt Flats</title>
+        <circle class="layer-point" cx="2256.541" cy="865.95" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="2399be30-ac25-45bf-ab00-980d2555484c">
+        <title>Cielij</title>
+        <circle class="layer-point" cx="2162.729" cy="490.58" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="2cbf0701-5104-4cc4-b347-f44884d44e50">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1795.925" cy="1123" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="2dd023e3-de5a-4660-a286-e6f346c08fa2">
+        <title>Khan&#x27;s Camp</title>
+        <circle class="layer-point" cx="1799.116" cy="600.526" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="2ff271f0-8ba1-4952-97c2-89d967718327">
+        <title>Sunstone</title>
+        <circle class="layer-point" cx="737.513" cy="801.166" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="3682522f-016a-4597-90b7-7c9ae80cc95a">
+        <title>Muradi Lighthouse</title>
+        <circle class="layer-point" cx="2388.32" cy="578.993" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="1b0f9f86-3d5e-462d-85bf-8282c54a29a2">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1691.922" cy="1001.192" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="46312bc4-f17c-46c3-8555-156e5eb85ccd">
+        <title>Giants Cairn</title>
+        <circle class="layer-point" cx="1413.021" cy="517.648" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="772bbd8b-7546-453a-8e42-1b8339bd53fe">
+        <title>Kiysym</title>
+        <circle class="layer-point" cx="2135.619" cy="471.231" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="a39ee1ba-594f-4d56-b276-3f2ec4172bc3">
+        <title>Bandit City</title>
+        <circle class="layer-point" cx="1528.592" cy="748.905" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="7da7cc08-c9e1-41dd-aeb5-03c8668ee081">
+        <title>Castle Spulzeer</title>
+        <circle class="layer-point" cx="1274.006" cy="668.877" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="edb7c323-b0ef-4c60-b042-a7a7acf7c1b4">
+        <title>Grunchik</title>
+        <circle class="layer-point" cx="2144.835" cy="492.862" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="84ebeeb9-6a66-432f-b2c4-f5e74f6dba19">
+        <title>Siremund&#x27;s Stand</title>
+        <circle class="layer-point" cx="1742.594" cy="603.712" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="8ae9a46b-4685-430a-b57c-6ec32da5b99d">
+        <title>Summer Palace</title>
+        <circle class="layer-point" cx="868.609" cy="552.215" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="a0ce266d-0b75-45fd-b961-1720acaab11a">
+        <title>Gold Mine</title>
+        <circle class="layer-point" cx="1589.652" cy="612.941" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="a657f6ed-3f33-4011-942e-14d9bd98095a">
+        <title>Karoah</title>
+        <circle class="layer-point" cx="2156.445" cy="476.564" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="ac59f822-a89b-4684-9feb-80d08ee6827a">
+        <title>Elvas&#x27;s Lighthouse</title>
+        <circle class="layer-point" cx="1424.294" cy="530.679" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="bca52529-218f-4cd8-adae-5204fa4f6ef7">
+        <title>Anping</title>
+        <circle class="layer-point" cx="2303.225" cy="862.972" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="c4a75648-052c-42a1-ac9d-d85a0e9b5517">
+        <title>Kizun</title>
+        <circle class="layer-point" cx="2158.66" cy="492.196" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="df4c5046-ee11-4535-afdd-adb7437ae79f">
+        <title>Underwater Realm of the Wizard</title>
+        <circle class="layer-point" cx="1091.537" cy="602.58" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="e190f053-fba4-4071-b7f6-f2c3eca98b34">
+        <title>Caer Allisynn (2nd location)</title>
+        <circle class="layer-point" cx="1110.443" cy="557.819" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="e8a17a62-8f36-4402-a3c6-ea9adb5c1f12">
+        <title>Morochiy</title>
+        <circle class="layer-point" cx="2157.941" cy="471.277" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="ea7c3e2a-c21b-4a55-b142-c33dde45ac4b">
+        <title>Red Scourge</title>
+        <circle class="layer-point" cx="1580.946" cy="648.398" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="ecc8d8ae-b458-4dcc-a31e-64e4795a4e34">
+        <title>Dalton&#x27;s Lighthouse</title>
+        <circle class="layer-point" cx="1441.294" cy="533.766" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Other" data-uuid="f30de622-5f0b-4813-8522-aa242a21786b">
+        <title>Bell in the Depths</title>
+        <circle class="layer-point" cx="1430.965" cy="530.654" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-oasis" data-feature-class="Oasis">
+      <g class="feature feature-class-oasis" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Oasis" data-uuid="0e344cc8-d8e4-4124-9169-6c48ce113cbb">
+        <title>Oasis of the Desert Mosque</title>
+        <circle class="layer-point" cx="1623.565" cy="1117.773" r="2" />
+      </g>
+      <g class="feature feature-class-oasis" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Oasis" data-uuid="1c5d8e08-d70c-43f4-8da2-affc991d21d4">
+        <title>Ni-Ko Oasis</title>
+        <circle class="layer-point" cx="1787.408" cy="549.696" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-temple" data-feature-class="Temple">
+      <g class="feature feature-class-temple" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Temple" data-uuid="1818b322-1460-4f75-aed6-df27e9d2bbb3">
+        <title>Mucklestones</title>
+        <circle class="layer-point" cx="1557.784" cy="550.257" r="2" />
+      </g>
+      <g class="feature feature-class-temple" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Temple" data-uuid="354fd533-d191-4ed0-ba8e-a253e5a73ae3">
+        <title>Temple of Dayr</title>
+        <circle class="layer-point" cx="1767.504" cy="687.332" r="2" />
+      </g>
+      <g class="feature feature-class-temple" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Temple" data-uuid="46850b3f-76ed-4769-bb92-edc9a29b3150">
+        <title>Shrine of the Heart</title>
+        <circle class="layer-point" cx="1126.071" cy="831.238" r="2" />
+      </g>
+      <g class="feature feature-class-temple" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Temple" data-uuid="5b3b9b43-2082-4686-8491-b5a57bab5675">
+        <title>Temple of the Serpentine Empress</title>
+        <circle class="layer-point" cx="1761.985" cy="1224.271" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-battlefield" data-feature-class="Battlefield">
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="0e6131d9-3917-40a2-90dd-df5c1de50af2">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1652.291" cy="1173.399" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="1bbb1783-0d8f-49a0-bbb0-15b8c325d492">
+        <title>1st Mulhorand War</title>
+        <circle class="layer-point" cx="1710.673" cy="657.734" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="1d480b90-de00-4e25-8549-4f61edc0b8da">
+        <title>Battle of South Horn</title>
+        <circle class="layer-point" cx="1334.129" cy="571.433" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="337f8a0e-2607-4778-8ad0-56f201be3092">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1615.921" cy="1102.673" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="0346ce10-5cff-4155-a3ff-5cd28980d72f">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1522.704" cy="515.314" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="4232e0a0-de7d-48c4-be54-a8febee6c9d5">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1616.693" cy="1206.174" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="2ed9eaed-d8be-4197-a442-7d0f66cc65b5">
+        <title>Sculls in the Sands</title>
+        <circle class="layer-point" cx="1310.534" cy="519.303" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="554e1f63-6ae7-424e-8333-7dca8988cc56">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1638.453" cy="1084.941" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="635a40b7-f875-4edd-b12a-44b125146510">
+        <title>Battle of the Bones</title>
+        <circle class="layer-point" cx="1300.057" cy="551.671" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="62ea273f-aecc-4207-a34e-76b161ae16a6">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1729.043" cy="1148.569" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="699791a8-9678-4118-a49a-0ea4707af279">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1517.522" cy="516.145" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="77ecf97d-42a1-4061-a024-a4321fbe11d5">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1734.907" cy="1140.684" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="9962fc11-29a3-4e64-83ce-b584fc5a6c8f">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1630.325" cy="1083.623" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="9b83fbdd-6900-413d-afd1-eface8228595">
+        <title>Rout of the Cassidi</title>
+        <circle class="layer-point" cx="1682.123" cy="634.156" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="9c1c3cb9-8a9d-4d05-96ab-f027610f5c4f">
+        <title>Defeat of Masoul Khan</title>
+        <circle class="layer-point" cx="1769.065" cy="632.009" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="9f34e406-843d-4868-8592-67fa7f2e3150">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1617.619" cy="1218.986" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="a382ef01-9664-4c48-8352-4607cc7fba7d">
+        <title>Battle of Smokehole</title>
+        <circle class="layer-point" cx="1745.732" cy="606.064" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="a61065bf-68db-4d34-876a-3be38bd15511">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1614.892" cy="1092.744" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="ae07669a-4038-4dfd-9628-dc6d0570e93c">
+        <title>2nd Mulhorand War</title>
+        <circle class="layer-point" cx="1714.673" cy="660.33" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="f7a25031-18d7-4971-ad5c-5975fdd16691">
+        <title>Three Dead Camels</title>
+        <circle class="layer-point" cx="1344.104" cy="554.105" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="cac1e5dc-16e3-4657-a70a-eb66307a2986">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1675.313" cy="1039.042" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="df9ef499-3934-44d2-8147-37cc336c5867">
+        <title>Battle of the Fallen Pretender</title>
+        <circle class="layer-point" cx="1729.418" cy="663.292" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="e00ef786-8205-49c5-867f-beeb24b40ae2">
+        <title>Shouk&#x27;s Ambush</title>
+        <circle class="layer-point" cx="1347.675" cy="561.009" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="efe46731-3055-40d7-9b7a-d55345e16278">
+        <title>Battle of Broken Bones</title>
+        <circle class="layer-point" cx="1344.29" cy="559.952" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="f1121504-ce73-44d3-b4dd-68ad9fe51f06">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1669.061" cy="1146.851" r="2" />
+      </g>
+      <g class="feature feature-class-battlefield" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Battlefield" data-uuid="f45455ce-cfd9-44f2-b73f-7faf40ffa30d">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1613.915" cy="1218.086" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-water-source" data-feature-class="Water Source">
+      <g class="feature feature-class-water-source" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Water Source" data-uuid="28bd1d5e-fc0e-4b0b-8508-284dd92a463c">
+        <title>Iris Well Spring</title>
+        <circle class="layer-point" cx="1766.118" cy="655.732" r="2" />
+      </g>
+      <g class="feature feature-class-water-source" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Water Source" data-uuid="490444f8-5418-4ec3-9f20-e2a4a77832ab">
+        <title>Bright Beacon Springs</title>
+        <circle class="layer-point" cx="1790.14" cy="565.27" r="2" />
+      </g>
+      <g class="feature feature-class-water-source" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Water Source" data-uuid="727aa07d-265e-499a-9e0d-4fdf3344b1a9">
+        <title>T&#x27;kon Chi Springs</title>
+        <circle class="layer-point" cx="2287.074" cy="830.736" r="2" />
+      </g>
+      <g class="feature feature-class-water-source" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Water Source" data-uuid="7a126772-965a-424b-bde4-99564fb94c2a">
+        <title>Hot Springs</title>
+        <circle class="layer-point" cx="1454.153" cy="496.931" r="2" />
+      </g>
+      <g class="feature feature-class-water-source" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Water Source" data-uuid="816719d0-7cad-4c95-8f89-439c2bf8465e">
+        <title>Jade Gate Spring</title>
+        <circle class="layer-point" cx="1954.261" cy="628.03" r="2" />
+      </g>
+      <g class="feature feature-class-water-source" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Water Source" data-uuid="f0e43238-de24-4a14-8228-f4744ade543f">
+        <title>Flowery Pond Well</title>
+        <circle class="layer-point" cx="1836.972" cy="582.827" r="2" />
+      </g>
+      <g class="feature feature-class-water-source" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Water Source" data-uuid="f4b79a05-1d89-40a5-89c9-8f196b6a33f9">
+        <title>Neachal Fountain</title>
+        <circle class="layer-point" cx="1894.066" cy="726.843" r="2" />
+      </g>
+      <g class="feature feature-class-water-source" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Water Source" data-uuid="f6f63895-4a08-40bb-bf03-02e197b2ab76">
+        <title>Well of Dragons</title>
+        <circle class="layer-point" cx="1300.051" cy="561.004" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-unclassified" data-feature-class="Unclassified">
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="2d1c1e5c-42c5-4abf-9b5e-5ab54c0a87a0">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1711.656" cy="1157.459" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="32e8ce26-8d49-4af8-972d-2f7c3489f307">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2143.392" cy="787.483" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="5c274c4c-0891-408c-9909-a4500510dac8">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1720.812" cy="1185.584" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="833cda30-cd70-4930-ac92-73b2b3480a52">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1736.965" cy="1196.039" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="845252e9-2902-4c5b-8945-355d29ca6723">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2160.924" cy="756.913" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="8a1c7b0f-3478-4a1f-868b-8c7c84aaab60">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1740.155" cy="1114.878" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="a8c3c466-7c55-4fe8-8521-897e60100110">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1722.87" cy="1195.738" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="b87530c5-d04f-4835-be6e-c3ef3009369f">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1732.953" cy="1158.973" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="c5cd2a9f-5231-48c5-9419-077d39542568">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1710.627" cy="1202.664" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="fdf6ad8c-a9ce-414b-9867-47fdad7fe9d5">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1655.892" cy="1188.602" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="cf2ef4b1-fdfd-40ab-b7cf-4d6e33109d92">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2187.955" cy="803.975" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="cfa3f35c-96b9-4707-8e8c-9e2eb5475162">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1727.191" cy="1146.851" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="d1f336f4-377f-4511-b1f7-e293a62bf47a">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1737.274" cy="1181.961" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="e8ff98e6-62a0-4e05-931a-4beffc0cad46">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="2185.748" cy="790.449" r="2" />
+      </g>
+      <g class="feature feature-class-unclassified" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Unclassified" data-uuid="f3006544-7871-4153-bd6b-b7965cc03483">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1732.438" cy="1209.48" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-mine" data-feature-class="Mine">
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="364b5959-a1fb-446c-b694-5d3ad2d19777">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1092.456" cy="575.274" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="0da7c93e-e61a-4bf5-8b7d-b3bc60f489f1">
+        <title>Howser&#x27;s Mine</title>
+        <circle class="layer-point" cx="1529.792" cy="514.483" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="3a72c7c8-8ca0-46a1-a915-98a5304001a7">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1135.083" cy="590.566" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="29dc3120-0c20-46cd-adb6-529a66839fd6">
+        <title>Wyrmheart Mine</title>
+        <circle class="layer-point" cx="1099.332" cy="836.112" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="44ef50b8-92d3-45c5-a9bc-ddfc729f53ce">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1135.507" cy="588.985" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="4765dce6-c995-48c3-a51c-63a4dbc8e25a">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1126.993" cy="555.613" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="519dbc93-33c8-45a6-98d0-ec63a00a93ec">
+        <title>Mine of Cursed Gold</title>
+        <circle class="layer-point" cx="1318.144" cy="582.207" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="5c1b0a3b-c6a0-499d-a6d2-ac3305279b32">
+        <title>Mines of Tethekel</title>
+        <circle class="layer-point" cx="1619.456" cy="557.061" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="61f954ec-29aa-4a55-acbe-32c68accf91c">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1128.597" cy="555.991" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="66985793-389d-46c7-a0b6-bb7e3312b3aa">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1122.56" cy="586.177" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="6b02f3ef-a134-4431-adf8-73a6e0a8f2e4">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1262.949" cy="415.962" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="80b32ffb-23bc-4a03-bb59-5f3c62db2e30">
+        <title>Wai Mines</title>
+        <circle class="layer-point" cx="2280.969" cy="891.752" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="9009cd80-6d8e-44ac-a588-bc89b4028750">
+        <title>Gold Mine</title>
+        <circle class="layer-point" cx="1589.966" cy="608.213" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="9ba3a692-1e79-4884-8530-b037ba6d84a7">
+        <title>Mines of Tethyamar</title>
+        <circle class="layer-point" cx="1370.437" cy="523.707" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="9c08d9a0-3178-4247-8808-4949dc0365f2">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1123.645" cy="587.96" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="9db0f0cc-fef5-4eb3-bdaf-88fc3d557faa">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1136.286" cy="550.827" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="c78ab461-2fb0-4c13-8b76-37592938a148">
+        <title>Gold Mine</title>
+        <circle class="layer-point" cx="1588.083" cy="608.144" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="d2c89969-e5ed-4025-a618-c0d01515379e">
+        <title>Go S&#x27;tena Quarries</title>
+        <circle class="layer-point" cx="2316.503" cy="847.262" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="e8bfd9e4-0e9f-4f4d-83f6-331ed059614d">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1122.937" cy="587.406" r="2" />
+      </g>
+      <g class="feature feature-class-mine" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Mine" data-uuid="ffa91870-57c2-4c98-9246-e78867542fde">
+        <title>unnamed</title>
+        <circle class="layer-point" cx="1131.38" cy="553.207" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-monastic-site" data-feature-class="Monastic Site">
+      <g class="feature feature-class-monastic-site" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Monastic Site" data-uuid="373ac63e-122d-4e81-a050-51aa6e9e2bb4">
+        <title>M&#x27;Tsin</title>
+        <circle class="layer-point" cx="1970.201" cy="835.466" r="2" />
+      </g>
+      <g class="feature feature-class-monastic-site" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Monastic Site" data-uuid="8d11cb8d-2322-4e9a-8011-e605ba8582c9">
+        <title>Stung Monastery</title>
+        <circle class="layer-point" cx="2262.261" cy="921.77" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-inn" data-feature-class="Inn">
+      <g class="feature feature-class-inn" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Inn" data-uuid="3ab8b4f5-cd3a-4c2d-aef8-e73e00df532e">
+        <title>The Halfway Inn</title>
+        <circle class="layer-point" cx="1292.366" cy="528.067" r="2" />
+      </g>
+      <g class="feature feature-class-inn" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Inn" data-uuid="68e17541-da71-4201-aae0-675e2521d84f">
+        <title>The Way Inn</title>
+        <circle class="layer-point" cx="1207.12" cy="522.2" r="2" />
+      </g>
+      <g class="feature feature-class-inn" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Inn" data-uuid="c565749b-3b09-49d6-a8f5-2e660b6e9a15">
+        <title>Roosting Griffon Inn</title>
+        <circle class="layer-point" cx="1189.556" cy="503.857" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-hill" data-feature-class="Hill">
+      <g class="feature feature-class-hill" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Hill" data-uuid="3e298ab8-6678-4dc0-affb-cd6c9c947c52">
+        <title>Namaskar Hill</title>
+        <circle class="layer-point" cx="2144.237" cy="475.954" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-tomb" data-feature-class="Tomb">
+      <g class="feature feature-class-tomb" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Tomb" data-uuid="4e53c15b-ed5d-46c6-8811-8e0f9c274db4">
+        <title>Jabir&#x27;s Tomb</title>
+        <circle class="layer-point" cx="1653.114" cy="1180.955" r="2" />
+      </g>
+      <g class="feature feature-class-tomb" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Tomb" data-uuid="80ee7840-0b96-413b-b50c-6538b5ebb964">
+        <title>Zanda Tholing</title>
+        <circle class="layer-point" cx="1859.286" cy="736.643" r="2" />
+      </g>
+      <g class="feature feature-class-tomb" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Tomb" data-uuid="8cd27a11-9417-4810-8c0a-47bf8e41a8b5">
+        <title>E&#x27;say Shrine</title>
+        <circle class="layer-point" cx="2343.889" cy="875.478" r="2" />
+      </g>
+      <g class="feature feature-class-tomb" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Tomb" data-uuid="c4e5b518-619c-44df-ad25-169fa1fb9c88">
+        <title>Tomb of the Great Conqueror</title>
+        <circle class="layer-point" cx="1684.006" cy="637.49" r="2" />
+      </g>
+      <g class="feature feature-class-tomb" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Tomb" data-uuid="d5f5abbf-77ef-444d-a74f-8a82a72c63c3">
+        <title>Tomb of Faraz Khan</title>
+        <circle class="layer-point" cx="1701.026" cy="635.574" r="2" />
+      </g>
+      <g class="feature feature-class-tomb" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Tomb" data-uuid="e27faa61-fdb0-4a95-9a5b-3ce2c0a21bf3">
+        <title>Putin Shrine</title>
+        <circle class="layer-point" cx="2098.355" cy="1034.056" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-shipwreck" data-feature-class="Shipwreck">
+      <g class="feature feature-class-shipwreck" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Shipwreck" data-uuid="533ddd8c-6cbe-458b-9342-fcabf48059ae">
+        <title>Mermaid Sword</title>
+        <circle class="layer-point" cx="1160.209" cy="585.072" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-farm" data-feature-class="Farm">
+      <g class="feature feature-class-farm" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Farm" data-uuid="d2640e03-56b8-4738-8f70-577c17d39241">
+        <title>Macoley Farm</title>
+        <circle class="layer-point" cx="1515.455" cy="615.381" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-volcano" data-feature-class="Volcano">
+      <g class="feature feature-class-volcano" data-layer-id="srf_civ_important_sites_pt" data-feature-class="Volcano" data-uuid="f8304f41-d949-4265-8699-065334a48a60">
+        <title>Steampipe</title>
+        <circle class="layer-point" cx="1746.673" cy="601.571" r="2" />
+      </g>
+    </g>
+  </g>
+</svg>

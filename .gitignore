@@ -1,0 +1,95 @@
+# Ignore environment variables and secrets
+.env
+*.env
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore virtual environments
+.venv/
+venv/
+.env/
+env/
+
+# Ignore pgpass file for local passwords
+.pgpass
+
+# Ignore database dumps and backups
+backups/
+*.dump
+*.sql
+*.sql.gz
+*.tar.gz
+*.zip
+*.toc
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore dependency caches
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore cloud configuration files
+*.json
+gcs_config.json
+db_config.json
+
+# QGIS Project Backup Files
+*.qgs~
+*.qgz~
+
+# QGIS Auxiliary Files:
+*.aux.xml
+*.qld
+
+# Geospatial Index Files
+*.qix
+*.qpj
+
+# GeoPackage temporary files
+*.gpkg-journal
+*.gpkg-wal
+*.gpkg-shm
+
+# Raster pyramid files
+*.ovr
+*.aux
+*.qmd
+
+# QGIS Lock Files
+*.lock
+
+# OS-Specific Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100/
+.DocumentRevisions-V100/
+.Trashes
+*.swp
+*.bak
+*.tmp
+# Public release metadata and artifacts
+!releases/
+!releases/**/
+!releases/**/*.json
+!releases/**/*.md
+!releases/**/*.txt
+!releases/**/*.geojson
+!releases/**/*.gpkg
+!releases/**/*.pmtiles
+!releases/**/*.svg
+!releases/**/*.pdf
+!releases/**/*.zip

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4000" height="2000" viewBox="0 0 4000 2000" data-layer-id="srf_nat_lake_islands_pg" data-map-west="-180.0" data-map-south="-90.0" data-map-east="180.0" data-map-north="90.0">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Toril GIS: Editable Offline Map of the Forgotten Realms - srf_nat_lake_islands_pg</dc:title>
+        <dc:creator>Geospatial Grimoire</dc:creator>
+        <dc:source>https://github.com/geospatial-grimoire/toril-gis</dc:source>
+        <dc:rights>Unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Copyright Wizards of the Coast LLC.</dc:rights>
+        <dc:description>Geospatial Grimoire. Toril GIS: Editable Offline Map of the Forgotten Realms. Available at: https://github.com/geospatial-grimoire/toril-gis</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <style>
+    .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222; stroke-width: 1; vector-effect: non-scaling-stroke; fill-rule: evenodd; }
+    .layer-line { fill: none; stroke: #222; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+    .layer-point { fill: #222; stroke: #fff; stroke-width: 1; vector-effect: non-scaling-stroke; }
+    .svg-layer-srf_nat_lake_islands_pg .layer-fill { fill: #d8d3c8; fill-opacity: 0.96; stroke: none; stroke-width: 1.0; }
+    .svg-layer-srf_nat_lake_islands_pg .layer-line { stroke: #222222; stroke-width: 1.5; }
+    .svg-layer-srf_nat_lake_islands_pg .layer-point { fill: #222222; stroke: #ffffff; stroke-width: 1.0; }
+  </style>
+  <g id="srf_nat_lake_islands_pg" class="svg-layer svg-layer-srf_nat_lake_islands_pg">
+    <g class="feature-class-layer feature-class-lake-island" data-feature-class="Lake island">
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="f84168f5-f992-4b45-9a07-0cda58aaa870">
+        <title>f84168f5-f992-4b45-9a07-0cda58aaa870</title>
+        <path class="layer-fill" d="M1441.158 598.507 L1441.57 599.185 L1441.304 599.573 L1440.891 599.792 L1440.479 600.155 L1439.752 600.204 L1439.34 599.816 L1439.606 599.476 L1439.655 599.234 L1439.946 598.943 L1440.043 598.652 L1440.406 598.482 L1440.746 598.41 L1441.158 598.507 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="e07dc10b-9280-48b5-b6cf-e35648ec9045">
+        <title>e07dc10b-9280-48b5-b6cf-e35648ec9045</title>
+        <path class="layer-fill" d="M1437.836 602.725 L1437.933 603.065 L1437.788 603.647 L1437.206 603.792 L1436.624 603.768 L1436.333 603.622 L1435.412 603.574 L1435.242 603.453 L1435.266 603.259 L1435.46 603.016 L1435.8 602.943 L1436.43 602.604 L1437.279 602.434 L1437.642 602.556 L1437.836 602.725 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="1521ea3a-1ba8-44a3-970c-428b02bf8237">
+        <title>1521ea3a-1ba8-44a3-970c-428b02bf8237</title>
+        <path class="layer-fill" d="M1488.145 624.158 L1487.878 624.352 L1487.151 624.231 L1487.054 623.964 L1487.102 623.77 L1487.345 623.649 L1487.83 623.649 L1488.048 623.818 L1488.145 624.158 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="1ac13d0d-5462-4170-9426-3cfe2273ee38">
+        <title>1ac13d0d-5462-4170-9426-3cfe2273ee38</title>
+        <path class="layer-fill" d="M1473.646 640.499 L1473.84 640.887 L1473.84 641.469 L1473.428 641.93 L1472.167 642.148 L1471.683 642.027 L1471.416 641.857 L1471.416 641.323 L1471.513 640.984 L1471.877 640.62 L1472.992 640.208 L1473.646 640.499 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="18f2543a-00d7-4ab4-afac-1587284bb0d4">
+        <title>18f2543a-00d7-4ab4-afac-1587284bb0d4</title>
+        <path class="layer-fill" d="M1439.655 616.593 L1439.606 617.078 L1439.194 617.248 L1438.515 617.2 L1438.103 617.078 L1438.127 616.642 L1438.903 616.23 L1439.243 616.23 L1439.534 616.399 L1439.655 616.593 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="23e67780-f86e-4f13-bb6e-56164682f48e">
+        <title>23e67780-f86e-4f13-bb6e-56164682f48e</title>
+        <path class="layer-fill" d="M1444.552 609.708 L1444.48 609.926 L1444.189 610.12 L1443.946 610.169 L1443.704 610.411 L1442.637 610.411 L1442.492 610.096 L1442.637 609.684 L1443.025 609.441 L1443.558 609.296 L1444.14 609.296 L1444.504 609.514 L1444.552 609.708 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="ca9cd2c4-39e0-4b64-a39d-b99604b53c92">
+        <title>ca9cd2c4-39e0-4b64-a39d-b99604b53c92</title>
+        <path class="layer-fill" d="M1465.015 638.947 L1465.694 639.287 L1465.936 639.82 L1466.009 640.16 L1465.936 640.354 L1465.476 640.717 L1463.779 641.299 L1463.585 641.687 L1462.663 642.051 L1462.227 641.687 L1461.985 641.59 L1461.694 641.105 L1460.651 640.548 L1460.675 640.208 L1460.797 639.966 L1461.5 639.214 L1462.179 638.826 L1463.367 638.656 L1464.312 638.729 L1465.015 638.947 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="48fff20e-7552-49fc-ac60-def093b05408">
+        <title>48fff20e-7552-49fc-ac60-def093b05408</title>
+        <path class="layer-fill" d="M1444.116 595.403 L1444.383 596.931 L1444.334 597.052 L1443.607 597.076 L1443.461 596.955 L1443.243 596.519 L1443.243 596.325 L1443.849 595.282 L1443.946 595.258 L1444.116 595.403 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="a724892f-f085-40d3-803e-baec14e04c47">
+        <title>a724892f-f085-40d3-803e-baec14e04c47</title>
+        <path class="layer-fill" d="M1479.296 618.509 L1479.586 619.188 L1479.441 619.43 L1478.471 619.43 L1478.35 619.309 L1478.229 618.727 L1478.423 618.46 L1478.932 618.339 L1479.296 618.509 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="3c805297-c0d1-413d-9385-63e476eb7bf0">
+        <title>3c805297-c0d1-413d-9385-63e476eb7bf0</title>
+        <path class="layer-fill" d="M1718.827 668.897 L1719.294 669.155 L1719.393 669.401 L1718.974 669.475 L1718.765 669.217 L1718.79 668.946 L1718.827 668.897 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="d24265a6-cd64-464f-8047-1437c86ea5d5">
+        <title>d24265a6-cd64-464f-8047-1437c86ea5d5</title>
+        <path class="layer-fill" d="M1432.89 615.599 L1433.278 616.424 L1433.206 616.787 L1433.036 616.909 L1431.969 616.981 L1431.46 616.836 L1431.46 616.496 L1431.921 615.987 L1431.824 615.89 L1432.115 615.696 L1432.89 615.599 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="c36e919b-c72d-427c-b3ed-02a63ab728eb">
+        <title>c36e919b-c72d-427c-b3ed-02a63ab728eb</title>
+        <path class="layer-fill" d="M1478.738 611.793 L1478.908 612.302 L1478.665 612.908 L1478.374 613.005 L1477.889 612.787 L1477.671 612.569 L1477.55 612.302 L1477.792 611.526 L1478.326 611.478 L1478.738 611.793 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="24566e86-9744-4414-a180-71542e7e1000">
+        <title>24566e86-9744-4414-a180-71542e7e1000</title>
+        <path class="layer-fill" d="M1453.959 607.283 L1454.153 607.332 L1454.275 607.526 L1454.105 607.914 L1454.008 608.011 L1453.499 607.865 L1453.402 607.574 L1453.426 607.283 L1453.62 606.992 L1453.959 607.283 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="4a631fdf-a338-4018-b89d-ff77bc00e19e">
+        <title>4a631fdf-a338-4018-b89d-ff77bc00e19e</title>
+        <path class="layer-fill" d="M1489.794 629.928 L1489.891 630.365 L1489.745 630.753 L1489.551 630.801 L1489.381 630.753 L1488.945 630.316 L1488.751 629.904 L1488.8 629.686 L1489.042 629.54 L1489.794 629.928 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="1469d708-c1ff-4a7f-a92c-0ec934345ffe">
+        <title>1469d708-c1ff-4a7f-a92c-0ec934345ffe</title>
+        <path class="layer-fill" d="M1436.527 613.563 L1436.673 613.902 L1436.576 614.169 L1436.115 614.314 L1435.557 614.242 L1435.218 614.096 L1435.097 614.023 L1435.024 613.781 L1435.121 613.563 L1436.018 613.393 L1436.527 613.563 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="ee292aef-740d-465f-a8f9-229049cfb00b">
+        <title>ee292aef-740d-465f-a8f9-229049cfb00b</title>
+        <path class="layer-fill" d="M1450.323 610.532 L1449.668 610.362 L1449.595 610.144 L1449.911 609.975 L1450.395 609.999 L1450.541 610.169 L1450.517 610.338 L1450.323 610.532 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="2a81f4e5-0ac1-457a-9474-44842cc0a06a">
+        <title>2a81f4e5-0ac1-457a-9474-44842cc0a06a</title>
+        <path class="layer-fill" d="M1458.033 607.865 L1458.202 608.374 L1458.154 608.447 L1458.008 608.52 L1457.426 608.52 L1457.136 608.326 L1457.087 607.914 L1457.16 607.574 L1458.033 607.865 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="caba111e-183f-455a-b122-e7437251cc87">
+        <title>caba111e-183f-455a-b122-e7437251cc87</title>
+        <path class="layer-fill" d="M1447.68 597.125 L1448.213 597.658 L1448.771 597.731 L1448.892 598.094 L1448.844 598.458 L1448.504 598.895 L1448.044 599.282 L1448.238 600.155 L1448.238 600.689 L1448.044 600.98 L1447.656 601.271 L1447.341 601.149 L1447.171 600.98 L1446.953 600.325 L1446.322 599.864 L1446.104 599.525 L1446.08 599.331 L1446.734 597.246 L1447.098 597.003 L1447.68 597.125 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="26730291-89ef-46d2-9a3b-bda713e4bb39">
+        <title>26730291-89ef-46d2-9a3b-bda713e4bb39</title>
+        <path class="layer-fill" d="M1455.608 621.539 L1455.123 621.83 L1455.123 622.267 L1455.269 622.606 L1455.56 622.897 L1455.584 623.237 L1455.22 623.576 L1454.856 623.164 L1454.832 622.752 L1454.566 622 L1454.663 621.83 L1454.978 621.636 L1455.147 621.37 L1455.414 621.249 L1455.584 621.297 L1455.608 621.539 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="fa8719e7-1557-4659-b520-9c6270405b18">
+        <title>fa8719e7-1557-4659-b520-9c6270405b18</title>
+        <path class="layer-fill" d="M1455.608 665.326 L1455.438 665.496 L1454.953 665.496 L1454.614 665.156 L1454.735 665.035 L1455.22 664.938 L1455.584 665.205 L1455.608 665.326 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="4b53a3ce-cf57-4b6a-929f-8d1f0dd38e1e">
+        <title>4b53a3ce-cf57-4b6a-929f-8d1f0dd38e1e</title>
+        <path class="layer-fill" d="M1482.084 627.116 L1481.866 627.237 L1481.526 627.237 L1481.235 626.922 L1481.672 626.51 L1482.108 626.34 L1482.253 626.704 L1482.084 627.116 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="4bed0b95-9e2a-4195-a4d4-6f31bafa18c1">
+        <title>4bed0b95-9e2a-4195-a4d4-6f31bafa18c1</title>
+        <path class="layer-fill" d="M1718.101 669.808 L1718.002 670.078 L1717.646 669.771 L1717.855 669.438 L1718.089 669.512 L1718.101 669.808 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="ad801726-ed7c-4d30-9ae1-aebf6b736649">
+        <title>ad801726-ed7c-4d30-9ae1-aebf6b736649</title>
+        <path class="layer-fill" d="M1446.104 604.374 L1446.298 604.568 L1446.322 604.786 L1446.153 605.004 L1445.813 605.101 L1444.625 604.835 L1444.383 604.544 L1444.455 604.422 L1444.916 604.228 L1445.086 603.986 L1445.692 604.131 L1445.74 604.228 L1446.104 604.374 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="9ceb1d55-acaa-43a5-a224-8a7eb1e2ed13">
+        <title>9ceb1d55-acaa-43a5-a224-8a7eb1e2ed13</title>
+        <path class="layer-fill" d="M1490.133 628.667 L1490.06 628.789 L1489.503 628.861 L1488.994 628.667 L1488.824 628.425 L1488.8 628.231 L1488.897 628.037 L1489.963 628.158 L1490.133 628.667 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="4a2caefa-21bb-4a4b-8e84-874c26c2fea6">
+        <title>4a2caefa-21bb-4a4b-8e84-874c26c2fea6</title>
+        <path class="layer-fill" d="M1479.223 623.479 L1478.98 623.528 L1478.714 623.455 L1478.835 623.188 L1479.126 623.043 L1479.344 623.309 L1479.223 623.479 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="4d4caeb7-100f-4125-85f4-ad77e465e332">
+        <title>4d4caeb7-100f-4125-85f4-ad77e465e332</title>
+        <path class="layer-fill" d="M1445.692 622.679 L1445.352 623.188 L1445.037 623.285 L1444.213 623.14 L1443.995 622.873 L1444.189 622.679 L1444.746 622.461 L1445.643 622.582 L1445.692 622.679 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="4f9742e2-46de-414b-8806-650ff8303ee2">
+        <title>Isle of Prespur</title>
+        <path class="layer-fill" d="M1422.004 602.725 L1421.52 603.404 L1421.374 603.938 L1420.913 604.689 L1420.574 604.883 L1419.992 605.004 L1418.804 604.81 L1418.295 604.932 L1417.689 605.441 L1417.325 605.95 L1416.864 606.023 L1416.549 605.95 L1416.089 605.15 L1415.579 604.689 L1415.725 604.35 L1416.549 603.865 L1417.762 603.525 L1418.828 603.525 L1419.313 603.21 L1419.822 602.58 L1419.992 602.24 L1420.525 601.974 L1421.689 601.804 L1422.126 601.877 L1422.174 602.071 L1422.004 602.725 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="37dfa3a7-74ca-44dd-8eeb-c2ec2428258a">
+        <title>37dfa3a7-74ca-44dd-8eeb-c2ec2428258a</title>
+        <path class="layer-fill" d="M1488.218 625.322 L1488.8 625.831 L1489.697 626.243 L1489.769 626.534 L1489.721 626.825 L1489.381 626.995 L1488.581 627.164 L1487.636 626.995 L1486.908 626.704 L1486.181 626.655 L1486.011 626.534 L1485.939 626.219 L1486.011 625.904 L1486.472 625.685 L1487.151 625.055 L1487.587 625.055 L1488.218 625.322 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="7a714db1-1287-42bb-af77-b593194540e4">
+        <title>7a714db1-1287-42bb-af77-b593194540e4</title>
+        <path class="layer-fill" d="M1487.393 617.321 L1486.86 617.684 L1486.618 618.024 L1486.254 618.291 L1486.084 618.63 L1485.26 618.994 L1484.823 618.994 L1484.654 618.872 L1484.508 618.533 L1484.508 618.291 L1484.605 618.097 L1484.848 617.951 L1485.066 617.103 L1485.163 617.03 L1485.502 616.909 L1486.424 616.86 L1486.908 616.569 L1487.539 616.496 L1487.709 616.787 L1487.709 617.224 L1487.393 617.321 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="a1eb3279-1ed3-46c8-b1d1-0c1258b56a69">
+        <title>a1eb3279-1ed3-46c8-b1d1-0c1258b56a69</title>
+        <path class="layer-fill" d="M1439.267 614.217 L1439.218 614.557 L1439 614.824 L1438.491 614.896 L1437.739 614.775 L1437.424 614.557 L1437.352 614.339 L1437.642 613.951 L1437.885 613.854 L1438.709 613.854 L1439.097 613.975 L1439.267 614.217 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="8298aabb-0f7f-40d0-9a40-916b1ec7ffaf">
+        <title>8298aabb-0f7f-40d0-9a40-916b1ec7ffaf</title>
+        <path class="layer-fill" d="M1572.309 681.435 L1573.059 681.767 L1573.121 682.198 L1572.986 682.776 L1571.743 683.121 L1571.521 685.138 L1570.365 685.951 L1569.11 685.409 L1569.196 684.154 L1569.491 683.908 L1569.799 683.465 L1569.245 683.071 L1569.184 682.592 L1569.344 681.939 L1569.897 681.386 L1572.309 681.435 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="8ee0b1e6-747f-4155-9365-307dae8415ff">
+        <title>8ee0b1e6-747f-4155-9365-307dae8415ff</title>
+        <path class="layer-fill" d="M1488.193 619.794 L1488.266 620.303 L1488.072 620.691 L1487.684 620.691 L1487.248 620.521 L1487.151 620.4 L1487.054 619.988 L1487.199 619.673 L1487.733 619.503 L1487.927 619.527 L1488.193 619.794 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="7236f468-84fc-425b-a5fe-0d59d96f507a">
+        <title>7236f468-84fc-425b-a5fe-0d59d96f507a</title>
+        <path class="layer-fill" d="M1484.484 620.085 L1484.872 620.448 L1485.211 620.618 L1485.26 620.739 L1485.114 621.006 L1485.333 621.733 L1485.551 622.024 L1485.284 622.509 L1485.017 622.655 L1484.387 622.509 L1484.145 622.146 L1483.611 621.758 L1482.35 621.418 L1482.059 621.176 L1481.356 621.103 L1481.162 620.764 L1481.162 620.473 L1481.381 620.254 L1481.89 620.182 L1482.884 620.206 L1483.078 620.157 L1483.441 619.794 L1484.484 620.085 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="768f996d-be47-47dc-ae92-84b1cdd79f2d">
+        <title>768f996d-be47-47dc-ae92-84b1cdd79f2d</title>
+        <path class="layer-fill" d="M1585.843 652.766 L1586.126 653.123 L1586.225 653.591 L1586.274 654.649 L1585.524 656.113 L1583.641 656.519 L1582.411 656.175 L1582.115 655.732 L1582.078 655.276 L1582.091 655.116 L1582.324 654.809 L1582.915 654.415 L1583.776 654.095 L1584.121 653.874 L1584.515 653.098 L1585.081 652.766 L1585.843 652.766 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="78f87a5d-c824-49eb-9abf-27e61334aa29">
+        <title>78f87a5d-c824-49eb-9abf-27e61334aa29</title>
+        <path class="layer-fill" d="M1419.047 602.337 L1418.489 602.725 L1418.246 602.628 L1417.762 602.653 L1417.665 602.531 L1418.246 601.877 L1418.707 601.804 L1419.071 601.901 L1419.119 602.119 L1419.047 602.337 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="462be9fd-01ad-4a81-bbd4-16bbbb8d6bd9">
+        <title>462be9fd-01ad-4a81-bbd4-16bbbb8d6bd9</title>
+        <path class="layer-fill" d="M1520.041 599.096 L1520.336 599.465 L1520.693 599.649 L1521.259 600.437 L1521.21 601.347 L1520.681 601.569 L1520.102 601.101 L1519.918 600.375 L1518.884 600.178 L1518.638 599.477 L1518.786 599.083 L1520.041 599.096 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="0207155e-157f-4ab4-8b31-83f9f3d349e2">
+        <title>0207155e-157f-4ab4-8b31-83f9f3d349e2</title>
+        <path class="layer-fill" d="M1454.59 601.368 L1454.711 602.119 L1454.663 602.459 L1454.566 602.531 L1453.838 602.556 L1453.135 602.289 L1453.135 601.804 L1453.499 601.416 L1453.838 601.198 L1453.644 601.101 L1454.59 601.368 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="aa833308-a783-489a-bdf8-5ec08ca2b636">
+        <title>aa833308-a783-489a-bdf8-5ec08ca2b636</title>
+        <path class="layer-fill" d="M1480.653 624.934 L1480.362 625.297 L1479.877 625.297 L1479.659 625.079 L1479.611 624.74 L1480.508 624.788 L1480.653 624.934 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="49f208b2-1b6b-4de1-a9cc-72dd6e51f6d2">
+        <title>49f208b2-1b6b-4de1-a9cc-72dd6e51f6d2</title>
+        <path class="layer-fill" d="M1455.463 664.55 L1455.244 664.259 L1455.366 663.871 L1455.657 663.823 L1455.923 663.944 L1455.972 664.235 L1455.899 664.599 L1455.802 664.647 L1455.463 664.55 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="5433565f-d941-4406-bfb8-79043938d148">
+        <title>5433565f-d941-4406-bfb8-79043938d148</title>
+        <path class="layer-fill" d="M1450.129 608.641 L1449.911 608.665 L1449.644 608.35 L1449.692 607.914 L1450.201 607.986 L1450.298 608.083 L1450.226 608.544 L1450.129 608.641 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="5517e1ae-3e7f-421f-9a79-a3f0dc59cb01">
+        <title>5517e1ae-3e7f-421f-9a79-a3f0dc59cb01</title>
+        <path class="layer-fill" d="M1452.408 608.205 L1452.335 608.568 L1451.85 608.69 L1451.777 608.059 L1451.996 607.914 L1452.238 607.986 L1452.408 608.205 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="e681869c-9aa4-4e96-907b-1bc13f5f5ce2">
+        <title>Dragonisle</title>
+        <path class="layer-fill" d="M1434.466 606.459 L1435.121 606.823 L1435.315 607.089 L1436.188 607.259 L1436.503 607.817 L1436.503 608.496 L1436.261 608.932 L1435.897 609.344 L1435.218 609.635 L1434.854 609.611 L1434.782 609.417 L1434.806 609.223 L1435 608.981 L1435.17 608.326 L1434.976 607.962 L1434.2 607.841 L1433.957 607.502 L1433.181 607.283 L1432.939 606.58 L1432.697 606.483 L1431.63 606.435 L1431.557 606.314 L1431.557 605.877 L1432.066 605.319 L1432.793 605.271 L1433.472 604.98 L1434.394 605.004 L1434.491 605.441 L1434.394 605.974 L1434.466 606.459 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="92d84f6b-fb9b-4dfe-b813-32ec3eff7516">
+        <title>92d84f6b-fb9b-4dfe-b813-32ec3eff7516</title>
+        <path class="layer-fill" d="M1439.218 610.581 L1439.34 611.017 L1439.315 611.211 L1439.194 611.332 L1438.515 611.55 L1438.273 611.405 L1438.127 610.993 L1438.2 610.629 L1438.515 610.265 L1438.758 610.265 L1439.218 610.581 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="66a58a4c-05eb-4b79-b792-992b3010e5aa">
+        <title>66a58a4c-05eb-4b79-b792-992b3010e5aa</title>
+        <path class="layer-fill" d="M1716.243 668.762 L1716.747 669.365 L1716.957 670.3 L1716.624 670.989 L1716.12 671.542 L1714.816 672.674 L1714.213 672.908 L1714.065 672.219 L1714.385 671.432 L1714.643 670.361 L1714.385 669.635 L1714.311 669.069 L1714.643 668.762 L1716.243 668.762 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="e7b4a033-1f13-41f6-b36b-7b5e66902316">
+        <title>e7b4a033-1f13-41f6-b36b-7b5e66902316</title>
+        <path class="layer-fill" d="M1440.503 609.053 L1441.134 609.465 L1441.279 609.781 L1440.843 610.314 L1440.358 610.265 L1440.212 610.072 L1439.849 609.853 L1439.679 609.441 L1439.873 609.005 L1440.503 609.053 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="1aadfe95-069c-4970-8b2d-16a80e321ce5">
+        <title>1aadfe95-069c-4970-8b2d-16a80e321ce5</title>
+        <path class="layer-fill" d="M1441.74 615.866 L1442.298 616.036 L1442.322 616.254 L1442.055 616.472 L1441.425 616.763 L1440.94 616.836 L1440.455 616.545 L1440.431 615.963 L1440.649 615.745 L1441.182 615.575 L1441.74 615.866 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="906403de-aa21-44d2-bc33-e6c22265fd59">
+        <title>906403de-aa21-44d2-bc33-e6c22265fd59</title>
+        <path class="layer-fill" d="M1477.041 616.642 L1477.307 617.078 L1477.065 617.539 L1476.823 617.636 L1476.338 617.636 L1475.901 617.272 L1475.877 616.739 L1476.144 616.375 L1476.726 616.424 L1477.041 616.642 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="9652d151-6cf9-40a0-ae72-32fd00aa49fb">
+        <title>9652d151-6cf9-40a0-ae72-32fd00aa49fb</title>
+        <path class="layer-fill" d="M1451.583 620.764 L1452.529 621.273 L1453.014 621.321 L1452.262 622.267 L1452.093 623.188 L1451.753 623.237 L1451.511 622.752 L1451.559 622.267 L1451.899 622 L1451.317 620.958 L1451.583 620.764 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="4abc434c-e077-4291-b97f-0d0c47e7c304">
+        <title>4abc434c-e077-4291-b97f-0d0c47e7c304</title>
+        <path class="layer-fill" d="M1449.814 599.598 L1449.717 599.307 L1449.862 599.137 L1450.444 599.089 L1450.88 599.161 L1450.832 599.404 L1450.565 599.573 L1450.032 599.67 L1449.814 599.598 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="bf2610f2-0824-4413-b1fe-581031f44895">
+        <title>bf2610f2-0824-4413-b1fe-581031f44895</title>
+        <path class="layer-fill" d="M1440.406 583.935 L1440.067 584.275 L1439.582 584.275 L1439.412 584.105 L1439.291 583.79 L1439.437 583.669 L1440.309 583.766 L1440.406 583.935 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="6fd347f9-9227-4d15-b908-4ace7585afd3">
+        <title>6fd347f9-9227-4d15-b908-4ace7585afd3</title>
+        <path class="layer-fill" d="M1454.032 624.546 L1453.596 624.764 L1452.82 624.813 L1452.432 625.055 L1452.093 625.128 L1451.899 625.103 L1451.753 624.813 L1451.996 624.328 L1452.868 624.134 L1453.353 623.722 L1454.008 623.867 L1454.081 624.352 L1454.032 624.546 Z" />
+      </g>
+      <g class="feature feature-class-lake-island" data-layer-id="srf_nat_lake_islands_pg" data-feature-class="Lake island" data-uuid="c2e4814a-ab46-47ba-8afa-aa3667c33d84">
+        <title>c2e4814a-ab46-47ba-8afa-aa3667c33d84</title>
+        <path class="layer-fill" d="M1478.835 596.519 L1479.926 596.858 L1480.144 597.246 L1480.193 597.585 L1480.096 597.828 L1479.489 598.361 L1478.714 598.531 L1478.326 598.531 L1477.38 598.022 L1477.38 597.537 L1477.598 597.367 L1477.55 597.27 L1478.083 596.688 L1478.835 596.519 Z" />
+      </g>
+    </g>
+  </g>
+</svg>

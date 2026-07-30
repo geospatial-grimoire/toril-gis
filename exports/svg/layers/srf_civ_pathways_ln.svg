@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4000" height="2000" viewBox="0 0 4000 2000" data-layer-id="srf_civ_pathways_ln" data-map-west="-180.0" data-map-south="-90.0" data-map-east="180.0" data-map-north="90.0">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Toril GIS: Editable Offline Map of the Forgotten Realms - srf_civ_pathways_ln</dc:title>
+        <dc:creator>Geospatial Grimoire</dc:creator>
+        <dc:source>https://github.com/geospatial-grimoire/toril-gis</dc:source>
+        <dc:rights>Unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Copyright Wizards of the Coast LLC.</dc:rights>
+        <dc:description>Geospatial Grimoire. Toril GIS: Editable Offline Map of the Forgotten Realms. Available at: https://github.com/geospatial-grimoire/toril-gis</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <style>
+    .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222; stroke-width: 1; vector-effect: non-scaling-stroke; fill-rule: evenodd; }
+    .layer-line { fill: none; stroke: #222; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+    .layer-point { fill: #222; stroke: #fff; stroke-width: 1; vector-effect: non-scaling-stroke; }
+    .svg-layer-srf_civ_pathways_ln .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222222; stroke-width: 1.0; }
+    .svg-layer-srf_civ_pathways_ln .layer-line { stroke: #c78730; stroke-width: 1.2; }
+    .svg-layer-srf_civ_pathways_ln .layer-point { fill: #222222; stroke: #ffffff; stroke-width: 1.0; }
+  </style>
+  <g id="srf_civ_pathways_ln" class="svg-layer svg-layer-srf_civ_pathways_ln">
+    <g class="feature-class-layer feature-class-primary-road" data-feature-class="Primary Road">
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="06200862-e199-4aad-861b-a66fd555421b">
+        <title>06200862-e199-4aad-861b-a66fd555421b</title>
+        <path class="layer-line" d="M1839.58 549.219 L1842.88 549.369 L1845.03 549.169 L1847.13 548.669 L1850.08 548.319 L1853.88 548.119 L1856.93 548.169 L1859.23 548.469 L1861.28 548.919 L1863.08 549.519 L1865.38 549.869 L1868.18 549.969 L1870.13 549.919 L1871.23 549.719 L1872.53 549.269 L1874.03 548.569 L1875.58 548.019 L1877.18 547.619 L1878.28 547.469 L1878.88 547.569 L1880.53 549.119 L1883.23 552.119 L1885.18 553.569 L1886.38 553.469 L1887.28 553.219 L1887.88 552.819 L1889.08 552.469 L1890.88 552.169 L1896.38 551.969 L1905.58 551.869 L1911.48 551.619 L1914.08 551.219 L1916.33 550.669 L1918.23 549.969 L1919.83 549.569 L1921.13 549.469 L1924.08 548.969 L1928.68 548.069 L1934.63 547.669 L1941.93 547.769 L1948.68 548.319 L1954.88 549.319 L1960.13 550.719 L1964.43 552.519 L1967.38 553.669 L1968.98 554.169 L1971.58 556.369 L1975.18 560.269 L1977.78 563.369 L1979.38 565.669 L1982.08 570.119 L1985.88 576.719 L1988.88 580.969 L1991.08 582.869 L1992.88 584.819 L1994.28 586.819 L1995.13 587.969 L1995.43 588.269 L1995.914 588.536 L1996.583 588.77 L1998.083 589.17 L2000.414 589.736 L2002.88 590.869 L2005.48 592.569 L2007.98 595.169 L2010.38 598.669 L2011.98 600.619 L2012.78 601.019 L2013.88 601.369 L2015.98 601.819" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="f55b9161-0676-4528-bf97-a40338c03c4f">
+        <title>f55b9161-0676-4528-bf97-a40338c03c4f</title>
+        <path class="layer-line" d="M1177.591 419.988 L1178.25 422.5 L1179.161 426.244 L1179.95 427.5 L1181.25 430.75 L1182.15 432.25 L1182.75 433.45 L1183.05 434.35 L1183.25 436.85 L1183.35 440.95 L1183.613 442.844 L1184.85 445.35 L1187.75 450.05 L1189.45 453.1 L1189.95 454.5 L1190.15 455.95 L1190.306 458.094 L1190 459.5 L1190.4 461.7 L1190.55 463.6 L1190.45 465.2 L1190.25 466.55 L1189.95 467.65 L1189.55 470.05 L1189.51 470.751 L1189.05 473.75 L1188.3 477 L1187.886 478.237 L1187.3 479.8 L1186.7 481.95 L1186.5 483.45 L1185.8 486.05 L1185.394 487.69 L1184.6 489.75 L1183.9 492.35 L1183.7 493.85 L1183.232 495.651 L1181.86 497.777" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8b17dc4b-3c1a-4dd2-b67b-e5b54419035a">
+        <title>8b17dc4b-3c1a-4dd2-b67b-e5b54419035a</title>
+        <path class="layer-line" d="M1151.482 429.509 L1151.719 431.518 L1152.358 434.955 L1152.73 437.482 L1152.552 439.037 L1152.425 440.42 L1152.261 442.04 L1152.336 443.364 L1153.316 444.805 L1154.685 446.525 L1155.8 449.191 L1156.501 452.156 L1158.402 453.248 L1160.05 455.05 L1161.15 457.25 L1162.25 460.15 L1162.9 462.4 L1163.1 464 L1163.15 466.25 L1163.201 468.751 L1163.295 470.64 L1164.25 471.05 L1166.75 471.95 L1168.45 472.75 L1169.35 473.45 L1170.1 474.35 L1170.7 475.45 L1171.15 476.6 L1171.175 477.627 L1170.875 479.077 L1170.25 480.95 L1169.8 482 L1169.8 482.4 L1169.85 483.25 L1169.95 484.55 L1170.35 485.9 L1171.05 487.3 L1172.25 489.3 L1173.95 491.9 L1175.05 493.75 L1175.55 494.85 L1177.382 496.251 L1179.681 497.363 L1181.86 497.777" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9a762bfa-cfff-4cab-83b8-988c21b9142a">
+        <title>9a762bfa-cfff-4cab-83b8-988c21b9142a</title>
+        <path class="layer-line" d="M1259.465 567.43 L1267.921 565.321 L1271.448 563.872 L1274.31 564.589 L1276.47 564.931 L1279.602 565.614 L1282.888 567.602" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d7ee3ac1-62a4-4881-810c-39fd5df3a25e">
+        <title>d7ee3ac1-62a4-4881-810c-39fd5df3a25e</title>
+        <path class="layer-line" d="M1151.482 429.509 L1152.65 429.2 L1155.15 428 L1159.15 426.55 L1164.65 424.85 L1168.6 423.35 L1171 422.05 L1173.5 421.05 L1176.1 420.35 L1177.591 419.988" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="38260af2-a2d1-46bc-82ae-9e04ffa32383">
+        <title>38260af2-a2d1-46bc-82ae-9e04ffa32383</title>
+        <path class="layer-line" d="M1235.344 434.992 L1238.152 434.343 L1240.95 434.4 L1243.1 434.55 L1244.9 434.85 L1247.95 435.7 L1252.25 437.1 L1253.996 437.818 L1255.05 437.65 L1256.35 437.35 L1257.9 437.2 L1259.7 437.2 L1262.85 436.6 L1267.35 435.4 L1270.35 434.7 L1271.85 434.5 L1274.15 434.4 L1277.25 434.4 L1279.6 434.35 L1281.2 434.25 L1283.1 433.95 L1287.43 432.97" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b99b5e6c-d33d-4001-b4ea-be8ca2de4dbe">
+        <title>b99b5e6c-d33d-4001-b4ea-be8ca2de4dbe</title>
+        <path class="layer-line" d="M1270.073 423.52 L1265.844 420.573 L1263.997 418.789 L1263.192 417.595 L1262.832 416.699 L1262.949 415.962" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5c359390-cbb1-49b6-ac67-2db054f767c3">
+        <title>unnamed</title>
+        <path class="layer-line" d="M1276.6 434.4 L1277.715 433.261 L1277.963 432.334 L1277.716 431.238 L1276.562 429.455 L1274.5 426.984 L1272.621 425.192 L1270.073 423.52 L1269.842 419.467" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fd64ad5e-87a7-4cbe-a793-bd7a2d14cd73">
+        <title>fd64ad5e-87a7-4cbe-a793-bd7a2d14cd73</title>
+        <path class="layer-line" d="M1222.4 534.2 L1224.607 534.601 L1226.803 534.823" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6bfb753f-e4d6-455a-bc88-62c69075d89e">
+        <title>6bfb753f-e4d6-455a-bc88-62c69075d89e</title>
+        <path class="layer-line" d="M1190.306 458.094 L1199.731 456.577" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="7a617db0-9be6-4424-b01b-ac9446bdb352">
+        <title>7a617db0-9be6-4424-b01b-ac9446bdb352</title>
+        <path class="layer-line" d="M1181.86 497.777 L1184.54 499.929 L1187.342 502.54 L1189.556 503.857 L1191.65 506.85 L1195.35 509.35 L1197.97 510.688 L1198.714 512.147 L1200.65 515.55 L1203.35 518.65 L1206.45 521.55 L1209.15 523.8 L1211.45 525.4 L1213.25 527 L1214.55 528.6 L1216.1 530.25 L1217.9 531.95 L1219.05 533 L1219.55 533.4 L1220.45 533.75 L1222.4 534.2 L1224.404 537.426 L1225.683 539.206 L1227.515 541.321 L1232.732 544.467 L1235.946 546.182 L1238.898 547.514 L1242.772 550.1 L1247.569 553.941 L1249.87 555.969 L1250.525 556.546 L1252.017 558.361 L1259.465 567.43 L1262.25 571.3 L1264.95 573.9 L1269.579 579.081" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="55c0f65a-9398-4586-8134-daae3bc419f5">
+        <title>55c0f65a-9398-4586-8134-daae3bc419f5</title>
+        <path class="layer-line" d="M1299.044 604.326 L1301.711 603.932 L1303.65 603.45 L1305.75 602.75 L1307.6 601.95 L1309.2 601.05 L1310.55 600.1 L1311.65 599.1 L1313 598.35 L1313.936 597.858" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="90c9a08f-edae-4841-be19-ab845ee6ed4a">
+        <title>90c9a08f-edae-4841-be19-ab845ee6ed4a</title>
+        <path class="layer-line" d="M1313.936 597.858 L1320.5 601.05 L1323.45 603.2 L1327.423 606.221" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="de3539ca-6cc1-43f9-875f-84ceb454d19d">
+        <title>de3539ca-6cc1-43f9-875f-84ceb454d19d</title>
+        <path class="layer-line" d="M1271.111 595.268 L1283.986 593.303 L1285.362 592.746 L1288.388 594.989 L1290.564 602.365 L1299.044 604.326 L1301.411 605.282 L1303.6 606 L1306.4 606.8 L1309.15 607.35 L1311.85 607.65 L1315.15 607.65 L1319.05 607.35 L1322.55 606.95 L1327.423 606.221 L1334.25 605.6 L1338.35 604.85 L1341.85 603.75 L1344 603.15 L1344.92 602.927 L1347.65 604 L1355.158 606.992 L1359.365 611.795 L1361.422 613.715 L1362.626 614.357 L1367.357 615.311 L1375.616 616.578 L1380.22 617.105 L1381.17 616.894 L1382.01 616.82 L1383.283 616.885" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3dbee744-a4a3-4175-aa00-c10613f72003">
+        <title>3dbee744-a4a3-4175-aa00-c10613f72003</title>
+        <path class="layer-line" d="M1252.642 575.711 L1256.386 570.742 L1258.1 568.665 L1259.465 567.43" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="aca0aa9e-ad9f-4fe4-b769-d8c61fe15138">
+        <title>aca0aa9e-ad9f-4fe4-b769-d8c61fe15138</title>
+        <path class="layer-line" d="M1252.642 575.711 L1254.498 580.714 L1255.375 582.555 L1258.181 583.681 L1264.243 586.275 L1269.004 589.394 L1270.363 592.24 L1271.111 595.268" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="719eb185-99cc-40c9-ad0a-78b2b7b6852f">
+        <title>719eb185-99cc-40c9-ad0a-78b2b7b6852f</title>
+        <path class="layer-line" d="M1355.158 606.992 L1365.715 603.043" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="190a70b9-06fa-4abf-88d0-4deb064aaaf2">
+        <title>190a70b9-06fa-4abf-88d0-4deb064aaaf2</title>
+        <path class="layer-line" d="M1542 849.6 L1549.5 852 L1553.4 852.8 L1556.2 852.8 L1559.35 852.5 L1562.85 851.9 L1566.1 851.6 L1569.1 851.6 L1571.35 851.5 L1572.85 851.3 L1577.1 851.35 L1584.1 851.65 L1589.4 852 L1593 852.4 L1596.25 852.65 L1599.15 852.75 L1601.85 852.7 L1604.35 852.5 L1606.6 852.15 L1608.6 851.65 L1610.65 851.3 L1612.75 851.1 L1616.35 850.35 L1621.45 849.05 L1626.15 847.35 L1630.45 845.25 L1633.45 843.7 L1635.15 842.7 L1636.65 841.65 L1637.95 840.55 L1640.45 838 L1644.15 834 L1646.6 831 L1647.8 829 L1648.5 827.25 L1648.7 825.75 L1650.55 823.7 L1654.05 821.1 L1657.75 818 L1663.6 812.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="01deb47d-7cf4-4c7a-bbb5-5f73980c97a3">
+        <title>01deb47d-7cf4-4c7a-bbb5-5f73980c97a3</title>
+        <path class="layer-line" d="M2135.516 926.529 L2140.916 929.979 L2144.516 932.529 L2148.116 935.329 L2151.516 937.579 L2154.716 939.279 L2157.416 941.079 L2159.616 942.979 L2161.066 944.279 L2161.766 944.979 L2163.066 947.479 L2164.966 951.779 L2167.016 955.029 L2169.216 957.229 L2171.316 959.029 L2173.316 960.429 L2174.666 961.679 L2175.366 962.779 L2176.516 964.229 L2178.116 966.029 L2179.316 967.579 L2180.116 968.879 L2180.766 970.379 L2181.266 972.079 L2181.816 975.279 L2182.416 979.979 L2184.416 985.129 L2187.816 990.729 L2189.716 994.879 L2190.116 997.579 L2190.816 1000.129 L2192.316 1003.729" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a6a54508-af07-4def-832c-f33da80719a0">
+        <title>a6a54508-af07-4def-832c-f33da80719a0</title>
+        <path class="layer-line" d="M1313.936 597.858 L1316.3 595.2 L1317.1 593.6 L1318.1 592 L1319.5 590.3 L1321.3 588.5 L1322.55 586.6 L1323.25 584.6 L1323.55 583.05 L1323.45 581.95 L1322.45 580.85 L1320.55 579.75 L1319.45 578.95 L1319.15 578.45 L1318.351 576.935 L1318.144 575.285 L1318.991 573.552 L1319.85 572.75 L1321.15 572.1 L1322.174 571.357 L1324.367 571.271 L1327.258 572.436 L1332.25 574.5 L1335.087 575.271 L1337.55 575.4 L1345.2 575.4 L1357.65 575.55 L1362.75 575.45 L1364.65 575.15 L1366 574.85 L1366.8 574.55 L1367.5 574.05 L1368.1 573.35 L1369.65 572.75 L1372.15 572.25 L1373.75 571.85 L1374.45 571.55 L1375.6 571.4 L1377.2 571.4 L1378.95 571.55 L1380.85 571.85 L1383.4 571.65 L1386.6 570.95 L1389.1 570.6 L1390.9 570.6 L1393.1 571.1 L1395.7 572.1 L1398.7 572.75 L1402.1 573.05 L1405.55 573.55 L1410.954 574.661 L1419.876 575.538" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="10db17e9-f5ca-4540-a433-32dec99a08f9">
+        <title>10db17e9-f5ca-4540-a433-32dec99a08f9</title>
+        <path class="layer-line" d="M1404.109 521.94 L1401.748 520.659 L1399.394 519.086" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b788b927-bc72-4118-a2fe-5c2192bcb031">
+        <title>b788b927-bc72-4118-a2fe-5c2192bcb031</title>
+        <path class="layer-line" d="M1339.6 586.8 L1341.1 586.8 L1343.05 587.35 L1345.96 588.179 L1347.572 588.387 L1348.987 588.792 L1351.45 589.3 L1356.25 589.9 L1363.15 590.9 L1367.377 591.504 L1367.8 591.4 L1368.25 591.35 L1369.9 591.2 L1370.45 591.15 L1370.55 591.05 L1371.1 591 L1372.1 591 L1372.65 590.95 L1372.75 590.85 L1373.35 590.8 L1374.45 590.8 L1375.05 590.75 L1375.15 590.65 L1375.7 590.6 L1376.7 590.6 L1377.25 590.55 L1377.35 590.45 L1377.9 590.4 L1378.9 590.4 L1379.45 590.35 L1379.55 590.25 L1380.1 590.2 L1381.1 590.2 L1381.65 590.15 L1381.75 590.05 L1382.3 590 L1383.3 590 L1383.85 589.95 L1383.95 589.85 L1384.5 589.8 L1385.5 589.8 L1386.05 589.75 L1386.15 589.65 L1386.75 589.6 L1387.85 589.6 L1389 589.5 L1390.2 589.3 L1391.3 589.2 L1392.622 589.073 L1401.05 589.25 L1403.708 589.16 L1405.1 588.05 L1407.7 585.75 L1409.5 583.9 L1410.5 582.5 L1411.1 580.85 L1411.3 578.95 L1411.25 577.15 L1410.954 574.661 L1409 568.6 L1408.35 565.15 L1408.25 562.25 L1408.3 559.8 L1408.5 557.8 L1408.3 555.8 L1407.7 553.8 L1407.05 550.7 L1406 544.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="437fc130-7d02-429a-8789-bd4f8b1df493">
+        <title>437fc130-7d02-429a-8789-bd4f8b1df493</title>
+        <path class="layer-line" d="M1399.717 527.335 L1401.612 527.557 L1403.471 527.853 L1405.829 528.502 L1409.964 529.348 L1418.116 531.786 L1418.701 533.307 L1419.112 533.962 L1419.732 534.326 L1420.216 534.523 L1420.564 534.553 L1421.414 534.199 L1422.767 533.462 L1423.806 533.105 L1424.534 533.126 L1424.882 533.133 L1426.001 533.492 L1428.208 534.203 L1430.011 534.68 L1431.409 534.922 L1433.261 534.928 L1435.565 534.699 L1436.707 534.633 L1437.381 534.856 L1438.621 535.241 L1439.517 535.668 L1439.906 537.824" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="05630ded-ec66-4525-8c01-76c9b552750e">
+        <title>05630ded-ec66-4525-8c01-76c9b552750e</title>
+        <path class="layer-line" d="M1366.505 557.415 L1365.95 555.6 L1365.8 554.4 L1365.8 553.2 L1366.25 551.95 L1367.15 550.65 L1368 549.6 L1368.8 548.8 L1370.5 547.45 L1373.1 545.55 L1375.8 543.3 L1378.451 540.678 L1379.3 539.35 L1381.2 539 L1383.6 538.2 L1385.65 537.25 L1387.35 536.15 L1389.2 534.7 L1391.2 532.9 L1392.55 531.4 L1393.25 530.2 L1393.733 529.524 L1395.13 529.029 L1399.717 527.335 L1402.617 525.012 L1403.644 524.136 L1403.765 523.92 L1403.889 523.3 L1404.014 522.277 L1404.109 521.94" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0dec19fe-8aed-48e1-995d-ae9c86c13cd4">
+        <title>0dec19fe-8aed-48e1-995d-ae9c86c13cd4</title>
+        <path class="layer-line" d="M1334.129 590.178 L1336.623 588.111 L1339.6 586.8 L1342 584.1 L1343 582.8 L1343.4 582 L1343.75 581.25 L1344.05 580.55 L1344.45 579 L1345.2 575.4 L1346.85 571.35 L1347.6 569.75 L1348 569.25 L1349.55 568.1 L1352.25 566.3 L1354.8 565.2 L1357.2 564.8 L1359.05 563.9 L1360.35 562.5 L1361.8 561.3 L1363.4 560.3 L1364.75 559.2 L1366.505 557.415 L1370.3 556.2 L1372.35 555.8 L1373.85 555.8 L1375.2 555.6 L1376.4 555.2 L1377.7 555 L1379.1 555 L1380.5 554.7 L1381.9 554.1 L1383.05 553.3 L1383.95 552.3 L1386.4 551.15 L1390.4 549.85 L1391.957 549.629 L1394 548.55 L1397.2 547.25 L1400.6 546.05 L1406 544.4 L1406.9 544.1 L1408.55 543.15 L1411.25 541.45 L1412.7 540.25 L1412.9 539.55 L1413.3 538.9 L1413.9 538.3 L1414.324 537.507 L1414.571 536.52 L1415.082 535.509 L1415.857 534.476 L1416.782 533.441 L1418.116 531.786" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="896d703e-b113-40d7-b4e6-fafa8940c778">
+        <title>896d703e-b113-40d7-b4e6-fafa8940c778</title>
+        <path class="layer-line" d="M1404.109 521.94 L1404.603 522.106 L1405.72 521.976 L1409.01 522.401 L1410.245 522.625 L1411.601 522.356 L1413.494 521.843 L1415.821 521.436 L1418.583 521.137 L1420.017 521.001 L1421.765 520.943 L1425.367 520.857 L1427.235 521.1 L1428.375 521.745 L1430.789 523.61 L1432.05 524.498 L1432.696 524.736 L1434.096 525.123 L1435.849 525.226 L1437.954 525.044 L1439.673 524.57 L1441.005 523.802 L1441.761 523.449 L1442.637 523.031 L1444.569 522.257 L1446.288 521.732 L1448.566 521.322" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ca92ab23-e986-4718-8d42-02a922950e72">
+        <title>ca92ab23-e986-4718-8d42-02a922950e72</title>
+        <path class="layer-line" d="M1448.011 531.801 L1447.835 533.524 L1448.147 534.757 L1448.896 536.103 L1449.58 536.979 L1450.2 537.387 L1450.56 537.741 L1450.66 538.041 L1450.932 538.293 L1451.377 538.498 L1451.95 539.15 L1452.65 540.25 L1453.25 541.6 L1453.75 543.2 L1454.85 545.25 L1456.55 547.75 L1457.711 549.12 L1458.45 550.2 L1460.55 552.6 L1461.85 554.4 L1462.35 555.6 L1462.35 558.45 L1461.85 562.95 L1461.6 565.95 L1461.6 567.45 L1461.4 568.65 L1461 569.55 L1460.75 570.5 L1460.65 571.5 L1460.4 572.6 L1460 573.8 L1459.1 575.25 L1457.7 576.95 L1456.45 578 L1455.35 578.4 L1453.35 579.4 L1449.124 581.912" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d2a44ee5-ab50-487d-9052-8d1688b87331">
+        <title>d2a44ee5-ab50-487d-9052-8d1688b87331</title>
+        <path class="layer-line" d="M1517.224 558.807 L1519.864 558.801 L1524.232 557.849 L1531.187 555.923 L1538.475 553.562 L1546.095 550.766 L1551.317 548.642 L1554.142 547.19 L1556.35 546.286 L1557.94 545.928 L1559.281 545.64 L1560.373 545.422 L1564.978 545.402 L1573.097 545.581 L1576.337 544.265 L1574.699 541.454 L1573.75 539.605 L1573.488 538.717 L1572.741 537.486 L1571.506 535.912 L1569.821 532.942 L1567.684 528.579 L1565.362 524.698 L1562.854 521.299 L1560.682 519.416 L1558.846 519.047 L1555.175 518.708 L1546.914 518.244" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c103afb1-897b-4a54-b812-b2e741016368">
+        <title>c103afb1-897b-4a54-b812-b2e741016368</title>
+        <path class="layer-line" d="M1487.765 580.452 L1495.96 574.957 L1499.305 572.493 L1501.053 570.733 L1501.3 567.9 L1502.7 564.95 L1502.977 562.763 L1503.297 562.255 L1505.067 560.586 L1507.3 558.25 L1508.7 557.15 L1510.05 556.65 L1511.194 556.926 L1512.013 556.826 L1511.934 555.881 L1511.4 555.1 L1510.672 552.688 L1510.2 551.7 L1509.487 549.817 L1508.85 549.65 L1507.35 548.95 L1506.55 548.5 L1506.141 548.413 L1505.95 548.2 L1505.15 547.55 L1503.85 546.25 L1503.144 545.495 L1503 544.7 L1502.447 542.005" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="142cb201-eef0-4a9a-bbc0-fb5341779ee1">
+        <title>142cb201-eef0-4a9a-bbc0-fb5341779ee1</title>
+        <path class="layer-line" d="M1506.141 548.413 L1506.544 548.13 L1508.47 547.193 L1510.463 546.312" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="541dabab-ca35-459a-96d4-18b0805a88df">
+        <title>541dabab-ca35-459a-96d4-18b0805a88df</title>
+        <path class="layer-line" d="M1495.96 574.957 L1498.131 574.909 L1501.468 574.807 L1503.21 574.619 L1504.817 574.319" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4dd6fd37-409f-44ee-addb-9d20e78ba1ae">
+        <title>4dd6fd37-409f-44ee-addb-9d20e78ba1ae</title>
+        <path class="layer-line" d="M1342.653 673.08 L1347.65 670.3 L1350.6 669.05 L1353.4 668.35 L1356.7 667.25 L1362.4 665 L1372.6 666.8 L1377.6 667.6 L1380.8 668 L1383.65 668.25 L1386.15 668.35 L1388.5 668.6 L1390.7 669 L1395.2 669.3 L1402 669.5 L1406.25 669.55 L1407.95 669.45 L1409.85 669.1 L1411.95 668.5 L1413.55 667.8 L1414.65 667 L1415.9 665.05 L1417.3 661.95 L1419.35 658.55 L1422.05 654.85 L1423.8 652.6 L1424.6 651.8 L1426.25 650.45 L1428.75 648.55 L1430.9 647.05 L1432.7 645.95 L1434.5 644.65 L1436.3 643.15 L1437.35 642.25 L1437.65 641.95 L1438.2 640.85 L1439.4 638" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="31ebf9ed-ed67-4d41-8662-03ea678c2794">
+        <title>31ebf9ed-ed67-4d41-8662-03ea678c2794</title>
+        <path class="layer-line" d="M1252.946 643.758 L1250.4 635.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="2b87298f-209c-4ab4-b510-5be87db02028">
+        <title>2b87298f-209c-4ab4-b510-5be87db02028</title>
+        <path class="layer-line" d="M1281.4 664.2 L1287.181 669.957 L1289.887 673.587 L1294.146 677.27 L1295.121 679.331 L1295.199 680.12 L1295.089 680.989 L1294.791 681.939 L1294.086 683.028 L1292.974 684.257 L1291.595 685.245 L1289.949 685.992 L1288.421 686.564 L1287.011 686.96 L1285.953 687.619 L1285.248 688.544 L1284.786 689.468 L1284.566 690.393 L1284.778 691.613 L1285.42 693.128 L1287.144 693.959 L1289.949 694.106 L1292.64 694.45 L1295.216 694.99 L1296.793 696.225 L1297.372 698.152 L1298.696 699.837 L1302.164 701.943" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="866ac5e0-3b17-470a-9401-64eb51294d44">
+        <title>866ac5e0-3b17-470a-9401-64eb51294d44</title>
+        <path class="layer-line" d="M1356.316 680.164 L1356.502 682.908 L1356.964 685.872" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4a9a6bae-5a4f-4314-819d-f7de1a65f967">
+        <title>4a9a6bae-5a4f-4314-819d-f7de1a65f967</title>
+        <path class="layer-line" d="M1190.051 663.085 L1191.274 662.613 L1192.162 662.459 L1193.121 662.465 L1194.148 662.864 L1195.243 663.655 L1196.219 664.163 L1197.077 664.387 L1198.135 664.446 L1199.392 664.34 L1200.54 664.481 L1201.581 664.867 L1202.8 665.045 L1204.199 665.014 L1205.855 664.422 L1207.767 663.269 L1209.33 662.777 L1210.546 662.947 L1211.386 662.947 L1211.851 662.778 L1212.402 662.464 L1213.04 662.006 L1213.9 660.971 L1214.981 659.359 L1215.991 658.266 L1216.932 657.69 L1217.852 657.251 L1219.107 656.914" />
+        <path class="layer-line" d="M1219.107 656.914 L1224.45 657.25 L1227.35 657.3 L1229.65 657.1 L1231.57 656.833 L1233.882 656.334 L1237.87 655.783 L1240.15 655.7 L1242.05 655.9 L1243.95 656.3 L1245.85 656.9 L1247.85 657.85 L1249.95 659.15 L1252.334 660.548 L1254.9 661.75 L1257 662.25 L1258.6 661.95 L1262 661.85 L1267.2 661.95 L1270.5 662.05 L1271.9 662.15 L1274.8 662.7 L1281.4 664.2 L1282.75 664.35 L1283.55 664.55 L1284.25 664.85 L1285.85 665.15 L1288.35 665.45 L1290.55 665.6 L1292.45 665.6 L1294.65 665.4 L1297.15 665 L1298.309 664.588 L1300.45 666.15 L1304.55 668.85 L1308.6 670.85 L1312.6 672.15 L1317.746 672.143 L1321.229 671.606 L1325.345 670.407 L1329.631 671.635 L1332.94 672.346 L1336.147 672.36 L1339.455 672.563 L1342.653 673.08 L1348.1 674.8 L1351.4 676.55 L1356.316 680.164 L1359.35 681.8 L1360.95 682.45 L1362.05 682.55 L1364.8 682.7 L1369.2 682.9 L1372.15 682.85 L1373.65 682.55 L1376.85 682.4 L1380.04 682.497 L1381.75 682.4 L1386.4 682.15 L1390.8 681.65 L1393.55 680.9 L1394.65 679.9 L1395.3 678.7 L1395.702 676.713" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="32d573ac-d693-45e2-9402-26f211f38fad">
+        <title>32d573ac-d693-45e2-9402-26f211f38fad</title>
+        <path class="layer-line" d="M1233.019 632.43 L1234.783 633.137 L1237.05 633.75 L1241 634.2 L1245.8 634.6 L1248.75 634.95 L1250.4 635.4 L1255.8 634.95 L1259.7 634.45 L1263.9 633.75 L1267.55 633.4 L1269.562 633.137 L1270.65 633.4 L1273.95 633.8 L1277.45 634.6 L1280.3 635.05 L1283.63 635.162" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9a5c75ea-1ed0-4961-ba9e-501b7ab4eb59">
+        <title>9a5c75ea-1ed0-4961-ba9e-501b7ab4eb59</title>
+        <path class="layer-line" d="M1633.267 789.519 L1630.327 787.137 L1627.562 783.645 L1623.992 778.25 L1621.85 773.773 L1621.136 770.214 L1621.025 767.434 L1621.516 765.433 L1622.411 762.596 L1623.709 758.923 L1624.537 757.086 L1624.302 756.197 L1623.83 755.048 L1622.407 752.498 L1619.912 748.757 L1617.033 745.158 L1613.769 741.703 L1610.737 737.503 L1607.937 732.558 L1605.938 727.773 L1604.742 723.149 L1604.334 719.426 L1604.714 716.606 L1605.382 713.71 L1606.337 710.739 L1607.005 708.298 L1607.385 706.386 L1607.635 704.52 L1607.756 702.699 L1607.714 701.37 L1607.51 700.531 L1608.598 697.567 L1610.977 692.48 L1614.509 686.988 L1621.538 678.141" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="148185a7-0d0e-420b-b020-057e493021b4">
+        <title>148185a7-0d0e-420b-b020-057e493021b4</title>
+        <path class="layer-line" d="M1518.2 750.4 L1519.769 750.148 L1521.131 749.695 L1522.811 748.957 L1524.236 747.824 L1525.404 746.296 L1527.121 744.41 L1529.385 742.165 L1531.083 739.73 L1532.215 737.104 L1535.237 733.505 L1540.149 728.932 L1543.728 725.888 L1545.974 724.373 L1548.019 722.503 L1550.811 719.286" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9b84a10b-aeda-4359-a271-08a816a23ea5">
+        <title>9b84a10b-aeda-4359-a271-08a816a23ea5</title>
+        <path class="layer-line" d="M1427.6 772.4 L1430.6 760.55 L1431.75 755.15 L1432.05 752.25 L1432.1 747.7 L1431.9 741.5 L1431.3 736 L1430.3 731.2 L1428.85 726.75 L1426.95 722.65 L1425.1 719.05 L1423.3 715.95 L1420.95 712.65 L1418.05 709.15 L1414.25 704.95 L1409.55 700.05 L1407.821 698.551 L1407.245 697.418 L1407.53 696.432 L1408.517 695.126 L1410.95 692.05 L1412.4 689.55 L1412.8 688.25 L1413.05 687.15 L1413.15 686.25 L1412.65 684.7 L1411.55 682.5 L1410.9 681.546 L1414.1 681.35 L1420.3 681.25 L1425.4 680.9 L1429.4 680.3 L1433.9 679.15 L1438.9 677.45 L1443.4 675.5 L1447.4 673.3 L1450.1 672 L1452.2 671.4 L1455.5 670.05 L1457.7 668.85 L1459.9 667.35 L1461.4 665.85 L1462.2 664.35 L1462.35 662.4 L1461.519 658.735" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8f360e5d-1983-4d84-9417-b70f110c4b29">
+        <title>8f360e5d-1983-4d84-9417-b70f110c4b29</title>
+        <path class="layer-line" d="M1452.2 671.4 L1449.8 677.55 L1449.014 679.56 L1446.95 682.8 L1442.85 689.2 L1440.761 696.084 L1439.571 699.712 L1439.628 704.616 L1438.845 708.012 L1437.2 711.8 L1437.2 715.7 L1437.5 718.1 L1438.1 720.3 L1439 722.7 L1440.8 726.6 L1440.95 727.05 L1441.5 727.7 L1442.5 728.7 L1444.4 730.5 L1447.2 733.1 L1450.95 735.65 L1455.65 738.15 L1460.15 740 L1464.45 741.2 L1466.196 741.58 L1469.45 742.2 L1475.15 743 L1480.5 743.9 L1485.5 744.9 L1490.7 746.05 L1496.1 747.35 L1499.2 748.15 L1500 748.45 L1500.4 748.7 L1500.85 749.15 L1501.85 749.25 L1504.364 749.425 L1511 750.15 L1514.45 750.4 L1518.2 750.4 L1527.273 751.071 L1533.585 751.049 L1540.158 750.557 L1543.46 750.229 L1544.34 750.759 L1546.129 751.656 L1547.7 752.201 L1549.051 752.394 L1551.544 753.583 L1555.177 755.766 L1558.163 757.43 L1560.5 758.576 L1562.481 759.713 L1564.106 760.842 L1565.531 761.68 L1567.398 762.573" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a07c9043-6610-4f82-8564-c24455f36def">
+        <title>a07c9043-6610-4f82-8564-c24455f36def</title>
+        <path class="layer-line" d="M1130.295 554.435 L1129.359 555.942 L1129.049 556.674 L1129.027 557.351" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4e94b805-e029-42cb-8ebb-b2e662d10100">
+        <title>4e94b805-e029-42cb-8ebb-b2e662d10100</title>
+        <path class="layer-line" d="M1096.665 578.628 L1096.782 578.622 L1097.165 578.739 L1097.503 578.824 L1097.913 578.955 L1098.421 579.165 L1098.733 579.19 L1099.235 579.275" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="89ae9276-9e3a-4232-86d7-dee907bdf02b">
+        <title>89ae9276-9e3a-4232-86d7-dee907bdf02b</title>
+        <path class="layer-line" d="M1095.993 575.213 L1096.114 575.632 L1096.303 575.853 L1096.375 576.147 L1096.339 576.542 L1096.311 576.877 L1096.364 577.376 L1096.372 578.066 L1096.48 578.378 L1096.665 578.628 L1096.825 578.926 L1096.763 579.27 L1096.651 579.669 L1096.571 579.847 L1096.193 580.191" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3d7790b0-84e3-40f5-80f7-b3a8f5357398">
+        <title>3d7790b0-84e3-40f5-80f7-b3a8f5357398</title>
+        <path class="layer-line" d="M1126.262 555.748 L1125.954 555.841 L1125.825 555.972 L1125.83 556.185 L1126.106 556.463 L1126.94 556.789 L1129.027 557.351 L1130.586 557.484 L1131.098 557.499 L1131.315 558.482 L1131.451 559.098 L1131.545 559.538 L1131.629 560.048 L1132.001 560.811 L1132.229 561.437 L1132.456 562.283 L1132.604 563.17 L1132.642 564.476 L1132.559 564.765 L1132.487 565.549 L1132.484 566.373 L1132.677 567.8 L1132.733 568.196 L1133.128 570.461 L1133.295 571.945 L1133.196 573.007" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6ab3eafe-a8d8-4bea-aef3-9fff4fbe0b85">
+        <title>6ab3eafe-a8d8-4bea-aef3-9fff4fbe0b85</title>
+        <path class="layer-line" d="M1133.196 573.007 L1133.281 575.27 L1133.509 576.69 L1133.503 576.979 L1133.758 577.427 L1133.915 578.016 L1134.065 579.143 L1134.124 579.765 L1133.951 580.558" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9204f74d-1784-4402-acb0-c0c8722fcb78">
+        <title>9204f74d-1784-4402-acb0-c0c8722fcb78</title>
+        <path class="layer-line" d="M1133.196 573.007 L1132.315 570.776 L1132.083 570.179 L1131.73 569.657 L1131.528 569.254 L1131.153 568.901 L1130.625 568.373 L1130.147 568.072 L1129.874 567.915 L1129.763 567.612 L1129.474 566.992 L1129.315 566.704 L1129.4 566.481 L1129.541 566.077 L1129.645 565.712 L1129.711 565.384 L1129.745 565.018 L1129.812 564.824 L1129.753 564.403" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="055895f9-4957-4d4a-ba13-e47fd418c9fd">
+        <title>055895f9-4957-4d4a-ba13-e47fd418c9fd</title>
+        <path class="layer-line" d="M1133.715 594.35 L1134.135 594.335 L1134.61 594.186 L1135.064 593.863 L1135.376 593.497 L1135.637 593.076 L1136.054 592.698 L1136.472 592.492 L1136.781 592.459 L1137.076 592.239 L1137.472 592.02 L1137.651 591.626 L1137.893 591.004 L1138.197 590.654 L1138.474 590.25 L1138.455 589.761 L1138.389 589.524 L1138.249 589.312 L1137.944 589.104 L1137.48 588.913 L1137.182 588.659 L1137.059 588.156 L1137.113 587.496 L1137.276 587.115" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="044665cf-2b52-484b-ae2d-7c1ed1b9edb2">
+        <title>044665cf-2b52-484b-ae2d-7c1ed1b9edb2</title>
+        <path class="layer-line" d="M1118.294 591.871 L1119.965 592.104 L1120.758 592.18 L1121.49 592.088 L1123.479 591.858 L1124.19 591.828 L1125.126 591.512 L1125.979 591.178 L1126.947 591.015 L1127.709 591.066 L1128.241 591.286 L1128.55 591.261" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5aa19c3c-6d81-49ce-9e42-720dc88d5c71">
+        <title>unnamed</title>
+        <path class="layer-line" d="M1116.758 593.443 L1116.721 593.304 L1116.692 593.079 L1116.706 592.825 L1116.644 592.571 L1116.572 592.503 L1116.576 592.415" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0bbb191f-2e4e-48db-ab43-01a71b040663">
+        <title>0bbb191f-2e4e-48db-ab43-01a71b040663</title>
+        <path class="layer-line" d="M1129.092 565.247 L1129.036 565.641 L1128.771 565.956 L1128.39 566.178 L1127.944 566.856" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8d46cdf8-9c53-4bb5-9a33-9444e5e911a5">
+        <title>8d46cdf8-9c53-4bb5-9a33-9444e5e911a5</title>
+        <path class="layer-line" d="M1128.197 567.893 L1129.501 566.181" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="1b1b957f-9a7f-4e98-b529-70928b35519f">
+        <title>1b1b957f-9a7f-4e98-b529-70928b35519f</title>
+        <path class="layer-line" d="M1252.017 558.361 L1250.434 558.193 L1248.243 558.042 L1245.037 558.012 L1240.276 562.226 L1230.803 574.914" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fa7f6450-1421-4975-8590-5ad47bb32970">
+        <title>fa7f6450-1421-4975-8590-5ad47bb32970</title>
+        <path class="layer-line" d="M1219.054 581.383 L1220.601 578.729 L1230.803 574.914 L1234.064 574.523 L1239.499 574.721 L1252.642 575.711" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="064520d2-843b-4b53-826e-108bfdb7dbca">
+        <title>064520d2-843b-4b53-826e-108bfdb7dbca</title>
+        <path class="layer-line" d="M1236.72 731.554 L1233.45 728.9 L1231.25 726.75 L1228.95 724.25 L1227.25 722.05 L1226.15 720.15 L1225.15 717.75 L1224.25 714.85 L1223.85 713.05 L1223.747 712.727 L1223.95 712.35 L1224.4 711.1 L1225.2 709.3 L1226.8 706.45 L1229.2 702.55 L1229.652 701.728 L1231.4 698.75 L1233.4 695.05 L1234.35 693.1 L1234.452 692.761" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b5ce1401-41f5-4c75-9117-8dc0fd635c11">
+        <title>b5ce1401-41f5-4c75-9117-8dc0fd635c11</title>
+        <path class="layer-line" d="M1227.515 541.321 L1226.654 549.808 L1226.444 553.38 L1226.596 554.867 L1226.378 556.959 L1225.791 559.658 L1224.675 562.647 L1223.031 565.925 L1221.413 569.78 L1219.821 574.211 L1219.338 576.81 L1219.054 581.383 L1217.8 585.227 L1217.25 588.2 L1217.75 590.2 L1218 592.5 L1218 595.1 L1217.75 597.3 L1217.25 599.1 L1217 601.5 L1217 606 L1217 607.05 L1217.307 607.977 L1217.6 608.95 L1218.8 612.05 L1219.376 613.588 L1220.85 615 L1223.75 617.8 L1226.2 620 L1229.2 622.4 L1230.7 623.6 L1231.25 624.15 L1231.35 624.45 L1231.65 626.7 L1231.921 630.08 L1233.019 632.43 L1232.871 633.852 L1232.1 640.5 L1232.4 644.85 L1233.2 648.55 L1233.7 651.25 L1233.9 652.95 L1233.97 654.433 L1233.882 656.334 L1233.52 658.483 L1232.15 661.5 L1229.65 666.1 L1228 669.8 L1227.2 672.6 L1226.8 674.9 L1226.8 676.7 L1226.5 678.65 L1225.9 680.75 L1225.728 682.437 L1225.6 683.15 L1225.75 684.7 L1226.05 686.9 L1227 688.7 L1228.6 690.1 L1229.85 691.05 L1230.75 691.55 L1231.95 692.05 L1234.452 692.761 L1239 692.65 L1241.8 692.9 L1244.2 693.5 L1246.7 694.3 L1249.3 695.3 L1252.35 696.2 L1255.85 697 L1260.15 697.7 L1265.25 698.3 L1270.7 699.15 L1276.5 700.25 L1281.5 701.35 L1285.7 702.45 L1288.75 703.4 L1291.6 704.6 L1292.35 705.5 L1293.3 706.35 L1294.7 707.45 L1296.25 709.15 L1298.8 712.6 L1300.6 714.4 L1302.15 715.7 L1305.275 718.035 L1309.688 720.483 L1311.885 721.644 L1313.151 722.176 L1315.89 722.965 L1320.102 724.008 L1322.789 724.835 L1323.953 725.444 L1326.396 725.902 L1330.116 726.206 L1334.305 726.304 L1338.961 726.195 L1342.773 726.353 L1345.74 726.778 L1347.842 726.912 L1349.079 726.756 L1350.011 726.499 L1350.638 726.14 L1351.879 725.781 L1353.734 725.423 L1357.107 725.076 L1361.996 724.741 L1364.892 724.777 L1365.794 725.184 L1366.434 726.09 L1366.811 727.497 L1370.8 726.4 L1378.4 722.8 L1384.85 720.1 L1390.15 718.3 L1395.5 716.05 L1403.6 712" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0a91437c-2077-4ead-8432-ae213e2fbb42">
+        <title>0a91437c-2077-4ead-8432-ae213e2fbb42</title>
+        <path class="layer-line" d="M2324.629 916.619 L2323.429 914.369 L2322.579 912.219 L2321.679 909.419 L2320.685 907.574 L2319.05 906.238" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0c81280d-902d-401b-b0e6-2b79b439555c">
+        <title>0c81280d-902d-401b-b0e6-2b79b439555c</title>
+        <path class="layer-line" d="M1616.063 559.094 L1612.175 558.272 L1610.509 557.798 L1609.4 557.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0a327f75-2df2-432a-bcf4-08e76c975151">
+        <title>0a327f75-2df2-432a-bcf4-08e76c975151</title>
+        <path class="layer-line" d="M1190.051 663.085 L1188.64 663.531 L1187.632 664.12 L1186.556 665.003 L1185.68 665.406 L1185.005 665.329 L1184.357 664.888 L1183.739 664.082 L1183.383 663.248 L1183.289 662.386 L1183.339 661.691 L1183.531 661.165 L1183.97 660.598 L1184.656 659.991 L1185.122 659.331 L1185.366 658.619 L1185.197 658.079 L1184.615 657.711 L1183.684 657.571 L1182.406 657.657 L1181.086 657.606 L1179.724 657.42 L1178.814 657.217 L1178.357 656.998 L1178.11 656.681 L1178.074 656.266 L1178.864 655.26 L1180.48 653.664 L1182.647 653.924 L1185.366 656.04 L1187.557 658.595 L1190.051 663.085" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0eb5aba6-3dbe-4fe5-a204-556f3ea8050f">
+        <title>0eb5aba6-3dbe-4fe5-a204-556f3ea8050f</title>
+        <path class="layer-line" d="M1403.765 523.92 L1402.764 523.41 L1401.615 523.246 L1399.231 523.156" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0ea6367c-808e-41ed-a268-bdfa0c9807ae">
+        <title>0ea6367c-808e-41ed-a268-bdfa0c9807ae</title>
+        <path class="layer-line" d="M1938.361 1030.252 L1941.139 1028.919 L1943.323 1028.381 L1945.839 1028.194 L1947.773 1028.175 L1949.801 1028.399" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b7693505-04f1-42ab-9759-c8626041138c">
+        <title>b7693505-04f1-42ab-9759-c8626041138c</title>
+        <path class="layer-line" d="M2331.018 629.37 L2332.218 628.92 L2332.968 628.77 L2334.018 628.77" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0ecf988c-3290-441f-825d-3138afd7c9cb">
+        <title>0ecf988c-3290-441f-825d-3138afd7c9cb</title>
+        <path class="layer-line" d="M2082.716 963.929 L2079.287 969.331 L2078.082 971.649 L2077.958 972.683 L2078.807 974.903 L2080.628 978.309 L2081.507 980.954 L2081.445 982.84 L2081.306 984.223 L2081.09 985.105 L2081.09 985.957 L2081.306 986.778 L2081.939 987.462 L2082.988 988.009 L2085.858 988.633 L2090.549 989.332 L2093.203 989.895 L2093.82 990.321 L2095.44 990.929 L2099.375 992.115" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="00dbd0eb-6ccb-42ae-bb41-e071796aa8b1">
+        <title>00dbd0eb-6ccb-42ae-bb41-e071796aa8b1</title>
+        <path class="layer-line" d="M1590.2 628.8 L1592.3 629.25 L1593.95 629.4 L1595.85 629.4 L1597.6 629.65 L1599.2 630.15 L1602.35 630.55 L1609.4 631" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6bf0ca77-5a99-49b0-a392-de59321fb99c">
+        <title>6bf0ca77-5a99-49b0-a392-de59321fb99c</title>
+        <path class="layer-line" d="M1478.031 495.362 L1479.04 496.377 L1479.895 496.908 L1480.934 497.293 L1482.016 497.679 L1483.142 498.064 L1484.385 498.31 L1486.425 498.467" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="262ac8be-f84b-4570-969d-72b9cb556ce4">
+        <title>262ac8be-f84b-4570-969d-72b9cb556ce4</title>
+        <path class="layer-line" d="M1944.8 1036.4 L1946.75 1035.2 L1947.5 1033.85 L1947.7 1031.95 L1948.3 1030.35 L1949.801 1028.399" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e6ef8103-f072-4ba4-893d-7a5c20b7d303">
+        <title>e6ef8103-f072-4ba4-893d-7a5c20b7d303</title>
+        <path class="layer-line" d="M1723.773 687.807 L1720.768 693.892" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="269d6498-b4d4-4fff-92b5-03797d17c74a">
+        <title>269d6498-b4d4-4fff-92b5-03797d17c74a</title>
+        <path class="layer-line" d="M1616.912 646.83 L1611.359 651.794 L1608.929 653.843 L1607.771 654.632 L1606.347 655.264 L1604.656 655.741 L1604.292 656.285 L1605.257 656.898 L1608.708 658.171 L1617.614 661.072" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="02caacaf-a4ed-4d91-9c64-631e405d1d02">
+        <title>02caacaf-a4ed-4d91-9c64-631e405d1d02</title>
+        <path class="layer-line" d="M1732.6 1125.6 L1732.75 1127.25 L1732.95 1128.1 L1733.25 1128.7 L1733.35 1129.35 L1733.25 1130.05 L1732.2 1131.45 L1730.2 1133.55 L1728.2 1135.45 L1726.2 1137.15 L1724.5 1139.4 L1723.1 1142.2 L1722.05 1144.05 L1721.35 1144.95 L1719.55 1145.9 L1716.65 1146.9 L1714.35 1147.9 L1712.65 1148.9 L1711.25 1149.85 L1710.15 1150.75 L1709.3 1151.3 L1708.7 1151.5 L1708.05 1152 L1707.35 1152.8 L1706.7 1153.8 L1705.8 1155.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8bff9804-c535-43cb-a35c-71651b01af61">
+        <title>8bff9804-c535-43cb-a35c-71651b01af61</title>
+        <path class="layer-line" d="M1535.299 584.259 L1533.167 584.896 L1531.403 585.218 L1529.296 585.437 L1526.724 585.462 L1522.168 585.208" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="83331da8-3e04-4993-b15c-88197da6ed9d">
+        <title>83331da8-3e04-4993-b15c-88197da6ed9d</title>
+        <path class="layer-line" d="M2020.723 716.086 L2029.99 715.286 L2034.684 714.791 L2037.893 714.334 L2041.042 714.029 L2044.131 713.877 L2047.08 713.877 L2049.888 714.029 L2052.235 714.41 L2054.121 715.019 L2056.427 715.953 L2059.155 717.21 L2061.021 718.24 L2062.024 719.041 L2063.448 719.709 L2065.293 720.243 L2067.901 720.587 L2071.271 720.739 L2074.801 720.72 L2078.492 720.529 L2081.561 720.11 L2084.008 719.461 L2085.954 719.155 L2087.398 719.193 L2089.243 720.072 L2091.49 721.79 L2093.396 722.879 L2094.96 723.338 L2096.505 723.605 L2098.029 723.682 L2099.132 723.223 L2099.814 722.229 L2101.499 721.713 L2104.187 721.675 L2107.422 721.454 L2111.205 721.049 L2113.217 720.99 L2113.58 721.419" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3b82c8ae-fd8a-4a58-bf7b-8bb93ec65c9d">
+        <title>3b82c8ae-fd8a-4a58-bf7b-8bb93ec65c9d</title>
+        <path class="layer-line" d="M2113.98 721.219 L2113.53 721.519 L2112.88 721.769 L2111.88 722.069 L2111.08 722.469 L2110.48 722.969 L2110.23 724.619 L2110.33 727.419 L2110.18 729.469 L2109.78 730.769 L2109.28 731.719 L2108.68 732.319 L2107.78 732.819 L2106.58 733.219 L2105.33 733.919 L2104.03 734.919 L2102.13 736.069 L2099.63 737.369 L2097.88 738.419 L2096.88 739.219 L2095.98 740.019 L2095.18 740.819 L2094.73 741.369 L2094.58 741.819" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0a8576d6-625f-4181-9212-3c6f7211ee20">
+        <title>0a8576d6-625f-4181-9212-3c6f7211ee20</title>
+        <path class="layer-line" d="M1723.773 687.807 L1723.014 686.2 L1722.091 684.966 L1720.752 683.57 L1719.862 682.054 L1719.2 679.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0aba316e-f36d-4c7c-b814-a976c59aa488">
+        <title>0aba316e-f36d-4c7c-b814-a976c59aa488</title>
+        <path class="layer-line" d="M1365.8 805 L1368.95 805.45 L1371.35 805.45 L1374.05 805.15 L1376.7 804.65 L1379.3 803.95 L1383.8 803.45 L1390.2 803.15 L1396.15 802.5 L1401.65 801.5 L1405.3 800.65 L1408 799.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0caaeca6-1cf5-4e05-a49d-8380a4a09748">
+        <title>0caaeca6-1cf5-4e05-a49d-8380a4a09748</title>
+        <path class="layer-line" d="M2116.18 699.419 L2115.512 698.581 L2115.195 696.806 L2115.004 693.817 L2114.682 691.209 L2114 687.871" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="16082b29-06e3-455f-aba0-0195cd1d6fcf">
+        <title>16082b29-06e3-455f-aba0-0195cd1d6fcf</title>
+        <path class="layer-line" d="M1367.377 591.504 L1373.049 588.09 L1376.934 585.593 L1380.94 582.805 L1383.041 581.563 L1384.222 582.646 L1386.687 584.594 L1392.8 589.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="40d5a972-90d1-4801-994b-e5f936676f32">
+        <title>40d5a972-90d1-4801-994b-e5f936676f32</title>
+        <path class="layer-line" d="M2137.316 873.529 L2136.764 872.847 L2135.68 872.119 L2133.88 871.119 L2131.03 870.519 L2127.13 870.319 L2123.58 869.719 L2120.38 868.719 L2117.53 867.519 L2115.03 866.119 L2112.73 865.269 L2110.63 864.969 L2107.88 865.569 L2104.48 867.069 L2102.13 868.319 L2100.83 869.319 L2098.08 869.869 L2093.88 869.969 L2090.08 869.869 L2084.98 869.419" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="03de2d02-7c32-490f-9e90-1adc3b33e80d">
+        <title>03de2d02-7c32-490f-9e90-1adc3b33e80d</title>
+        <path class="layer-line" d="M1535.299 584.259 L1533.734 586.04 L1532.169 588.394 L1530.083 591.915 L1527.362 591.632 L1524.004 587.545 L1521.837 584.599 L1520.859 582.792 L1520.37 581.298 L1520.37 580.115 L1521.071 579.243 L1522.472 578.681 L1523.32 578.119 L1523.613 577.557 L1523.76 577.122 L1523.76 576.813 L1523.483 576.155 L1522.929 575.146 L1522.13 573.998 L1520.566 572.068" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9345b629-7d94-4723-a207-972e07d92628">
+        <title>9345b629-7d94-4723-a207-972e07d92628</title>
+        <path class="layer-line" d="M1297.8 746.6 L1300.05 746.3 L1301.8 745.9 L1303.8 745.3 L1305.65 743.95 L1307.35 741.85 L1309 740.8 L1310.6 740.8 L1311.85 740.9 L1312.75 741.1 L1314.7 741.8 L1317.7 743 L1320.15 744.15 L1322.05 745.25 L1323.2 746.2 L1323.6 747 L1324.25 747.85 L1325.15 748.75 L1325.7 749.45 L1325.9 749.95 L1326.3 750.4 L1326.9 750.8 L1327.8 752.4 L1329.6 756.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="142cc118-79a2-447c-9319-dc4f3683d71c">
+        <title>142cc118-79a2-447c-9319-dc4f3683d71c</title>
+        <path class="layer-line" d="M1981.667 965.851 L1982.094 958.693" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="44c3db29-9000-47cc-8262-01b9d52c73f1">
+        <title>44c3db29-9000-47cc-8262-01b9d52c73f1</title>
+        <path class="layer-line" d="M1806.6 682.6 L1808.7 680.8 L1810.1 679.75 L1811.5 678.85 L1813.25 678.3 L1815.35 678.1 L1817.25 677.8 L1818.95 677.4 L1822.95 677.35 L1829.25 677.65 L1833.6 678.1 L1836 678.7 L1838.15 678.85 L1840.05 678.55 L1841.5 678.05 L1842.5 677.35 L1843.2 676.6 L1843.6 675.8 L1844.4 675.25 L1845.6 674.95 L1846.65 674.55 L1847.55 674.05 L1849.6 673.8 L1852.8 673.8 L1855.45 674 L1857.55 674.4 L1858.7 675.05 L1858.9 675.95 L1859.3 676.65 L1860.2 677.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="edd57564-11a6-4c5b-bd5e-70f1f905005c">
+        <title>edd57564-11a6-4c5b-bd5e-70f1f905005c</title>
+        <path class="layer-line" d="M1501.88 656.618 L1503.222 657.893 L1504.333 659.284 L1505.66 661.215 L1506.925 662.82 L1508.129 664.101 L1508.869 665.368 L1509.147 666.622 L1508.9 669.509 L1508.129 674.029 L1506.825 677.715 L1504.071 681.994" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="efebe085-9cbc-4a15-aff7-e62823b764ba">
+        <title>efebe085-9cbc-4a15-aff7-e62823b764ba</title>
+        <path class="layer-line" d="M1599.577 766.244 L1599.577 766.244" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4d3463b1-b6ac-44d1-a578-0e02824e9e3e">
+        <title>4d3463b1-b6ac-44d1-a578-0e02824e9e3e</title>
+        <path class="layer-line" d="M1546.914 518.244 L1544.113 516.119" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4e2c8c25-db2a-40b2-93f7-145719cdd900">
+        <title>4e2c8c25-db2a-40b2-93f7-145719cdd900</title>
+        <path class="layer-line" d="M1732 1202.4 L1732.6 1203.45 L1732.75 1204.15 L1732.65 1204.85 L1732.8 1205.5 L1733.2 1206.1 L1733.85 1206.8 L1735.2 1208" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="502dd180-b231-49ff-b263-cdafdbf88a83">
+        <title>502dd180-b231-49ff-b263-cdafdbf88a83</title>
+        <path class="layer-line" d="M2083.513 949.359 L2083.189 950.865 L2082.99 954.507 L2082.716 963.929" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5028b6fc-6b09-4db6-b857-f30180be3818">
+        <title>5028b6fc-6b09-4db6-b857-f30180be3818</title>
+        <path class="layer-line" d="M1631.2 1173 L1631.896 1171.698 L1632.84 1170.659 L1634.264 1169.449 L1635.19 1168.425 L1635.617 1167.587 L1635.855 1166.307 L1635.902 1164.585 L1636.496 1161.942 L1637.635 1158.378 L1638.715 1155.932 L1639.736 1154.604 L1640.543 1153.357 L1641.137 1152.192 L1642.229 1150.782 L1643.819 1149.126 L1645.172 1147.937 L1646.288 1147.214 L1647.38 1146.725 L1648.448 1146.468 L1649.979 1146.246 L1651.973 1146.06 L1653.552 1146.025 L1654.715 1146.142 L1655.581 1146.375 L1656.151 1146.725 L1657.706 1146.864 L1660.246 1146.795 L1662.679 1146.34 L1665.005 1145.5 L1667.126 1144.86 L1670 1144.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="52faf7c4-ce4a-4049-9549-8c664d908ce2">
+        <title>52faf7c4-ce4a-4049-9549-8c664d908ce2</title>
+        <path class="layer-line" d="M1755.974 807.923 L1764.706 807.265 L1769.262 807.234 L1772.554 807.611 L1774.723 807.249 L1775.768 806.148 L1776.414 804.785 L1776.662 803.161 L1776.459 801.626 L1775.808 800.179 L1774.661 798.371 L1773.021 796.202 L1771.493 795.139 L1770.077 795.183 L1768.582 795.051 L1767.009 794.745 L1765.436 794.318 L1763.863 793.77 L1762.335 793.07 L1760.851 792.216 L1760.896 791.45 L1762.469 790.771 L1764.211 789.689 L1766.121 788.201 L1767.953 787.228 L1769.706 786.769 L1770.886 786.288 L1771.493 785.785 L1772.358 785.304 L1773.482 784.846 L1774.942 784.529 L1776.74 784.354 L1778.415 783.993 L1779.965 783.447 L1781.022 782.574 L1781.583 781.373 L1782.37 780.597 L1783.381 780.248 L1784.112 779.135 L1784.561 777.259 L1785.618 775.373 L1787.281 773.477 L1788.393 771.679 L1788.955 769.981 L1789.528 769.056 L1790.112 768.903 L1790.809 768.457 L1791.618 767.717 L1792.652 766.445 L1793.91 764.641 L1795.135 763.412 L1796.326 762.761 L1797.27 762.066 L1797.967 761.327 L1799.686 760.546 L1802.428 759.721 L1804.338 758.864 L1805.417 757.974 L1806.631 757.226 L1807.979 756.619 L1810.957 756.261 L1815.564 756.152 L1819.587 756.282 L1823.025 756.651 L1826.172 756.846 L1829.026 756.868 L1831.026 756.413 L1832.172 755.48 L1833.15 754.809 L1833.959 754.397 L1835.218 754.039 L1836.926 753.736 L1838.072 753.454 L1838.656 753.195 L1839.443 753.097 L1840.432 753.162 L1841.387 753.086 L1842.308 752.87 L1843.308 752.761 L1844.387 752.761 L1846.275 752.87 L1848.972 753.086 L1851.961 753.639 L1855.242 754.527 L1857.253 755.155 L1857.995 755.524 L1858.916 756.727 L1860.018 758.766 L1860.782 760.046 L1861.209 760.567 L1861.726 760.969 L1862.332 761.251 L1863.4 761.457 L1864.928 761.588 L1866.108 761.392 L1866.94 760.871 L1868.187 760.611 L1869.85 760.611 L1871.412 761.175 L1872.873 762.305 L1873.974 763.532 L1874.716 764.858 L1875.525 766.064 L1876.401 767.152 L1877.772 768.229 L1879.637 769.295 L1882.536 769.48 L1886.469 768.784 L1888.919 768.272 L1889.885 767.946 L1891.358 767.826 L1893.335 767.913 L1894.796 767.663 L1895.74 767.076 L1898.471 766.63 L1902.988 766.325 L1905.977 765.945 L1907.438 765.488 L1909.752 765.021 L1912.921 764.542 L1915.584 763.945 L1917.742 763.228 L1919.708 762.815 L1921.484 762.706 L1924.788 762.185 L1929.619 761.251 L1933.182 761.718 L1935.474 763.587 L1937.283 764.379 L1938.609 764.097 L1939.868 764.01 L1941.059 764.119 L1941.958 764.358 L1942.564 764.727 L1943.452 765.303 L1944.621 766.086 L1946.037 767.653 L1947.7 770.003 L1948.756 771.222 L1949.205 771.309 L1950.172 770.95 L1951.655 770.144 L1953.049 769.632 L1954.352 769.415 L1956.903 769.219 L1960.701 769.045 L1962.937 769.034 L1963.611 769.186 L1965.05 770.122 L1967.252 771.843 L1970.882 773.16 L1975.938 774.076 L1979.882 773.52 L1982.714 771.494 L1985.287 770.351 L1987.602 770.089 L1988.928 769.872 L1989.265 769.698 L1990.288 768.523 L1992.85 765.26" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="58e3833b-114d-4a8c-b3ca-41d4cef446e6">
+        <title>58e3833b-114d-4a8c-b3ca-41d4cef446e6</title>
+        <path class="layer-line" d="M1111.428 593.669 L1111.769 593.471 L1112.037 593.217 L1112.541 593.122 L1112.93 592.952 L1114.064 592.992 L1114.479 593.007 L1115.364 592.793 L1115.636 592.597 L1116.104 592.423 L1116.576 592.415 L1117.664 592.463 L1117.867 592.314 L1118.503 592.187" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="098b7b48-8594-4e88-9d33-1826db841a2e">
+        <title>098b7b48-8594-4e88-9d33-1826db841a2e</title>
+        <path class="layer-line" d="M1564.6 875.6 L1566.386 874.831 L1567.608 873.872 L1568.862 872.466 L1570.128 871.553 L1571.407 871.134 L1572.209 870.727 L1572.535 870.332 L1572.82 869.742 L1573.062 868.955 L1573.966 868.289 L1575.531 867.744 L1579.491 866.91 L1585.847 865.789 L1589.612 865.308 L1590.785 865.468 L1592.483 867.171 L1594.704 870.418 L1595.724 871.961 L1591.604 872.46 L1588.1 873.15 L1583.9 874.25 L1581.15 875.15 L1579.85 875.85 L1578.95 876.65 L1578.2 878" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="2ead776c-3791-4f66-8d89-d3e71bbc6d9c">
+        <title>2ead776c-3791-4f66-8d89-d3e71bbc6d9c</title>
+        <path class="layer-line" d="M1994.2 944 L1993.738 949.09 L1993.239 952.226 L1992.207 956.541" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3336ef53-1eca-4c61-8f0e-ee5fe61ceea9">
+        <title>3336ef53-1eca-4c61-8f0e-ee5fe61ceea9</title>
+        <path class="layer-line" d="M1730.552 591.934 L1732.376 594.648 L1733.757 596.188 L1735.305 597.459 L1736.886 598.344 L1738.5 598.844 L1739.865 599.626 L1740.981 600.689 L1741.812 601.775 L1742.631 603.436" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5ab81a95-58f9-48e6-be1c-85407d39afbd">
+        <title>5ab81a95-58f9-48e6-be1c-85407d39afbd</title>
+        <path class="layer-line" d="M2094.52 939.177 L2094.84 938.58 L2095.279 938.159 L2095.944 937.715 L2097.119 937.563 L2098.804 937.703 L2104.715 938.873 L2114.851 941.071 L2120.988 942.288 L2123.124 942.522 L2124.905 942.522 L2126.329 942.288 L2127.682 941.902 L2128.964 941.364 L2129.771 940.487 L2130.103 939.27 L2131.581 935.629 L2135.516 926.529" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="58a407e6-abb0-48d6-a7be-e08a666753b8">
+        <title>58a407e6-abb0-48d6-a7be-e08a666753b8</title>
+        <path class="layer-line" d="M2339.778 636.33 L2342.778 641.13 L2344.728 643.53 L2346.628 645.13 L2348.228 646.73 L2349.528 648.33 L2350.478 649.68 L2351.078 650.78 L2351.578 651.58 L2351.978 652.08 L2352.478 652.48 L2353.078 652.78 L2353.378 653.03 L2353.378 653.33" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3518a993-72eb-4694-a3eb-effef44e6c41">
+        <title>3518a993-72eb-4694-a3eb-effef44e6c41</title>
+        <path class="layer-line" d="M1685.236 660.181 L1682.998 664.303" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5c5613e8-2068-4c19-95a1-78cd065d6799">
+        <title>5c5613e8-2068-4c19-95a1-78cd065d6799</title>
+        <path class="layer-line" d="M1723.2 702.8 L1725.925 703.964 L1729.643 705.067 L1735.263 706.496 L1738.875 707.24 L1740.48 707.299 L1743.275 707.81 L1747.257 708.774 L1750.314 709.154 L1752.444 708.949 L1755.3 708.35 L1758.882 707.357 L1764.501 705.331 L1772.158 702.27 L1776.959 700.071 L1778.904 698.734 L1782.177 697.353 L1786.777 695.93 L1789.757 694.61 L1791.115 693.392 L1791.949 692.523 L1792.258 692.001 L1792.536 690.67 L1792.783 688.53 L1793.03 687.214 L1793.277 686.723 L1793.987 686.246 L1795.16 685.784 L1798.016 685.078 L1802.555 684.126 L1805.268 683.387 L1806.6 682.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5c7d4b64-5a64-45d4-a2b1-7ad7f6ed1856">
+        <title>5c7d4b64-5a64-45d4-a2b1-7ad7f6ed1856</title>
+        <path class="layer-line" d="M1392.8 589.2 L1392.8 589.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="38641838-4b3d-4b99-82e3-4286fcf8ddc6">
+        <title>38641838-4b3d-4b99-82e3-4286fcf8ddc6</title>
+        <path class="layer-line" d="M1732 1202.4 L1733.05 1199.85 L1733.6 1197.9 L1734 1195.7 L1734.15 1193.85 L1734.05 1192.35 L1734.2 1190.4 L1734.6 1188 L1734.75 1185.65 L1734.6 1182.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3891b44b-f397-47c6-8ba0-a025c0a4e82e">
+        <title>3891b44b-f397-47c6-8ba0-a025c0a4e82e</title>
+        <path class="layer-line" d="M1590 628.8 L1590.2 628.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0152dbf5-c861-4742-bb7a-8b819f301b10">
+        <title>0152dbf5-c861-4742-bb7a-8b819f301b10</title>
+        <path class="layer-line" d="M1959 947.4 L1958.7 947.4 L1958.4 946.4 L1958 944.4 L1957.55 943 L1957.05 942.2 L1956.55 941.6 L1956.05 941.2 L1955.85 940.9 L1955.95 940.7 L1959.5 939.85 L1966.5 938.35 L1970.6 937.3 L1971.8 936.7 L1973.55 935.55 L1977 933" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6c505e24-ca9c-466c-bc95-ca7317f42b96">
+        <title>6c505e24-ca9c-466c-bc95-ca7317f42b96</title>
+        <path class="layer-line" d="M1959 947.4 L1960.155 948.572 L1961.181 949.302 L1962.463 949.98 L1963.852 950.448 L1965.347 950.705 L1966.914 950.834 L1968.552 950.834 L1969.94 950.518 L1971.08 949.886 L1972.637 948.728 L1975.6 946.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="223fadf4-f958-46aa-89d5-c357bbe67c35">
+        <title>223fadf4-f958-46aa-89d5-c357bbe67c35</title>
+        <path class="layer-line" d="M1977.253 728.312 L1981.602 727.958 L1983.883 727.615 L1985.546 727.165 L1987.501 726.339 L1989.748 725.139 L1991.67 724.367 L1993.266 724.025 L1994.693 723.607 L1995.951 723.115 L1997.345 722.783 L1998.873 722.612 L1999.952 722.312 L2000.896 721.67" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="0d41a2b4-c151-4e4e-b024-cf786f4f7daf">
+        <title>0d41a2b4-c151-4e4e-b024-cf786f4f7daf</title>
+        <path class="layer-line" d="M2099.375 992.115 L2100.439 989.925 L2101.319 987.538 L2102.368 984.223 L2103.299 981.657 L2104.516 978.929" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3cbf5bdf-b6f1-4e3d-aea4-18a5c2597c3d">
+        <title>3cbf5bdf-b6f1-4e3d-aea4-18a5c2597c3d</title>
+        <path class="layer-line" d="M1992.207 956.541 L1995.055 960.155 L1994.687 962.319 L1992.053 964.237 L1990.153 965.372 L1988.99 965.722 L1987.471 965.956 L1985.596 966.073 L1983.91 966.062 L1981.667 965.851" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="191afb94-1699-48ef-b5fc-75cf3b0b3cae">
+        <title>191afb94-1699-48ef-b5fc-75cf3b0b3cae</title>
+        <path class="layer-line" d="M2335.98 841.819 L2333.73 844.669 L2332.73 846.119 L2332.23 847.119 L2331.38 848.119 L2330.18 849.119 L2328.93 850.519 L2327.63 852.319 L2326.03 854.269 L2324.13 856.369 L2322.73 858.169 L2321.38 860.419" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3fe03d00-70a7-4177-a522-90c238461214">
+        <title>3fe03d00-70a7-4177-a522-90c238461214</title>
+        <path class="layer-line" d="M2303.45 896.238 L2300.65 892.838" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="68c94db5-064a-468c-b41d-7ea9d346f07b">
+        <title>68c94db5-064a-468c-b41d-7ea9d346f07b</title>
+        <path class="layer-line" d="M1964.2 851.4 L1964.2 860.25 L1964.35 863.65 L1964.65 864.55 L1965.25 865.35 L1966.15 866.05 L1966.75 867.6 L1967.05 870 L1967.4 871.45 L1967.8 871.95 L1968.5 873.3 L1969.5 875.5 L1970.1 877.4 L1970.3 879 L1970.65 880.7 L1971.15 882.5 L1971.85 884.5 L1972.75 886.7 L1973.45 888.7 L1973.95 890.5 L1974.2 892.3 L1974.2 894.1 L1973.9 895.7 L1973.3 897.1 L1973 898.25 L1973 899.15 L1973.3 899.95 L1973.9 900.65 L1974.8 901.3 L1976 901.9 L1976.85 902.45 L1977.35 902.95 L1977.75 903.75 L1978.05 904.85 L1978.45 905.85 L1979.2 907.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="40eec652-32a7-4b4a-8ae1-3ae62d30ece8">
+        <title>40eec652-32a7-4b4a-8ae1-3ae62d30ece8</title>
+        <path class="layer-line" d="M1722.212 674.315 L1722.28 673.454 L1722.74 672.538 L1723.615 671.279 L1724.452 670.545 L1725.252 670.336 L1726.836 670.412 L1730.388 670.957" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="25731bf1-7e20-42cd-8499-cb9f5e4a1704">
+        <title>25731bf1-7e20-42cd-8499-cb9f5e4a1704</title>
+        <path class="layer-line" d="M2100.516 896.929 L2100.516 896.929" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4440d7d8-7689-4a4e-a471-dfbf63c8cf8e">
+        <title>4440d7d8-7689-4a4e-a471-dfbf63c8cf8e</title>
+        <path class="layer-line" d="M1732 677.4 L1732.894 679.413 L1733.566 681.392 L1734.313 684.007 L1735.115 685.963 L1735.971 687.259 L1736.407 688.184 L1736.43 689.015" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6d8f0b3a-efba-479d-a3bd-99fad5736cf2">
+        <title>6d8f0b3a-efba-479d-a3bd-99fad5736cf2</title>
+        <path class="layer-line" d="M1500.391 681.732 L1504.071 681.994" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="f77d0b51-4116-478e-a319-0156d29cdf73">
+        <title>f77d0b51-4116-478e-a319-0156d29cdf73</title>
+        <path class="layer-line" d="M1979.2 907.2 L1982.95 908.25 L1984.8 908.65 L1986 908.75 L1987.25 908.65 L1988.55 908.35 L1989.75 907.75 L1991.4 906.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4480f6f0-da05-4f46-a928-ea97dd76c366">
+        <title>4480f6f0-da05-4f46-a928-ea97dd76c366</title>
+        <path class="layer-line" d="M1658.124 683.72 L1662.186 683.194 L1664.217 682.843 L1665.57 682.492 L1666.824 682.41 L1667.978 682.597 L1668.993 682.866 L1669.871 683.217 L1670.861 683.92 L1671.964 684.974 L1672.709 686.239 L1673.29 688.453" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="26fc4651-19c7-4bd3-8969-e72133f99c35">
+        <title>26fc4651-19c7-4bd3-8969-e72133f99c35</title>
+        <path class="layer-line" d="M1992 986.2 L1993.5 985.6 L1995.6 984.4 L1998.8 982.4 L2000.55 981 L2000.85 980.2 L2001.25 979.65 L2001.75 979.35 L2002.6 978.55 L2003.8 977.25 L2006.05 975.65 L2009.35 973.75 L2011.15 972.6 L2011.45 972.2 L2011.75 971.45 L2012.05 970.35 L2012.65 969.35 L2013.55 968.45 L2014.35 967.7 L2015.05 967.1 L2016.75 966 L2019.45 964.4 L2021.4 963.1 L2023.2 961.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="30fd6c2c-0ccb-4665-825f-4cd88f93db86">
+        <title>30fd6c2c-0ccb-4665-825f-4cd88f93db86</title>
+        <path class="layer-line" d="M1456.952 483.266 L1462.787 481.867 L1465.792 481.498 L1467.912 481.694 L1469.177 481.699 L1469.587 481.515 L1470.544 480.246 L1472.051 477.892 L1472.672 476.2 L1472.409 475.169 L1472.343 473.889 L1472.475 472.358 L1472.796 471.097 L1473.308 470.105 L1474.573 469.399 L1476.591 468.978 L1478.565 468.904 L1480.496 469.177 L1481.885 469.257 L1482.733 469.143 L1483.588 468.875 L1484.451 468.454 L1485.694 467.205 L1487.317 465.127 L1488.655 463.624 L1489.708 462.696 L1490.498 461.808 L1491.024 460.96 L1491.785 460.265 L1492.779 459.722 L1493.818 458.736 L1494.9 457.304 L1496.289 456.025 L1497.985 454.9 L1499.184 454.271 L1500.237 454.068" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="652de32c-c131-4f8f-b945-1ac0a8ebd6a4">
+        <title>652de32c-c131-4f8f-b945-1ac0a8ebd6a4</title>
+        <path class="layer-line" d="M2300.65 892.838 L2300.2 893.138 L2299.55 893.288 L2298.55 893.388 L2296.85 893.888 L2294.45 894.788 L2292.1 895.388 L2289.8 895.688 L2288 896.188 L2286.7 896.888 L2285.6 897.638 L2284.7 898.438 L2283.35 899.388 L2281.55 900.488 L2279.7 901.538 L2277.8 902.538 L2276.05 903.338 L2273.65 904.238" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6fe4371b-13ae-4b2a-9442-f41a0630e058">
+        <title>6fe4371b-13ae-4b2a-9442-f41a0630e058</title>
+        <path class="layer-line" d="M2181.98 799.219 L2182.43 801.019 L2182.58 802.819 L2182.58 805.219 L2182.48 806.819 L2182.28 807.619 L2181.63 809.169 L2180.53 811.469 L2179.93 813.319 L2179.83 814.719 L2179.33 816.419 L2178.43 818.419 L2177.58 820.769 L2176.78 823.469 L2175.48 826.119 L2173.68 828.719 L2172.53 830.819 L2172.03 832.419 L2171.83 834.019 L2171.93 835.619 L2171.88 836.919 L2171.58 838.419" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="75fde46f-d509-468e-93b6-1ec641370492">
+        <title>75fde46f-d509-468e-93b6-1ec641370492</title>
+        <path class="layer-line" d="M2438.765 591.288 L2438.465 591.621 L2438.179 591.749 L2437.806 591.782 L2437.079 591.574 L2435.999 591.124 L2435.204 591.005 L2434.695 591.218 L2434.241 591.924 L2433.841 593.124 L2433.641 594.374 L2433.641 595.674 L2433.891 596.674 L2434.391 597.374 L2434.791 598.324 L2435.091 599.524 L2435.441 600.474 L2435.841 601.174 L2436.791 601.974 L2438.291 602.874 L2439.241 603.524 L2439.641 603.924 L2439.891 604.324 L2439.991 604.724 L2439.341 605.374 L2437.941 606.274 L2435.791 607.174 L2432.891 608.074 L2431.041 608.724 L2430.241 609.124 L2428.191 609.524 L2424.891 609.924 L2422.191 610.524 L2420.091 611.324 L2418.141 612.474 L2416.341 613.974 L2415.091 614.874 L2414.391 615.174 L2413.841 615.724 L2413.441 616.524 L2412.841 617.124 L2412.041 617.524 L2411.341 618.324 L2410.741 619.524 L2410.041 620.374 L2409.241 620.874 L2408.291 621.224 L2407.191 621.424 L2406.291 621.974 L2405.591 622.874 L2404.891 623.574 L2404.191 624.074 L2403.391 624.474 L2402.491 624.774 L2401.041 624.924 L2399.041 624.924 L2398.041 624.974 L2398.041 625.074 L2397.691 625.124 L2396.641 625.124" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="504e45d5-79e8-4bde-a4e9-d21f19b52aa4">
+        <title>504e45d5-79e8-4bde-a4e9-d21f19b52aa4</title>
+        <path class="layer-line" d="M1524.2 831.8 L1524.2 831.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4efb5bd6-d49e-41d2-8c80-53cdd85b822c">
+        <title>4efb5bd6-d49e-41d2-8c80-53cdd85b822c</title>
+        <path class="layer-line" d="M1562.25 670.582 L1566.717 673.291" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4f1d87e5-3b2c-481c-8da3-66deff21d381">
+        <title>4f1d87e5-3b2c-481c-8da3-66deff21d381</title>
+        <path class="layer-line" d="M1682.998 664.303 L1679.7 667.671 L1678.341 669.223 L1677.82 670.08 L1675.824 670.794 L1670.616 671.652" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3681de78-c5ca-4be6-9e0a-54b5e2212f7b">
+        <title>3681de78-c5ca-4be6-9e0a-54b5e2212f7b</title>
+        <path class="layer-line" d="M1985.291 1034.639 L1985.756 1031.967 L1985.656 1030.239 L1985.145 1028.566 L1984.697 1026.353 L1984.314 1023.6 L1984.186 1020.901 L1984.314 1018.256 L1984.983 1015.4 L1986.194 1012.333 L1987.95 1010.8 L1990.25 1010.8 L1992.15 1008.55 L1993.65 1004.05 L1994.4 1000.95 L1994.4 999.25 L1994.1 997.45 L1993.2 994.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="201337fd-1699-4a92-b21c-4b39b6126392">
+        <title>201337fd-1699-4a92-b21c-4b39b6126392</title>
+        <path class="layer-line" d="M1947.4 1034.8 L1946.922 1037.891 L1947.547 1039.29 L1949.118 1040.028 L1951.081 1040.568 L1953.436 1040.91 L1955.308 1041.98 L1956.696 1043.78 L1957.819 1045.066 L1959.106 1046.227" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fa23154f-7865-4e87-8735-2698ffc3aedd">
+        <title>fa23154f-7865-4e87-8735-2698ffc3aedd</title>
+        <path class="layer-line" d="M1631.2 1173 L1631.2 1173" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="78cc9732-e297-46ad-b0e3-b84e21b76829">
+        <title>78cc9732-e297-46ad-b0e3-b84e21b76829</title>
+        <path class="layer-line" d="M1609.397 542.707 L1610.184 548.789 L1610.4 551.986 L1610.308 554.325 L1610.046 555.921 L1609.4 557.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="564c0931-5947-4cfc-ab29-99ea3f7a7063">
+        <title>564c0931-5947-4cfc-ab29-99ea3f7a7063</title>
+        <path class="layer-line" d="M1335.6 760.2 L1337.55 761.25 L1338.95 762.5 L1340.45 764.3 L1341.4 766.25 L1342 769.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="54e92ffc-f52b-49cd-b357-21dfde0617ef">
+        <title>54e92ffc-f52b-49cd-b357-21dfde0617ef</title>
+        <path class="layer-line" d="M1719.2 679.6 L1722.5 679.15 L1724.35 678.55 L1725.85 677.65 L1727.95 677.25 L1732 677.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="71b750a8-e009-4541-a85f-64420ecee479">
+        <title>71b750a8-e009-4541-a85f-64420ecee479</title>
+        <path class="layer-line" d="M2274.195 883.779 L2272.845 883.929 L2271.295 884.379 L2269.095 885.179 L2266.695 886.429 L2264.095 888.129 L2260.345 890.929 L2255.445 894.829 L2252.895 896.879 L2252.695 897.079 L2252.665 897.308 L2252.805 897.565 L2252.775 897.743 L2252.575 897.843 L2252.428 898.123 L2252.333 898.584 L2252.063 898.606 L2251.617 898.188 L2251.295 898.079 L2251.095 898.279 L2249.645 898.779 L2246.945 899.579 L2243.945 900.379 L2238.995 901.579" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="575970db-f45d-4b5f-823d-6eba73fc159e">
+        <title>575970db-f45d-4b5f-823d-6eba73fc159e</title>
+        <path class="layer-line" d="M1917.943 974.849 L1922.136 976.115 L1924.25 976.593 L1925.683 976.704 L1928.036 976.627 L1931.308 976.364 L1936.077 976.745 L1942.342 977.769 L1946.815 978.33 L1949.498 978.427 L1951.577 978.932 L1953.052 979.846 L1954.253 980.268 L1955.18 980.198 L1957.95 979.403 L1962.564 977.882 L1966.686 976.876 L1970.318 976.385 L1972.894 976.256 L1974.413 976.49 L1977.084 976.572 L1982.816 976.467" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="72756c9b-1cb1-4304-91f1-343a17e535a9">
+        <title>72756c9b-1cb1-4304-91f1-343a17e535a9</title>
+        <path class="layer-line" d="M1729.362 691.32 L1725.742 689.832 L1724.345 688.953 L1723.773 687.807" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="727fb84e-c4fd-4589-bc03-07629f3f5461">
+        <title>727fb84e-c4fd-4589-bc03-07629f3f5461</title>
+        <path class="layer-line" d="M1732.6 1125.6 L1732.75 1125.6 L1732.95 1125.5 L1733.25 1125.3 L1734.05 1124.7 L1735.35 1123.7 L1736.15 1123.15 L1736.45 1123.05 L1736.6 1122.95 L1736.6 1122.85 L1737.4 1122.4 L1739 1121.6 L1740.35 1120.35 L1742 1117.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="819d1570-a7b6-43b3-8d0b-3d93e19d8a21">
+        <title>819d1570-a7b6-43b3-8d0b-3d93e19d8a21</title>
+        <path class="layer-line" d="M1977 933 L1976.1 934.5 L1975.65 935.5 L1975.35 936.5 L1975.3 938 L1975.5 940 L1975.55 942.3 L1975.4 946.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="81d4bc77-0acd-4b47-8407-eec1882af755">
+        <title>81d4bc77-0acd-4b47-8407-eec1882af755</title>
+        <path class="layer-line" d="M1992.85 765.26 L1995.109 764.282 L1997.146 763.617 L2001 762.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="83784d80-769d-4c47-9a1a-307d9b11825a">
+        <title>83784d80-769d-4c47-9a1a-307d9b11825a</title>
+        <path class="layer-line" d="M2015.98 601.819 L2017.03 603.919 L2017.78 606.169 L2018.58 609.269 L2019.58 612.019 L2020.78 614.419 L2022.18 616.719 L2023.78 618.919 L2025.03 621.069 L2025.93 623.169 L2027.23 625.519 L2028.93 628.119 L2032.23 632.019 L2037.13 637.219 L2041.13 641.119 L2044.23 643.719 L2046.98 646.269 L2049.38 648.769 L2052.33 651.419 L2055.83 654.219 L2060.08 657.319 L2065.08 660.719 L2069.28 664.419 L2072.68 668.419 L2075.83 671.419 L2078.73 673.419 L2081.03 674.719 L2082.73 675.319 L2085.03 676.919 L2087.93 679.519 L2089.48 681.219 L2089.68 682.019 L2090.18 683.119 L2090.98 684.519 L2091.63 685.869 L2092.13 687.169 L2092.73 688.119 L2093.43 688.719 L2094.28 690.019 L2095.28 692.019 L2096.48 694.669 L2097.88 697.969 L2099.48 701.319 L2101.28 704.719 L2102.23 706.669 L2102.33 707.169 L2102.63 707.519 L2103.13 707.719 L2103.48 707.969 L2103.68 708.269 L2104.88 708.419 L2107.08 708.419 L2108.53 708.569 L2109.23 708.869 L2110.03 709.369 L2110.93 710.069 L2111.78 711.119 L2112.58 712.519 L2113.28 713.469 L2113.88 713.969 L2114.33 714.569 L2114.63 715.269 L2114.78 716.369 L2114.78 717.869 L2114.58 719.269 L2113.98 721.219" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8a93a2f9-02f2-48c9-836a-7e3d9c24b199">
+        <title>8a93a2f9-02f2-48c9-836a-7e3d9c24b199</title>
+        <path class="layer-line" d="M2183.78 798.819 L2183.33 798.819 L2183.13 798.869 L2183.03 798.969 L2182.83 799.019 L2182.53 799.019 L2182.33 799.069 L2182.23 799.169 L2182.13 799.219 L2181.98 799.219" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="60e865ae-1da5-468b-9ab9-cb705319fb3f">
+        <title>60e865ae-1da5-468b-9ab9-cb705319fb3f</title>
+        <path class="layer-line" d="M2360.339 603.328 L2360.789 603.628 L2361.139 604.078 L2361.539 604.778 L2361.739 605.528 L2361.739 606.328 L2360.889 607.578 L2359.189 609.278 L2358.239 610.328 L2358.039 610.728 L2357.989 611.378 L2358.139 612.728" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="62b78abf-6742-4d98-83cc-3d6179499563">
+        <title>62b78abf-6742-4d98-83cc-3d6179499563</title>
+        <path class="layer-line" d="M2354.58 860.619 L2353.38 861.519 L2352.73 862.169 L2352.23 862.869 L2351.23 863.569 L2348.98 864.619" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8f818cf0-53a2-4bc1-97f1-668f8c199249">
+        <title>8f818cf0-53a2-4bc1-97f1-668f8c199249</title>
+        <path class="layer-line" d="M2362.978 648.13 L2362.078 646.78 L2361.178 645.83 L2359.978 644.83 L2358.828 644.48 L2357.728 644.78 L2356.728 645.33 L2355.378 646.53" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="2166cbdf-be65-4e83-8099-c8baab8336d5">
+        <title>2166cbdf-be65-4e83-8099-c8baab8336d5</title>
+        <path class="layer-line" d="M2135.516 926.529 L2135.516 926.529" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3bdbcee6-c783-412c-be28-6912dba3e7c9">
+        <title>3bdbcee6-c783-412c-be28-6912dba3e7c9</title>
+        <path class="layer-line" d="M1959.8 1017.6 L1953.6 1017.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="7fe57f3c-1653-4224-927c-5616f32db38d">
+        <title>7fe57f3c-1653-4224-927c-5616f32db38d</title>
+        <path class="layer-line" d="M2100.516 896.929 L2102.316 898.579 L2103.516 900.329 L2104.716 902.729 L2105.516 904.529 L2106.116 906.329" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="803dd917-94de-4824-95f2-69ff27b5d3ef">
+        <title>803dd917-94de-4824-95f2-69ff27b5d3ef</title>
+        <path class="layer-line" d="M1730.552 591.934 L1726.525 592.904 L1724.025 593.281 L1721.711 593.389 L1718.038 592.689 L1713.008 591.181 L1709.799 590.172 L1708.41 589.662 L1707.083 589.044 L1705.818 588.319 L1704.645 587.89 L1703.565 587.756 L1702.377 587.756 L1701.081 587.89 L1700.016 588.172 L1699.183 588.601 L1697.131 588.856 L1693.86 588.936 L1691.376 589.151 L1689.678 589.5 L1688.135 590.321 L1686.747 591.612 L1684.648 592.796 L1681.84 593.875 L1677.412 594.535 L1671.363 594.778 L1667.907 594.994 L1667.043 595.183 L1665.67 595.277 L1663.787 595.277 L1662.167 595.129 L1660.809 594.832 L1658.541 593.969 L1655.363 592.541 L1653.141 591.302 L1651.875 590.253 L1650.348 589.165 L1648.558 588.038 L1647.185 586.845 L1646.228 585.586 L1645.58 584.555 L1645.241 583.753 L1643.358 582.152 L1639.933 579.753 L1638.004 578.287 L1637.572 577.755 L1637.202 577.051 L1636.893 576.175 L1636.77 575.432 L1636.831 574.822 L1637.078 574.133 L1637.51 573.365 L1637.865 572.425 L1638.143 571.315 L1638.143 570.219 L1637.865 569.137 L1636.909 567.543 L1635.273 565.438 L1634.208 563.94 L1633.715 563.048 L1632.511 561.895 L1630.598 560.481 L1628.299 559.578 L1625.614 559.186 L1623.269 558.507 L1621.263 557.541 L1620.044 557.045 L1619.612 557.019 L1618.563 557.528 L1616.896 558.572 L1615.369 559.356 L1613.98 559.879 L1612.684 560.336 L1611.48 560.729 L1610.138 560.912 L1607.916 560.873" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="65ee5a61-9c4d-4247-a4e8-b94f4f1769b9">
+        <title>65ee5a61-9c4d-4247-a4e8-b94f4f1769b9</title>
+        <path class="layer-line" d="M1670.616 671.652 L1670.153 668.813 L1670.153 667.287 L1670.462 666.129 L1670.356 665.042 L1669.835 664.028 L1669.526 662.988 L1669.43 661.921 L1669.189 661.042 L1668.803 660.35 L1668.041 659.463 L1666.903 658.381 L1666.276 657.229 L1666.161 656.008 L1666.257 654.567 L1666.566 652.906 L1667.395 650.86 L1668.745 648.429 L1669.449 646.712 L1669.536 645.21" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fe0f3ee3-bc76-4e83-b5d6-e05157dc1668">
+        <title>fe0f3ee3-bc76-4e83-b5d6-e05157dc1668</title>
+        <path class="layer-line" d="M1506.6 819 L1504.05 815.25 L1502.55 813.45 L1501.25 812.35 L1500.45 811.45 L1500.15 810.75 L1499.7 810.15 L1499.1 809.65 L1497.25 808.55 L1494.15 806.85 L1491.2 805.6 L1488.4 804.8 L1485.85 804.2 L1483.55 803.8 L1480.3 803.8 L1476.1 804.2 L1471.05 804.35 L1465.15 804.25 L1460.45 803.65 L1456.95 802.55 L1454.15 801.45 L1452.05 800.35 L1450.7 799.55 L1450.1 799.05 L1449.1 797.85 L1447.7 795.95 L1446.2 793.2 L1444.6 789.6 L1442.9 786.5 L1441.1 783.9 L1439.6 782.1 L1438.4 781.1 L1436.15 778.9 L1432.85 775.5 L1430.3 773.45 L1427.6 772.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="86028450-97b6-40f6-9584-e15bdb416107">
+        <title>86028450-97b6-40f6-9584-e15bdb416107</title>
+        <path class="layer-line" d="M2352.303 884.087 L2350.953 883.187 L2349.603 881.987 L2347.803 880.187 L2346.803 879.287 L2346.603 879.287 L2346.503 879.187 L2346.503 878.987 L2347.353 878.687 L2349.053 878.287 L2350.953 877.987 L2353.053 877.787 L2354.553 877.537 L2355.453 877.237 L2355.903 875.937 L2355.903 872.487" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="960a0bf8-a62c-4ffd-8931-3fd9aaaddad1">
+        <title>960a0bf8-a62c-4ffd-8931-3fd9aaaddad1</title>
+        <path class="layer-line" d="M1760.964 726.553 L1763.256 727.004 L1765.267 726.8 L1767.762 726.093 L1769.571 725.717 L1770.695 725.675 L1771.897 725.417 L1773.178 724.946 L1775.414 723.8 L1778.606 721.981 L1780.752 720.846 L1781.853 720.397 L1782.685 719.863 L1783.247 719.243 L1784.426 718.719 L1786.224 718.292 L1788.236 717.534 L1790.461 716.445 L1792.023 715.58 L1792.922 714.94 L1794.158 714.396 L1795.731 713.949 L1799.855 713.65 L1806.53 713.501 L1810.755 713.234 L1812.53 712.851 L1813.463 713.341 L1813.553 714.706 L1813.98 715.847 L1814.744 716.765 L1815.227 717.908 L1815.429 719.275 L1815.935 720.258 L1816.744 720.857 L1817.283 721.477 L1817.553 722.119 L1817.924 722.686 L1818.396 723.179 L1819.081 723.757 L1819.98 724.421 L1821.272 724.924 L1822.958 725.267 L1824.733 725.471 L1826.599 725.535 L1827.767 725.664 L1828.239 725.857 L1829.363 725.975 L1831.139 726.017 L1832.768 725.825 L1834.251 725.396 L1836.105 724.239 L1838.33 722.355 L1840.072 721.028 L1841.33 720.258 L1843.117 719.478 L1845.432 718.687 L1847.814 718.206 L1850.264 718.035 L1852.523 718.078 L1854.59 718.335 L1857.59 719.371 L1861.523 721.189 L1864.883 722.612 L1867.67 723.639 L1870.637 724.41 L1873.783 724.925 L1876.94 725.235 L1880.109 725.342 L1882.694 725.578 L1884.694 725.942 L1887.762 726.318 L1891.897 726.704 L1894.627 726.757 L1895.953 726.478 L1897.482 726.307 L1899.212 726.243 L1901.572 725.696 L1904.561 724.668 L1907.763 723.864 L1911.18 723.286 L1913.326 723.05 L1914.202 723.157 L1915.472 723.532 L1917.135 724.175 L1919.472 725.407 L1922.484 727.23 L1924.619 728.72 L1925.878 729.879 L1927.147 730.846 L1928.428 731.619 L1930.709 732.382 L1933.991 733.134 L1937.822 733.607 L1942.205 733.801 L1946.969 734.167 L1952.116 734.704 L1957.33 735.511 L1962.611 736.588 L1965.915 737.557 L1967.241 738.418 L1968.039 738.117 L1968.308 736.652 L1968.679 735.415 L1969.151 734.403 L1970.061 733.242 L1971.41 731.931 L1972.769 730.781 L1974.14 729.794 L1975.433 729.053 L1977.253 728.312" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6c4270c5-13c7-4936-86f2-1f332f27f139">
+        <title>6c4270c5-13c7-4936-86f2-1f332f27f139</title>
+        <path class="layer-line" d="M2040.58 785.819 L2042.68 785.369 L2044.53 784.669 L2046.83 783.569 L2049.83 782.619 L2053.53 781.819 L2056.68 780.969 L2059.28 780.069 L2062.33 778.569 L2065.83 776.469 L2068.38 774.669 L2069.98 773.169 L2071.38 771.319 L2072.58 769.119 L2073.58 767.769 L2074.78 767.019" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6cb43bb7-3bc1-4c1a-800b-5fd02e7ad4d2">
+        <title>6cb43bb7-3bc1-4c1a-800b-5fd02e7ad4d2</title>
+        <path class="layer-line" d="M1544.057 706.701 L1548.779 707.555 L1554.223 707.813 L1561.962 707.76 L1565.41 705.745 L1564.568 701.767 L1563.67 698.968 L1562.717 697.349 L1557.694 699.08 L1544.057 706.701" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6e133a3e-50b0-4195-bd03-266519a42682">
+        <title>6e133a3e-50b0-4195-bd03-266519a42682</title>
+        <path class="layer-line" d="M2104.516 978.929 L2102.866 978.329 L2101.316 976.929 L2099.316 974.529 L2097.466 972.579 L2095.766 971.079 L2093.066 969.129 L2089.366 966.729 L2087.116 965.329 L2086.316 964.929 L2085.116 964.529 L2082.716 963.929" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9fed03aa-5039-4fa3-8c7f-5246d7220777">
+        <title>9fed03aa-5039-4fa3-8c7f-5246d7220777</title>
+        <path class="layer-line" d="M2321.38 860.419 L2315.23 863.419 L2309.88 865.269 L2299.98 867.819" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3f97dc4b-36f1-431e-b794-8ed7c7b7c577">
+        <title>3f97dc4b-36f1-431e-b794-8ed7c7b7c577</title>
+        <path class="layer-line" d="M1517.4 918.6 L1519.95 916.05 L1522.55 913.9 L1526.05 911.3 L1529.15 909.55 L1531.85 908.65 L1534.4 908 L1536.8 907.6 L1538.8 907.1 L1540.4 906.5 L1541.9 903.45 L1544 895.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="964598a3-6b29-4e36-bf09-5686e53ce56c">
+        <title>964598a3-6b29-4e36-bf09-5686e53ce56c</title>
+        <path class="layer-line" d="M1723.2 702.8 L1720.35 702.05 L1719.2 701.6 L1718.8 701.2 L1718 700.75 L1716.8 700.25 L1715.4 699.9 L1713.8 699.7 L1712.5 699.35 L1711.5 698.85 L1710.7 697.7 L1710.1 695.9 L1709.75 692.85 L1709.6 686.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="aab83467-4485-4e3b-bbb2-930e6a340550">
+        <title>aab83467-4485-4e3b-bbb2-930e6a340550</title>
+        <path class="layer-line" d="M1551.558 680.669 L1556.472 683.86 L1558.395 685.245 L1558.964 685.888 L1559.653 686.487 L1560.863 687.32" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="23218bd1-cdf6-492c-b1c0-f20b46cbf514">
+        <title>23218bd1-cdf6-492c-b1c0-f20b46cbf514</title>
+        <path class="layer-line" d="M1678.457 845.035 L1679.69 842.049 L1681.167 839.196 L1683.298 835.483 L1686.294 832.839 L1690.155 831.266 L1692.274 830.185 L1692.65 829.595 L1693.49 828.772 L1694.794 827.715 L1695.446 826.389 L1695.446 824.793 L1697.038 822.927 L1700.222 820.791 L1702.379 820.165 L1703.507 821.048 L1705.889 821.699 L1709.525 822.116 L1712.483 822.214 L1714.765 821.993 L1716.608 821.711 L1718.012 821.368 L1719.376 820.73 L1721.361 819.333" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b1387783-1c9e-4623-99be-a968947af47b">
+        <title>b1387783-1c9e-4623-99be-a968947af47b</title>
+        <path class="layer-line" d="M1607.916 560.873 L1605.972 563.783 L1604.521 565.398 L1602.917 566.687 L1601.111 567.634 L1599.106 568.24 L1597.239 568.582 L1594.646 568.701" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9b9bb559-ee8a-4b9f-80d0-9421f801a0b0">
+        <title>9b9bb559-ee8a-4b9f-80d0-9421f801a0b0</title>
+        <path class="layer-line" d="M1524.2 831.8 L1529.9 837.05 L1534.35 841.5 L1542 849.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9b9d8aaa-9959-42d4-99d9-7742f5b7dd33">
+        <title>9b9d8aaa-9959-42d4-99d9-7742f5b7dd33</title>
+        <path class="layer-line" d="M1975.4 946.2 L1965.35 946.35 L1961.25 946.65 L1959 947.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b831299e-8447-48d1-9933-e482aaf9a6fb">
+        <title>b831299e-8447-48d1-9933-e482aaf9a6fb</title>
+        <path class="layer-line" d="M1591.8 571.1 L1590.934 571.826 L1589.766 572.418 L1588.005 573.117 L1586.001 573.788 L1583.752 574.431 L1581.747 574.795 L1579.107 574.921" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="41c7c9ae-9e22-4d71-8412-672a48aca9af">
+        <title>41c7c9ae-9e22-4d71-8412-672a48aca9af</title>
+        <path class="layer-line" d="M2353.378 653.33 L2351.128 654.23 L2350.178 654.73 L2349.778 655.13 L2349.178 656.38 L2348.378 658.48 L2347.278 660.18 L2345.878 661.48 L2345.128 662.38 L2345.028 662.88 L2344.828 663.23 L2344.528 663.43 L2344.228 663.53 L2343.928 663.53 L2342.528 662.88 L2340.028 661.58 L2338.178 660.08 L2336.978 658.38 L2336.028 657.53 L2335.328 657.53 L2334.578 657.68 L2333.778 657.98 L2332.178 658.83 L2329.778 660.23 L2328.278 661.23 L2327.678 661.83 L2326.678 662.43 L2324.578 663.33" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="262ea237-d6a3-48aa-91a9-514816b2ff8f">
+        <title>262ea237-d6a3-48aa-91a9-514816b2ff8f</title>
+        <path class="layer-line" d="M2031.4 922.8 L2028.55 924.75 L2026.7 925.75 L2024.9 926.45 L2023 927.35 L2021 928.45 L2018.85 929.45 L2016.55 930.35 L2014.75 930.9 L2013.45 931.1 L2011.85 931.5 L2009.95 932.1 L2008.35 932.7 L2007.05 933.3 L2005.903 933.637 L2004.91 933.712 L2004.153 933.637 L2003.633 933.412 L2002.68 933.275 L2001.293 933.225 L1999.7 933.3 L1997.9 933.5 L1994.4 933.6 L1989.2 933.6 L1984.7 933.3 L1980.9 932.7 L1978.65 932.4 L1977.95 932.4 L1977.45 932.55 L1977 933" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="2685df2b-3067-491f-b98d-305e43f7cf7b">
+        <title>2685df2b-3067-491f-b98d-305e43f7cf7b</title>
+        <path class="layer-line" d="M2297.25 900.038 L2298 899.888 L2298.5 899.538 L2299 898.938 L2299.95 898.338 L2301.35 897.738 L2302.4 897.138 L2303.45 896.238" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4268f554-d507-4d91-ae0d-004f61bd7a1b">
+        <title>4268f554-d507-4d91-ae0d-004f61bd7a1b</title>
+        <path class="layer-line" d="M1645.895 1147.502 L1647.812 1149.695 L1648.582 1151.441 L1648.846 1153.47 L1649.518 1155.094 L1650.598 1156.314 L1651.267 1157.355 L1651.523 1158.216 L1651.321 1159.406 L1650.659 1160.923 L1650.23 1162.195 L1650.034 1163.222 L1650.017 1163.997 L1650.18 1164.52 L1650.173 1165.027 L1649.997 1165.517 L1650.068 1166.272 L1650.385 1167.291 L1651.111 1168.201 L1652.246 1169.002 L1652.91 1169.752 L1653.2 1170.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4d44de87-47f4-462b-b422-04f9845764dd">
+        <title>4d44de87-47f4-462b-b422-04f9845764dd</title>
+        <path class="layer-line" d="M1719.2 679.6 L1719.2 679.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="bc2720f8-698f-4257-8e93-2ad8f298978b">
+        <title>bc2720f8-698f-4257-8e93-2ad8f298978b</title>
+        <path class="layer-line" d="M2091.116 885.529 L2090.516 887.329 L2090.316 888.279 L2090.316 888.979 L2090.366 889.629 L2090.466 890.229 L2090.766 890.979 L2091.266 891.879 L2093.216 893.029 L2096.616 894.429 L2098.866 895.579 L2100.516 896.929" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a0af0513-44fe-4ca2-b7fe-74d407e45909">
+        <title>a0af0513-44fe-4ca2-b7fe-74d407e45909</title>
+        <path class="layer-line" d="M1609.397 542.707 L1607.513 542.884 L1605.372 542.664 L1602.346 542.105 L1600.293 541.871 L1599.213 541.961 L1597.808 542.186 L1596.08 542.547 L1594.064 543.133 L1590.612 544.35" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a2df39e9-4925-4e45-81a5-b481ca0794d2">
+        <title>a2df39e9-4925-4e45-81a5-b481ca0794d2</title>
+        <path class="layer-line" d="M1732 677.4 L1732 677.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="be1ddd2a-08a1-46bd-b553-379990db81bb">
+        <title>be1ddd2a-08a1-46bd-b553-379990db81bb</title>
+        <path class="layer-line" d="M2373.4 892.2 L2376.25 892.05 L2377.55 891.8 L2378.25 891.4 L2379.2 891.05 L2380.4 890.75 L2381.7 890.2 L2383.1 889.4 L2383.9 889.15 L2384.1 889.45 L2384.75 891.05 L2385.85 893.95 L2386.7 896.6 L2387.3 899 L2387.95 900.75 L2388.65 901.85 L2389 902.65 L2389 903.15 L2388.65 904.3 L2387.95 906.1 L2387.1 907.5 L2386.1 908.5 L2385.4 909.85 L2385 911.55 L2384.324 913.15 L2382.897 915.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a4f98c95-ebb2-48a4-849b-fd491db85d5d">
+        <title>a4f98c95-ebb2-48a4-849b-fd491db85d5d</title>
+        <path class="layer-line" d="M1537.95 518.439 L1540.172 516.505" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c2d1f5db-7087-4d3b-b903-e275551d4a49">
+        <title>c2d1f5db-7087-4d3b-b903-e275551d4a49</title>
+        <path class="layer-line" d="M2093.082 904.362 L2093.082 904.362" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="918c0c62-d3f1-470c-89fe-9a571e1f901b">
+        <title>918c0c62-d3f1-470c-89fe-9a571e1f901b</title>
+        <path class="layer-line" d="M1542 849.6 L1542.15 850.5 L1542.55 851.5 L1543.25 852.9 L1543.95 855.8 L1544.65 860.2 L1545.5 864 L1546.5 867.2 L1546.75 869.35 L1546.25 870.45 L1546.25 871.45 L1547 872.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="2bfa0b0b-a59f-44f0-aa65-3e0b673112d2">
+        <title>2bfa0b0b-a59f-44f0-aa65-3e0b673112d2</title>
+        <path class="layer-line" d="M1949.801 1028.399 L1951.45 1026.75 L1952.5 1025.9 L1953.5 1025.3 L1954.65 1024.35 L1955.95 1023.05 L1957.4 1022 L1959 1021.2 L1959.8 1020 L1959.8 1017.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="2c699f2a-390a-407a-a80c-ae59802f9d0f">
+        <title>2c699f2a-390a-407a-a80c-ae59802f9d0f</title>
+        <path class="layer-line" d="M1609.4 557.2 L1607.916 560.873" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="81a0ffdf-e14c-46bd-8737-14e01b142072">
+        <title>81a0ffdf-e14c-46bd-8737-14e01b142072</title>
+        <path class="layer-line" d="M1671.233 676.989 L1670.616 671.652" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a1ed3298-002d-4825-bdc6-91afbde072fd">
+        <title>a1ed3298-002d-4825-bdc6-91afbde072fd</title>
+        <path class="layer-line" d="M1531.264 806.522 L1539.576 801.896 L1545.481 798.07 L1551.749 793.5 L1558.945 788.812 L1567.069 784.008 L1573.099 780.656 L1577.036 778.757 L1581.612 774.394 L1586.827 767.567 L1589.523 761.916 L1589.869 755.314" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d7234ee9-e8b6-44d7-b446-a017c6e5bdbf">
+        <title>d7234ee9-e8b6-44d7-b446-a017c6e5bdbf</title>
+        <path class="layer-line" d="M2171.58 838.419 L2171.88 838.419 L2172.53 838.919 L2173.63 839.919 L2174.68 841.019 L2175.68 842.219 L2176.73 842.869 L2177.83 842.969 L2178.78 843.169 L2179.58 843.469 L2180.78 844.319 L2182.38 845.719 L2183.78 846.519 L2184.98 846.719 L2186.53 847.369 L2188.43 848.469 L2190.98 849.569 L2194.18 850.669 L2197.48 852.119 L2200.88 853.919 L2203.18 854.919 L2204.38 855.119 L2206.33 855.069 L2209.03 854.769 L2210.73 854.369 L2211.43 853.869 L2213.13 854.069 L2215.83 854.969 L2218.08 855.269 L2219.88 854.969 L2221.38 854.519 L2222.58 853.919 L2223.98 853.669 L2225.58 853.769 L2227.03 854.069 L2228.33 854.569 L2229.63 854.769 L2230.93 854.669 L2232.73 853.619 L2235.03 851.619 L2237.33 850.219 L2239.63 849.419 L2241.28 848.419 L2242.28 847.219 L2243.78 845.769 L2245.78 844.069 L2248.13 842.819 L2250.83 842.019 L2252.78 841.619 L2253.98 841.619 L2255.88 841.419 L2258.48 841.019 L2260.18 841.169 L2260.98 841.869 L2261.63 842.619 L2262.13 843.419 L2262.78 844.069 L2263.58 844.569 L2264.73 844.919 L2266.23 845.119 L2267.83 845.169 L2269.53 845.069 L2270.68 844.919 L2271.28 844.719 L2271.68 844.669 L2271.88 844.769 L2271.68 845.269 L2271.08 846.169 L2270.78 846.969 L2270.78 847.669 L2270.58 848.369 L2270.18 849.069 L2269.98 849.619 L2269.98 850.019 L2270.48 850.919 L2271.48 852.319 L2273.28 853.869 L2275.88 855.569 L2277.28 856.569 L2277.48 856.869 L2277.48 858.119 L2277.28 860.319 L2277.33 862.019 L2277.63 863.219 L2278.33 864.369 L2279.43 865.469 L2280.53 866.169 L2282.18 866.619" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3fc9803e-070e-4118-b4c6-e784cddbf7bb">
+        <title>3fc9803e-070e-4118-b4c6-e784cddbf7bb</title>
+        <path class="layer-line" d="M2171.58 838.419 L2170.38 839.769 L2169.78 840.969 L2169.38 842.469 L2169.28 843.719 L2169.48 844.719 L2169.43 845.819 L2169.13 847.019 L2168.58 848.269 L2167.78 849.569 L2166.88 851.469 L2165.88 853.969 L2165.28 855.319 L2165.08 855.519 L2162.53 856.519 L2157.63 858.319 L2154.78 859.519 L2153.98 860.119 L2153.28 860.969 L2152.68 862.069 L2150.58 863.769 L2146.98 866.069 L2144.53 867.969 L2143.23 869.469 L2142.08 870.369 L2141.08 870.669 L2140.368 871.109 L2139.944 871.687 L2139.532 872.026 L2139.132 872.126 L2138.528 872.514 L2137.316 873.529" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4ab24f55-4fd4-4732-9b49-4cc3ee35c4dd">
+        <title>4ab24f55-4fd4-4732-9b49-4cc3ee35c4dd</title>
+        <path class="layer-line" d="M1609.4 557.2 L1609.4 557.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="432e6db2-fa8a-460f-a418-05703d8ce91d">
+        <title>432e6db2-fa8a-460f-a418-05703d8ce91d</title>
+        <path class="layer-line" d="M2113.98 721.219 L2120.43 719.119 L2123.68 718.169 L2125.88 717.669 L2128.33 716.819 L2131.03 715.619 L2133.68 713.619 L2136.28 710.819 L2137.88 708.969 L2138.48 708.069 L2139.48 707.019 L2140.88 705.819 L2142.23 704.819 L2143.53 704.019 L2145.03 703.369 L2146.73 702.869 L2148.638 702.167 L2151.812 700.811" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b53c0ae3-4fbe-4ceb-a007-1a1929d7423a">
+        <title>b53c0ae3-4fbe-4ceb-a007-1a1929d7423a</title>
+        <path class="layer-line" d="M2031.4 922.8 L2032 924.15 L2032.45 924.75 L2033.2 925.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="2d1c855b-7600-459c-87c6-a500b3d1bd29">
+        <title>2d1c855b-7600-459c-87c6-a500b3d1bd29</title>
+        <path class="layer-line" d="M1504.071 681.994 L1511.824 682.977 L1515.244 682.65 L1516.916 681.34 L1518.131 679.469 L1518.889 677.037 L1519.536 676.096 L1520.069 676.644 L1521.348 676.997 L1523.37 677.154 L1525.217 677.108 L1526.889 676.86 L1528.132 676.416 L1528.947 675.776 L1529.41 673.893 L1529.522 670.767 L1529.937 668.204 L1530.653 666.205 L1531.854 665.581 L1533.54 666.334 L1535.787 666.716 L1538.596 666.729 L1540.759 667.086 L1542.276 667.788 L1544.58 668.437 L1547.67 669.035 L1549.482 669.516 L1550.016 669.88 L1550.88 670.244 L1552.074 670.608 L1552.909 670.693 L1553.387 670.498 L1555.009 670.589 L1557.776 670.966 L1559.933 671.012 L1562.25 670.582" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fa04cd5c-de58-4f25-878a-c9eaf6ac95c9">
+        <title>fa04cd5c-de58-4f25-878a-c9eaf6ac95c9</title>
+        <path class="layer-line" d="M1723.773 687.807 L1723.773 687.807" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="451ac396-f967-440d-a9da-196360f22c50">
+        <title>451ac396-f967-440d-a9da-196360f22c50</title>
+        <path class="layer-line" d="M1982.816 976.467 L1975.553 981.753" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="3a36b83d-2fa4-4e19-9274-b55ef332b3af">
+        <title>3a36b83d-2fa4-4e19-9274-b55ef332b3af</title>
+        <path class="layer-line" d="M1365 796.8 L1365.9 799.35 L1366.2 800.65 L1366.2 801.55 L1365.85 802.75 L1365.15 804.25 L1365.05 805 L1365.8 805" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="1bd63afe-cdb3-4336-bd2e-2606858b4329">
+        <title>1bd63afe-cdb3-4336-bd2e-2606858b4329</title>
+        <path class="layer-line" d="M1840.6 549.6 L1838.33 549.308 L1836.045 549.327 L1832.99 549.56 L1829.704 549.962 L1826.186 550.532 L1822.513 550.83 L1818.687 550.856 L1815.848 550.765 L1813.996 550.558 L1811.388 550.053 L1808.025 549.25 L1805.541 548.835 L1803.936 548.81 L1801.267 549.068 L1797.533 549.612 L1793.104 549.845 L1787.981 549.768 L1785.096 549.78 L1784.448 549.884 L1783.754 550.221 L1783.013 550.791 L1780.915 551.362 L1777.458 551.933 L1775.514 552.348 L1775.082 552.608 L1774.789 552.906 L1774.635 553.244 L1774.604 553.647 L1774.696 554.115 L1775.036 554.675 L1775.622 555.325 L1776.671 556.042 L1778.184 556.824 L1779.125 557.423 L1779.495 557.841 L1779.742 558.389 L1779.865 559.068 L1779.865 559.696 L1779.742 560.271 L1778.924 561.214 L1777.412 562.524 L1775.314 564.019 L1772.629 565.701 L1770.793 567.029 L1769.805 568.003 L1768.571 568.978 L1767.09 569.954 L1765.423 571.302 L1763.572 573.021 L1761.489 574.743 L1759.174 576.468 L1757.137 578.235 L1755.378 580.045 L1751.66 582.366 L1745.982 585.2 L1741.769 587.408 L1739.023 588.991 L1735.875 590.32 L1730.552 591.934" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4458aa07-8dbc-444c-bbc8-443237251988">
+        <title>4458aa07-8dbc-444c-bbc8-443237251988</title>
+        <path class="layer-line" d="M1599.577 766.244 L1614.888 779.315 L1623.379 785.164 L1630.153 788.148 L1636.8 790.991 L1643.319 793.695 L1651.18 795.919 L1660.383 797.663 L1665.699 798.482 L1667.128 798.375 L1667.896 798.111 L1668.004 797.689 L1668.37 797.677 L1668.993 798.074 L1669.55 798.257 L1670.04 798.224 L1671.083 798.597 L1672.679 799.375 L1675.547 799.781 L1679.686 799.813 L1682.811 800.044 L1684.922 800.474 L1688.168 800.133 L1692.548 799.023 L1695.685 798.788 L1697.58 799.428 L1698.952 799.979 L1700.223 800.673" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="dee8e935-f785-4657-aa0e-6858b234b3e1">
+        <title>dee8e935-f785-4657-aa0e-6858b234b3e1</title>
+        <path class="layer-line" d="M1617.614 661.072 L1616.975 657.546 L1616.837 655.623 L1616.988 654.129 L1617.025 651.744 L1616.912 646.83" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="48154b51-1300-4228-8d73-9bc2ce0e1655">
+        <title>48154b51-1300-4228-8d73-9bc2ce0e1655</title>
+        <path class="layer-line" d="M1670 1144.2 L1671.5 1145.7 L1673.8 1146.8 L1677.4 1148 L1680.3 1149.1 L1682.5 1150.1 L1683.95 1150.85 L1684.65 1151.35 L1685.15 1151.9 L1685.45 1152.5 L1686 1153.2 L1686.8 1154 L1687.8 1154.85 L1689 1155.75 L1690.1 1156.5 L1691.1 1157.1 L1692.25 1157.5 L1694.2 1157.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="41b843f9-b0ca-4baa-a235-de5a687a4ff8">
+        <title>41b843f9-b0ca-4baa-a235-de5a687a4ff8</title>
+        <path class="layer-line" d="M1730.388 670.957 L1732.266 670.853 L1733.345 670.881 L1734.702 671.069" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4b84182f-be75-41a5-8762-6d31b0d5871c">
+        <title>4b84182f-be75-41a5-8762-6d31b0d5871c</title>
+        <path class="layer-line" d="M1653.2 1170.8 L1655 1170.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5857ebac-a9e1-4c5f-a200-f4381aba9a78">
+        <title>5857ebac-a9e1-4c5f-a200-f4381aba9a78</title>
+        <path class="layer-line" d="M1579.107 574.921 L1583.801 578.737" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="49769601-4be9-4327-89aa-16662d9e8a27">
+        <title>49769601-4be9-4327-89aa-16662d9e8a27</title>
+        <path class="layer-line" d="M1692.201 703.718 L1696.958 702.494 L1699.203 702.086 L1700.521 702.086 L1701.89 702.416 L1703.311 703.077 L1704.156 703.679 L1704.423 704.224 L1705.103 704.895 L1706.195 705.692 L1707.204 706.091 L1708.594 706.091" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6198de7a-e7a4-48b5-860e-a4e317f49c24">
+        <title>6198de7a-e7a4-48b5-860e-a4e317f49c24</title>
+        <path class="layer-line" d="M2178.58 790.619 L2178.13 788.669 L2177.93 787.269 L2177.83 785.769 L2177.98 784.269 L2178.38 782.769 L2178.83 781.469 L2179.33 780.369 L2179.63 777.919 L2179.73 774.119 L2179.43 771.019 L2178.73 768.619 L2178.33 766.619 L2178.23 765.019 L2178.23 764.019 L2178.33 763.619 L2178.73 763.119 L2179.43 762.519 L2179.28 762.069 L2178.28 761.769 L2177.18 760.519 L2175.98 758.319 L2175.33 756.719 L2175.23 755.719 L2174.953 755.061 L2174.498 754.743 L2173.798 753.993 L2172.853 752.811 L2171.78 751.769 L2170.58 750.869 L2169.43 750.419 L2168.33 750.419 L2165.88 749.169 L2162.08 746.669 L2159.98 744.719 L2159.58 743.319 L2159.33 742.019 L2159.23 740.819 L2159.33 739.469 L2159.63 737.969 L2159.98 736.769 L2160.38 735.869 L2160.53 734.969 L2160.43 734.069 L2160.18 733.369 L2159.78 732.869 L2159.08 732.419 L2158.08 732.019 L2156.38 730.569 L2153.98 728.069 L2152.53 726.669 L2151.78 726.219" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5af15ceb-890b-4890-a71a-73fcb4a64b02">
+        <title>5af15ceb-890b-4890-a71a-73fcb4a64b02</title>
+        <path class="layer-line" d="M1765.8 835.6 L1770.15 833.05 L1771.95 831.75 L1772.65 830.85 L1773.45 829.3 L1774.35 827.1 L1775.05 825.05 L1775.55 823.15 L1775.85 819.95 L1775.95 815.45 L1775.85 812.5 L1775.55 811.1 L1775.1 809.75 L1774.5 808.45 L1773.85 808.35 L1773.15 809.45 L1772.1 810.35 L1770.7 811.05 L1769.35 811.6 L1768.05 812 L1766.9 812.55 L1765.9 813.25 L1764.55 814.5 L1762.85 816.3 L1761.05 818.6 L1759.15 821.4 L1759.835 823.969 L1763.106 826.307 L1765.019 827.879 L1765.575 828.683 L1765.84 830.714 L1765.813 833.971 L1764.873 835.153 L1763.02 834.258 L1760.252 833.135 L1756.571 831.785 L1753.724 830.617 L1751.711 829.631 L1749.606 828.735 L1747.408 827.931 L1745.051 827.23 L1741.277 826.335" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="58e89849-56b9-4355-9b4b-9cdec56f1b54">
+        <title>58e89849-56b9-4355-9b4b-9cdec56f1b54</title>
+        <path class="layer-line" d="M2033.2 925.2 L2035 925.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="4f10ebc1-d4f6-44cb-99d8-3e372b97dea0">
+        <title>4f10ebc1-d4f6-44cb-99d8-3e372b97dea0</title>
+        <path class="layer-line" d="M1721.361 819.333 L1721.162 820.072 L1721.175 820.565 L1721.334 821.057 L1722.221 821.783 L1723.837 822.743 L1724.684 823.521 L1724.764 824.117 L1724.658 824.986 L1724.367 826.127 L1723.93 827.1 L1723.347 827.905 L1722.963 829.384 L1722.778 831.539 L1722.553 832.992 L1722.288 833.745 L1721.917 834.447 L1721.44 835.096 L1720.831 835.628 L1720.09 836.044 L1719.043 836.395 L1717.693 836.68 L1715.654 836.836 L1712.926 836.862 L1710.992 837.018 L1709.854 837.304 L1708.529 837.953 L1707.02 838.966 L1705.921 839.603 L1705.232 839.863 L1704.544 840.058 L1703.855 840.188 L1702.12 840.175 L1699.34 840.019 L1696.81 840.422 L1694.533 841.383 L1689.66 842.657 L1682.191 844.242 L1675.703 845.191 L1670.194 845.503 L1666.539 846.179 L1664.738 847.219 L1661.468 848.416 L1656.727 849.768 L1652.291 850.757 L1648.16 851.381 L1641.261 852.083 L1631.594 852.864 L1623.291 853.254 L1616.353 853.254 L1612.812 852.74 L1612.6 851.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5df8b1a1-5c83-4dbf-bb82-68fa6e8a0f46">
+        <title>5df8b1a1-5c83-4dbf-bb82-68fa6e8a0f46</title>
+        <path class="layer-line" d="M1581.6 1173 L1589.55 1172.25 L1594.3 1172 L1598.5 1172 L1603.05 1172.25 L1607.95 1172.75 L1612.45 1173 L1616.55 1173 L1619.4 1173.1 L1621 1173.3 L1623.2 1173.4 L1626 1173.4 L1628.35 1173.3 L1631.2 1173" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6a007529-6436-4812-a4f6-ce72e849b7c6">
+        <title>6a007529-6436-4812-a4f6-ce72e849b7c6</title>
+        <path class="layer-line" d="M2135.516 926.529 L2135.516 926.529" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="14737050-9274-4b0d-a31b-16fa6b116248">
+        <title>14737050-9274-4b0d-a31b-16fa6b116248</title>
+        <path class="layer-line" d="M1362.4 665 L1362.1 662 L1361.7 660 L1361.1 658 L1360.8 656.25 L1360.8 654" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="476e1418-db41-4c83-be0b-9ab078553d8b">
+        <title>476e1418-db41-4c83-be0b-9ab078553d8b</title>
+        <path class="layer-line" d="M1616.912 646.83 L1616.837 643.407 L1616.561 641.231 L1616.06 639.161 L1615.132 637.389 L1613.778 635.914 L1612.611 634.432 L1611.63 632.942 L1610.704 631.898 L1609.4 631" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="1e334952-95c9-442c-8173-1569a73ed4a5">
+        <title>1e334952-95c9-442c-8173-1569a73ed4a5</title>
+        <path class="layer-line" d="M1621.538 678.141 L1622.281 676.752 L1622.479 674.789 L1622.378 671.788 L1621.689 668.688 L1620.41 665.49 L1619.232 663.186 L1617.614 661.072" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="59c224bd-308e-4df2-9bb0-3e97c6db4be2">
+        <title>59c224bd-308e-4df2-9bb0-3e97c6db4be2</title>
+        <path class="layer-line" d="M2106.116 906.329 L2106.716 907.679 L2107.316 908.629 L2108.116 909.629 L2108.866 910.479 L2109.566 911.179 L2110.966 912.229 L2113.066 913.629 L2115.416 915.679 L2118.016 918.379 L2120.166 919.929 L2121.866 920.329 L2123.466 920.879 L2124.966 921.579 L2126.466 922.479 L2127.966 923.579 L2130.416 924.729 L2135.516 926.529" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5a463b47-df5f-45a1-9364-2c07b4aa7709">
+        <title>5a463b47-df5f-45a1-9364-2c07b4aa7709</title>
+        <path class="layer-line" d="M2321.38 860.419 L2323.18 860.719 L2325.23 860.869 L2328.13 860.969 L2330.53 861.419 L2332.43 862.219 L2334.63 862.969 L2338.38 864.019" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d17825fe-50f1-4016-88c4-9503628e5741">
+        <title>d17825fe-50f1-4016-88c4-9503628e5741</title>
+        <path class="layer-line" d="M1562.6 612.4 L1562.6 613.6 L1562.75 614.45 L1563.05 615.35 L1563.6 616 L1564.4 616.4 L1565.5 616.7 L1566.9 616.9 L1568.15 617.35 L1569.25 618.05 L1571.15 618.8 L1573.85 619.6 L1575.85 620.5 L1577.15 621.5 L1578.5 622.7 L1579.9 624.1 L1581.3 625.15 L1582.7 625.85 L1583.85 626.55 L1584.75 627.25 L1586.4 627.9 L1590 628.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="5cfcb2c7-b931-4f2e-9ec9-a3e7f3d75f4f">
+        <title>5cfcb2c7-b931-4f2e-9ec9-a3e7f3d75f4f</title>
+        <path class="layer-line" d="M2355.903 872.487 L2358.453 873.687 L2359.603 874.137 L2360.203 874.237 L2360.703 874.437 L2361.103 874.737 L2361.453 874.837 L2361.903 874.687" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6afc3c48-6582-4894-a1dc-0027eabe39a3">
+        <title>6afc3c48-6582-4894-a1dc-0027eabe39a3</title>
+        <path class="layer-line" d="M1561.8 519.6 L1563.912 520.523 L1565.972 520.967 L1568.684 521.241 L1571.747 521.409 L1575.162 521.47 L1579.727 521.206 L1585.442 520.615 L1589.354 519.909 L1591.461 519.09 L1593 518.231 L1593.973 517.334 L1594.988 516.565 L1596.047 515.923 L1597.247 515.59 L1598.586 515.563 L1599.672 515.884 L1600.504 516.552 L1601.693 517.264 L1603.238 518.02 L1604.745 518.544 L1606.214 518.834 L1610.412 519.169 L1617.338 519.548 L1623.454 519.561 L1628.759 519.209 L1632.13 519.103 L1633.567 519.244 L1635.501 519.684 L1637.932 520.425 L1639.088 521.131 L1638.969 521.802 L1638.397 522.433 L1637.37 523.026 L1636.046 523.614 L1634.426 524.198 L1631.924 524.857 L1628.543 525.593 L1625.814 526.724 L1623.74 528.251 L1619.376 532.438 L1609.397 542.707" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="24ecd639-2957-4e5f-874c-8d1b8de4c033">
+        <title>24ecd639-2957-4e5f-874c-8d1b8de4c033</title>
+        <path class="layer-line" d="M1544.057 706.701 L1538.961 710.947 L1537.051 712.442 L1536.419 712.682" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6db5e485-43f5-4229-9cab-c740db42a6d6">
+        <title>6db5e485-43f5-4229-9cab-c740db42a6d6</title>
+        <path class="layer-line" d="M2282.18 866.619 L2282.93 867.369 L2283.33 868.419 L2283.63 870.019 L2284.28 871.819 L2285.28 873.819 L2286.311 875.548 L2287.372 877.005 L2288.253 879.483 L2289.303 884.733" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6138f36a-101a-429d-a6d2-94b6c4831d48">
+        <title>6138f36a-101a-429d-a6d2-94b6c4831d48</title>
+        <path class="layer-line" d="M1640.659 685.913 L1642.54 686.933 L1645.06 687.367 L1648.846 687.554 L1651.453 687.519 L1652.882 687.261 L1654.161 686.804 L1655.289 686.147 L1656.421 685.294 L1658.124 683.72" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="751958d9-386d-4d5f-8ba6-9a123258984d">
+        <title>751958d9-386d-4d5f-8ba6-9a123258984d</title>
+        <path class="layer-line" d="M1211.099 605.994 L1217 606" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a810694c-1db4-4b1e-8c77-23fc5cf51704">
+        <title>a810694c-1db4-4b1e-8c77-23fc5cf51704</title>
+        <path class="layer-line" d="M1691.139 686.207 L1692.526 687.36 L1693.564 687.921 L1694.717 688.273 L1695.79 688.893 L1696.783 689.781 L1697.445 690.492 L1697.776 691.027 L1697.234 691.439 L1695.111 691.872" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="620f206f-ea72-4ca5-a786-ee2f9809bcfb">
+        <title>620f206f-ea72-4ca5-a786-ee2f9809bcfb</title>
+        <path class="layer-line" d="M1696.384 664.731 L1697.136 664.357 L1698.669 664.179 L1702.517 664.019" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6226c490-30a6-4d22-b9a8-09376a9d4094">
+        <title>6226c490-30a6-4d22-b9a8-09376a9d4094</title>
+        <path class="layer-line" d="M2226.98 755.619 L2225.18 757.269 L2224.18 758.569 L2223.38 760.069 L2222.73 761.019 L2222.23 761.419 L2220.68 762.169 L2218.08 763.269 L2215.88 763.869 L2214.08 763.969 L2212.68 764.269 L2211.68 764.769 L2210.18 765.269 L2208.18 765.769 L2206.53 766.619 L2205.23 767.819 L2204.03 769.419 L2202.93 771.419 L2202.38 773.919 L2202.38 776.919 L2202.28 779.019 L2202.08 780.219 L2201.43 782.069 L2200.33 784.569 L2199.63 786.469 L2199.33 787.769 L2198.996 788.797 L2198.628 789.551 L2197.528 790.301 L2195.696 791.047 L2193.93 791.519 L2192.23 791.719 L2190.33 791.819 L2188.23 791.819 L2185.03 791.519 L2178.58 790.619" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="638f1ef6-8e6c-47f7-9b43-a794d0ee776b">
+        <title>638f1ef6-8e6c-47f7-9b43-a794d0ee776b</title>
+        <path class="layer-line" d="M2084.98 869.419 L2086.132 870.852 L2086.916 872.379 L2087.716 874.479 L2088.966 877.179 L2090.666 880.479 L2091.566 882.329 L2091.666 882.729 L2091.566 883.579 L2091.116 885.529" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="70e16791-00bc-488e-aab0-2c283a8470d3">
+        <title>70e16791-00bc-488e-aab0-2c283a8470d3</title>
+        <path class="layer-line" d="M2099.375 992.115 L2102.245 992.343 L2103.834 992.708 L2105.732 993.574" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="65b4f3a8-6dbb-4d45-b1a3-d4f5cf7f4663">
+        <title>65b4f3a8-6dbb-4d45-b1a3-d4f5cf7f4663</title>
+        <path class="layer-line" d="M1193.854 836.004 L1192.487 839.581 L1192.126 841.333 L1192.316 842.451 L1192.791 843.42 L1193.55 844.24 L1194.5 845.023 L1195.639 845.769 L1197.671 846.291 L1200.596 846.59 L1204.413 847.783 L1209.122 849.872 L1212.028 851.662 L1213.129 853.155 L1214.307 854.946 L1215.56 857.036 L1216.339 858.491 L1216.643 859.313 L1216.438 860.596 L1215.37 863.216" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="24292cc1-b2ee-4326-aae5-811d85770947">
+        <title>24292cc1-b2ee-4326-aae5-811d85770947</title>
+        <path class="layer-line" d="M2040.58 785.819 L2040.73 785.969 L2040.58 786.569 L2040.18 787.669 L2040.28 788.619 L2040.88 789.419 L2041.58 789.969 L2042.38 790.269 L2046.23 790.469 L2053.13 790.569 L2057.18 790.819 L2058.38 791.219 L2059.53 791.419 L2060.63 791.419 L2062.08 791.669 L2063.88 792.169 L2066.43 792.519 L2069.73 792.719 L2072.53 793.119 L2074.83 793.719 L2076.73 794.469 L2078.23 795.369 L2080.58 796.069 L2083.78 796.569 L2086.43 797.319 L2088.53 798.319 L2090.23 799.469 L2091.53 800.769 L2092.53 801.919 L2093.23 802.919 L2093.78 804.019 L2094.18 805.219 L2094.73 806.369 L2095.43 807.469 L2096.73 808.369 L2098.63 809.069 L2100.83 809.769 L2103.33 810.469 L2105.78 811.019 L2108.18 811.419 L2112.28 811.719 L2118.08 811.919 L2121.23 813.019 L2121.73 815.019 L2121.88 817.369 L2121.68 820.069 L2120.68 823.269 L2118.88 826.969 L2117.73 829.069 L2117.23 829.569 L2115.08 831.369 L2111.28 834.469 L2108.13 836.769 L2105.63 838.269 L2103.73 839.819 L2102.43 841.419 L2100.43 842.919 L2097.73 844.319 L2095.38 845.369 L2093.38 846.069 L2091.23 846.419 L2088.93 846.419 L2087.08 846.719 L2085.68 847.319 L2085.03 848.219 L2085.13 849.419 L2084.63 851.019 L2083.53 853.019 L2082.93 854.419 L2082.83 855.219 L2082.83 856.569 L2082.93 858.469 L2083.33 860.019 L2084.03 861.219 L2084.63 862.519 L2085.13 863.919 L2085.43 865.419 L2085.53 867.019 L2085.43 868.219 L2084.98 869.419" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="6ce005fc-2a33-4864-8d63-28272b42e45d">
+        <title>6ce005fc-2a33-4864-8d63-28272b42e45d</title>
+        <path class="layer-line" d="M2250.18 853.819 L2248.98 854.019" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8217294b-9f0f-4ec7-b87d-2b8e652fc587">
+        <title>8217294b-9f0f-4ec7-b87d-2b8e652fc587</title>
+        <path class="layer-line" d="M2093.082 904.362 L2090.498 906.237 L2088.374 908.126 L2085.846 910.655 L2082.857 914.073 L2077.682 920.534" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="80199e82-c7d7-4873-930f-d5f787adde31">
+        <title>80199e82-c7d7-4873-930f-d5f787adde31</title>
+        <path class="layer-line" d="M1693.954 659.684 L1693.491 661.548 L1693.394 662.694 L1693.568 664.268" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8cc80bd4-ae8c-463f-8ee0-7119648b629e">
+        <title>8cc80bd4-ae8c-463f-8ee0-7119648b629e</title>
+        <path class="layer-line" d="M1606 555.4 L1606.9 556.45 L1607.75 556.9 L1609.4 557.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="82891a19-2e69-4657-879a-803abe00039d">
+        <title>82891a19-2e69-4657-879a-803abe00039d</title>
+        <path class="layer-line" d="M1975.4 946.2 L1975.6 946.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="835b078d-7e75-4c98-a9e5-df54bc21df9c">
+        <title>835b078d-7e75-4c98-a9e5-df54bc21df9c</title>
+        <path class="layer-line" d="M1639.319 678.718 L1642.741 679.173 L1644.434 679.313 L1645.537 679.29 L1649.097 680.388 L1658.124 683.72" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="84107e32-d9d0-43ad-80c3-2b5b788fc1bf">
+        <title>84107e32-d9d0-43ad-80c3-2b5b788fc1bf</title>
+        <path class="layer-line" d="M1605.945 749.586 L1606.918 752.474 L1607.07 754.543 L1606.652 756.814 L1605.893 759.05 L1604.791 761.251 L1603.481 763.105 L1601.962 764.61 L1600.796 765.583 L1599.577 766.244" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="85a57a11-18b5-494b-9ffd-1a680e098232">
+        <title>85a57a11-18b5-494b-9ffd-1a680e098232</title>
+        <path class="layer-line" d="M1683.809 820.215 L1680.827 819.374 L1679.223 819.094 L1678.002 819.094 L1676.943 818.845 L1676.046 818.348 L1675.009 817.915 L1673.831 817.545 L1672.707 817.376 L1671.638 817.407 L1670.476 817.296 L1669.223 817.043 L1668.126 816.519 L1667.186 815.727 L1665.992 814.966 L1664.544 814.237 L1663.765 813.554 L1663.6 812.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="7706ac47-a13c-4ab7-8404-32dceb6ec73c">
+        <title>7706ac47-a13c-4ab7-8404-32dceb6ec73c</title>
+        <path class="layer-line" d="M2106.116 906.329 L2093.082 904.362" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="87a7893d-04dc-4588-97f4-6fa42b8a80cc">
+        <title>87a7893d-04dc-4588-97f4-6fa42b8a80cc</title>
+        <path class="layer-line" d="M1825 677.4 L1824.268 675.785 L1823.479 674.921 L1822.389 674.27 L1818.699 672.445 L1812.409 669.444 L1808.026 667.527 L1805.551 666.692 L1803.612 665.578 L1802.211 664.184 L1801.106 663.315 L1800.296 662.97 L1797.852 662.719 L1793.772 662.561 L1790.939 662.332 L1789.351 662.03 L1786.914 661.006 L1783.629 659.258 L1781.753 658.17 L1781.286 657.741 L1779.285 656.933 L1775.751 655.748 L1772.824 655.176 L1770.504 655.219 L1768.534 655.376 L1766.915 655.647 L1764.922 656.333 L1762.556 657.434 L1761.046 658.356 L1760.392 659.1 L1759.971 660.089 L1759.784 661.321 L1759.317 662.892 L1758.57 664.802 L1757.916 666.174 L1757.356 667.008 L1755.612 668.514 L1752.685 670.69 L1750.202 672.168 L1747.142 673.338" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="87dba41b-a710-47a4-8a56-117cbebab492">
+        <title>87dba41b-a710-47a4-8a56-117cbebab492</title>
+        <path class="layer-line" d="M1639.319 678.718 L1639.685 683.095 L1640.02 684.893 L1640.659 685.913" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e3bedc7c-b27a-40f7-973d-31bdac65ad89">
+        <title>e3bedc7c-b27a-40f7-973d-31bdac65ad89</title>
+        <path class="layer-line" d="M1291.6 704.6 L1292.8 704.45 L1293.8 704.15 L1295 703.65 L1296.6 703.15 L1298.6 702.65 L1300.05 702.3 L1300.95 702.1 L1301.55 702.05 L1302.164 701.943 L1301.3 704.05 L1299.9 707.75 L1299.1 710.35 L1298.8 712.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8b170e01-1204-490b-8c3b-ae566e8c7a42">
+        <title>8b170e01-1204-490b-8c3b-ae566e8c7a42</title>
+        <path class="layer-line" d="M1992.85 765.26 L1987.49 762.327 L1984.388 760.893 L1981.759 759.981 L1979.635 758.43 L1978.017 756.24 L1976.893 753.067 L1976.264 748.911 L1975.478 745.873 L1974.534 743.951 L1973.534 742.45 L1972.477 741.372 L1970.938 740.336 L1967.904 738.849" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="8d162685-e21b-4d8f-9bbc-2d8eb006c47c">
+        <title>8d162685-e21b-4d8f-9bbc-2d8eb006c47c</title>
+        <path class="layer-line" d="M2106.116 906.329 L2106.116 906.329" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="80494b1e-f711-4a92-b01e-116535737222">
+        <title>80494b1e-f711-4a92-b01e-116535737222</title>
+        <path class="layer-line" d="M2348.98 864.619 L2349.222 865.42 L2349.953 866.437 L2351.253 867.937 L2352.703 869.537 L2354.303 871.237 L2355.303 872.187 L2355.903 872.487" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="812a6209-91e7-4100-9523-c77ba5beb619">
+        <title>812a6209-91e7-4100-9523-c77ba5beb619</title>
+        <path class="layer-line" d="M1702.517 664.019 L1702.372 665.728 L1702.035 666.547 L1701.167 667.296" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="870641c9-addc-4700-98af-8a488766e338">
+        <title>870641c9-addc-4700-98af-8a488766e338</title>
+        <path class="layer-line" d="M1547 872.8 L1554.65 874.3 L1557.8 874.8 L1559 874.8 L1560.65 875 L1562.75 875.4 L1566.3 875.8 L1571.3 876.2 L1574.25 876.5 L1575.15 876.7 L1576.25 877.1 L1578.2 878" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="98e4d613-aa4e-463a-9dc3-b7527cfd23aa">
+        <title>98e4d613-aa4e-463a-9dc3-b7527cfd23aa</title>
+        <path class="layer-line" d="M2436.6 923 L2433 922.7 L2431.2 923.1 L2430 924.1 L2428.65 924.85 L2426.4 925.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="89e776ff-4b11-464c-879e-10bab09ca92d">
+        <title>89e776ff-4b11-464c-879e-10bab09ca92d</title>
+        <path class="layer-line" d="M1504.364 749.425 L1508.564 752.731 L1511.406 755.402 L1514.315 758.523 L1517.787 761.101 L1521.824 763.136 L1525.447 764.712 L1528.657 765.828 L1531.553 766.483 L1534.135 766.677 L1535.57 766.774 L1535.978 766.919 L1537.081 767.211 L1540.203 767.514 L1545.343 767.83 L1551.085 767.429 L1557.428 766.313 L1561.728 765.427 L1563.985 764.773 L1565.676 763.959 L1567.398 762.573" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e561d187-ca79-40d9-a540-0d2cab8098a0">
+        <title>e561d187-ca79-40d9-a540-0d2cab8098a0</title>
+        <path class="layer-line" d="M2015.98 601.819 L2016.13 599.719 L2016.48 598.119 L2017.08 596.319 L2017.38 594.219 L2017.38 591.819 L2017.58 587.819 L2017.98 582.219 L2018.83 577.919 L2020.13 574.919 L2020.83 572.669 L2020.93 571.169 L2021.18 569.419 L2021.58 567.419 L2022.73 564.469 L2024.63 560.569 L2025.83 557.669 L2026.33 555.769 L2026.88 554.219 L2027.48 553.019 L2027.93 551.769 L2028.23 550.469 L2028.73 549.269 L2029.43 548.169 L2029.93 546.969 L2030.23 545.669 L2030.78 544.319 L2031.58 542.919 L2032.43 541.769 L2033.33 540.869 L2035.43 539.119 L2038.73 536.519 L2041.03 534.969 L2042.33 534.469 L2043.93 533.669 L2045.83 532.569 L2047.78 531.669 L2049.78 530.969 L2051.58 530.119 L2053.18 529.119 L2054.63 528.019 L2055.93 526.819 L2057.68 525.469 L2059.88 523.969 L2061.88 522.669 L2063.68 521.569 L2064.98 520.919 L2065.78 520.719 L2066.48 520.419 L2067.08 520.019 L2069.08 519.269 L2072.48 518.169 L2074.68 517.569 L2075.68 517.469 L2078.23 516.919 L2082.33 515.919 L2086.68 515.269 L2091.28 514.969 L2095.03 514.519 L2097.93 513.919 L2102.38 513.319 L2111.38 512.419" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="98664052-26a2-4237-9b9b-c71edaabdaae">
+        <title>98664052-26a2-4237-9b9b-c71edaabdaae</title>
+        <path class="layer-line" d="M1546.914 518.244 L1541.537 518.215 L1539.151 518.283 L1537.964 518.437 L1535.092 518.602 L1530.534 518.776 L1527.65 518.989 L1526.44 519.24 L1524.79 519.938 L1521.656 521.653" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="992cd938-ecdc-4640-9a75-4c416d2d1029">
+        <title>992cd938-ecdc-4640-9a75-4c416d2d1029</title>
+        <path class="layer-line" d="M2303.45 896.238 L2305.25 897.438 L2307.05 898.038 L2309.45 898.438 L2311.2 898.838 L2312.3 899.238 L2313.35 899.888 L2314.35 900.788 L2315.05 901.588 L2315.45 902.288 L2316.4 903.338 L2317.9 904.738 L2318.75 905.638 L2319.05 906.238" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9f2a4104-8878-4760-8791-c187fa2ff7db">
+        <title>9f2a4104-8878-4760-8791-c187fa2ff7db</title>
+        <path class="layer-line" d="M1977.253 728.312 L1976.039 726.929 L1975.242 725.675 L1974.455 724.089 L1973.41 722.366 L1972.106 720.505 L1970.792 718.773 L1969.466 717.171 L1968.14 715.261 L1966.814 713.043 L1965.87 711.243 L1965.027 709.167" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9f2cd060-d21d-41f9-98de-8333f9c7a284">
+        <title>9f2cd060-d21d-41f9-98de-8333f9c7a284</title>
+        <path class="layer-line" d="M1959.8 1017.6 L1960.7 1016.7 L1962.2 1016.05 L1964.6 1015.35 L1966.1 1013.8 L1966.7 1011.4 L1967.5 1009.1 L1968.5 1006.9 L1969.7 1005 L1971.1 1003.4 L1972.2 1002 L1973 1000.8 L1973.5 999.9 L1973.7 999.3 L1974.25 998.4 L1975.15 997.2 L1976.4 995.85 L1978 994.35 L1981.25 992.25 L1988.6 988.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9f3f2de8-ea36-4eda-8eee-1e1812b6fc19">
+        <title>9f3f2de8-ea36-4eda-8eee-1e1812b6fc19</title>
+        <path class="layer-line" d="M1408 799.6 L1409.5 800.5 L1411.4 801.4 L1414.2 802.6 L1418.45 804.95 L1424.15 808.45 L1431.05 811.65 L1439.15 814.55 L1448.45 816 L1458.95 816 L1466.7 816.2 L1471.7 816.6 L1476 817.1 L1479.6 817.7 L1483.45 818.15 L1487.55 818.45 L1492.45 818.55 L1498.15 818.45 L1501.45 818.55 L1502.35 818.85 L1503.75 819 L1506.6 819" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="91b89a05-5d94-4890-95d9-2f0f3901182f">
+        <title>91b89a05-5d94-4890-95d9-2f0f3901182f</title>
+        <path class="layer-line" d="M1702.517 664.019 L1709.46 661.85" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ac08a414-219a-4bec-aeb1-99db25fcc079">
+        <title>ac08a414-219a-4bec-aeb1-99db25fcc079</title>
+        <path class="layer-line" d="M1271.111 595.268 L1269.046 600.406 L1264.457 605.011 L1260.999 608.527 L1255.694 610.223 L1244.657 613.879 L1236.654 617.38 L1229.2 622.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a7f5db25-eb79-4b76-9a89-9c24f54516d8">
+        <title>a7f5db25-eb79-4b76-9a89-9c24f54516d8</title>
+        <path class="layer-line" d="M1408 799.6 L1412.2 791.35 L1415.2 786.75 L1418.4 783.05 L1421.2 780.05 L1423.6 777.75 L1425.5 775.55 L1427.6 772.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a447d676-d2b0-4519-998a-5fbac1be696f">
+        <title>a447d676-d2b0-4519-998a-5fbac1be696f</title>
+        <path class="layer-line" d="M1982.094 958.693 L1984.516 958.728 L1985.928 958.635 L1987.139 958.424 L1988.86 957.875 L1992.207 956.541" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a973e080-f4cd-47ca-b2f8-fd787dc34558">
+        <title>a973e080-f4cd-47ca-b2f8-fd787dc34558</title>
+        <path class="layer-line" d="M1979.2 907.2 L1976.65 909.9 L1977.45 911.9 L1980.75 914.1 L1986.6 915.4 L1995 915.8 L2000.55 915.95 L2003.25 915.85 L2006.45 916.05 L2010.15 916.55 L2014.4 916.95 L2019.2 917.25 L2022.95 917.75 L2025.65 918.45 L2027.7 919.35 L2029.1 920.45 L2030.2 921.45 L2031.4 922.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ab47efcb-8cce-458b-8c1c-1471c8a54d2d">
+        <title>ab47efcb-8cce-458b-8c1c-1471c8a54d2d</title>
+        <path class="layer-line" d="M2348.98 864.619 L2346.43 864.769 L2343.78 864.619 L2338.38 864.019" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="67499fee-dc14-4e72-a70f-6968445af27a">
+        <title>67499fee-dc14-4e72-a70f-6968445af27a</title>
+        <path class="layer-line" d="M1491.841 526.943 L1500.339 524.255" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b678c3eb-f966-48f6-808a-3f708d09a6fb">
+        <title>b678c3eb-f966-48f6-808a-3f708d09a6fb</title>
+        <path class="layer-line" d="M2094.58 741.819 L2093.68 742.869 L2093.23 743.619 L2092.93 744.419 L2092.63 746.169 L2092.33 748.869 L2092.63 751.969 L2093.53 755.469 L2094.38 757.969 L2095.18 759.469 L2096.13 760.869 L2097.23 762.169 L2098.98 763.569 L2101.38 765.069 L2103.08 766.519 L2104.08 767.919 L2105.53 770.369 L2107.43 773.869 L2109.03 776.269 L2110.33 777.569 L2112.43 779.069 L2115.33 780.769 L2117.43 782.119 L2118.73 783.119 L2121.53 784.369 L2125.83 785.869 L2129.08 786.519 L2131.28 786.319 L2133.33 785.919 L2135.23 785.319 L2136.98 784.969 L2138.58 784.869 L2140.58 784.969 L2142.98 785.269 L2146.28 785.869 L2150.48 786.769 L2153.73 787.719 L2156.03 788.719 L2162.53 789.569 L2178.58 790.619" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="53c7197d-5a3f-4e19-a531-c47254b0e969">
+        <title>53c7197d-5a3f-4e19-a531-c47254b0e969</title>
+        <path class="layer-line" d="M1621.538 678.141 L1622.983 678.989" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="1da51688-bb77-492b-bc19-4b04fe97c813">
+        <title>1da51688-bb77-492b-bc19-4b04fe97c813</title>
+        <path class="layer-line" d="M1621.538 678.141 L1622.866 678.901 L1623.843 679.32 L1624.911 679.652 L1626.469 680.572 L1628.516 682.08 L1630.401 683.194 L1632.122 683.914 L1633.524 684.323 L1634.607 684.42 L1636.526 684.829 L1640.659 685.913" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="9ddca191-668b-4153-90d2-b1ad1fabd23f">
+        <title>9ddca191-668b-4153-90d2-b1ad1fabd23f</title>
+        <path class="layer-line" d="M2056.7 884.585 L2061.167 883.294 L2063.342 882.892 L2064.716 882.95 L2067.403 882.36 L2071.406 881.124 L2074.737 880.98 L2077.395 881.929 L2079.528 882.447 L2081.135 882.533 L2082.976 882.993 L2085.05 883.827 L2086.496 884.272 L2087.314 884.33 L2088.572 884.651 L2091.116 885.529" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b26bc852-f9f4-49bf-a871-6b56c0bbf671">
+        <title>b26bc852-f9f4-49bf-a871-6b56c0bbf671</title>
+        <path class="layer-line" d="M1982.094 958.693 L1971.127 958.062 L1966.985 957.921 L1966.012 958.062 L1965.027 958.424 L1964.03 959.009 L1963.662 959.816 L1963.923 960.845 L1964.338 961.734 L1964.908 962.483 L1966.38 963.372 L1968.754 964.401 L1970.451 965.056 L1971.472 965.336 L1974.403 965.57 L1981.667 965.851" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b42ff8ed-ea98-4d2b-83d2-4c285beb28f0">
+        <title>b42ff8ed-ea98-4d2b-83d2-4c285beb28f0</title>
+        <path class="layer-line" d="M1547.2 900.2 L1545.7 898.4 L1545.1 897.3 L1544.9 896.3 L1544.6 895.65 L1544 895.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b9149397-807c-4dc9-be75-6c3976ef7dda">
+        <title>b9149397-807c-4dc9-be75-6c3976ef7dda</title>
+        <path class="layer-line" d="M2151.78 726.219 L2152.08 724.569 L2152.48 723.419 L2153.08 722.219 L2154.03 721.169 L2155.33 720.269 L2155.98 719.519 L2155.98 718.919 L2155.78 718.369 L2155.38 717.869 L2155.08 717.319 L2154.88 716.719 L2154.78 716.069 L2154.78 715.369 L2154.93 714.769 L2155.23 714.269 L2155.38 713.819 L2155.38 713.419 L2155.13 712.719 L2154.63 711.719 L2153.98 710.819 L2153.18 710.019 L2152.83 709.219 L2152.93 708.419 L2153.63 707.469 L2154.93 706.369 L2155.63 705.569 L2155.73 705.069 L2155.48 704.269 L2154.88 703.169 L2153.98 702.419 L2152.78 702.019 L2152.088 701.567 L2151.812 700.811" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b8235da6-3169-48c7-ad6f-cef353f5b1e6">
+        <title>b8235da6-3169-48c7-ad6f-cef353f5b1e6</title>
+        <path class="layer-line" d="M1338.824 823.235 L1335.956 821.859 L1336.507 822.156 L1339.52 823.669 L1342.451 825.411 L1345.299 827.383 L1347.787 829.672 L1350.978 833.581" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a20fed27-d5e4-428c-ba62-9a062e749781">
+        <title>a20fed27-d5e4-428c-ba62-9a062e749781</title>
+        <path class="layer-line" d="M1994.2 944 L1994.5 944 L1994.65 943.95 L1994.75 943.85 L1994.95 943.8 L1995.25 943.8 L1995.6 943.7 L1996 943.5 L1996.75 943.35 L1997.85 943.25 L1998.55 943.1 L1998.85 942.9 L1999.6 942.8 L2000.8 942.8 L2001.75 942.65 L2002.45 942.35 L2004.7 941.8 L2008.5 941 L2011 940.35 L2012.2 939.85 L2013.8 939.45 L2015.8 939.15 L2018.1 938.05 L2020.7 936.15 L2022.7 935 L2024.1 934.6 L2025.8 933.8 L2027.8 932.6 L2028.8 931.2 L2028.8 929.6 L2028.95 928.4 L2029.25 927.6 L2030.35 926.7 L2033.2 925.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="a4e9c600-b6d0-4726-9776-bcea378105cc">
+        <title>a4e9c600-b6d0-4726-9776-bcea378105cc</title>
+        <path class="layer-line" d="M2353.378 653.33 L2353.528 653.33 L2353.828 653.18 L2354.328 652.88 L2354.978 652.18 L2355.778 651.08 L2356.228 650.13 L2356.328 649.33 L2356.128 648.33 L2355.378 646.53" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ccf7272a-660b-4716-8440-7e0ad3d9a2c9">
+        <title>ccf7272a-660b-4716-8440-7e0ad3d9a2c9</title>
+        <path class="layer-line" d="M1964.2 851.4 L1965.55 850.8 L1967.15 850.35 L1969.45 849.85 L1970.95 849.7 L1971.65 849.9 L1972.15 850.4 L1972.45 851.2 L1972.25 852.2 L1971.2 854" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b0b63618-95fd-4b64-a8fc-38ba1e44c247">
+        <title>b0b63618-95fd-4b64-a8fc-38ba1e44c247</title>
+        <path class="layer-line" d="M1663.6 812.6 L1663.354 812.269 L1662.63 811.932 L1661.344 811.477 L1660.269 810.976 L1659.404 810.427 L1658.637 809.846 L1657.967 809.234 L1657.638 808.542 L1657.649 807.772 L1657.967 807.059 L1658.594 806.405 L1660.776 805.534 L1664.515 804.448 L1666.714 803.699 L1667.702 803.082" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c3a6727d-4b31-4aa6-b72c-09a361d1bca0">
+        <title>c3a6727d-4b31-4aa6-b72c-09a361d1bca0</title>
+        <path class="layer-line" d="M1621.538 678.141 L1626.787 677.174 L1629.402 676.851 L1631.132 676.851 L1633.828 677.318 L1639.319 678.718" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c43ab735-1385-47eb-a3e0-eb1e298f16a9">
+        <title>c43ab735-1385-47eb-a3e0-eb1e298f16a9</title>
+        <path class="layer-line" d="M1222.4 534.2 L1222.4 534.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b61410eb-fdeb-4a9c-9888-93dc4dc0d5ae">
+        <title>b61410eb-fdeb-4a9c-9888-93dc4dc0d5ae</title>
+        <path class="layer-line" d="M1298.6 839.8 L1310.6 837.85 L1315.25 837.05 L1316.55 836.75 L1318.1 836.2 L1319.9 835.4 L1321.7 834.4 L1323.5 833.2 L1325.5 831.25 L1327.7 828.55 L1330.05 826.25 L1332.55 824.35 L1334.15 822.8 L1334.85 821.6 L1336.5 820.2 L1339.1 818.6 L1341.8 817.2 L1344.6 816 L1349 815.4 L1355 815.4 L1359.65 815.2 L1362.95 814.8 L1365.15 814.35 L1366.25 813.85 L1367.75 812.85 L1369.65 811.35 L1370.8 810.2 L1371.2 809.4 L1371.4 808.7 L1371.4 808.1 L1371.25 807.6 L1370.95 807.2 L1369.55 806.6 L1367.05 805.8 L1365.8 805.3 L1365.8 805" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b7c480ed-128b-4a2d-8cda-3c5d7466982d">
+        <title>b7c480ed-128b-4a2d-8cda-3c5d7466982d</title>
+        <path class="layer-line" d="M1732 677.4 L1732.9 676.95 L1734 676.9 L1736.4 677.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="f0a50019-a807-4904-a05f-c265e12376ae">
+        <title>f0a50019-a807-4904-a05f-c265e12376ae</title>
+        <path class="layer-line" d="M1640.108 666.244 L1639.319 678.718" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="bdd3a70f-8056-4cf2-8bc0-f76adf69d33b">
+        <title>bdd3a70f-8056-4cf2-8bc0-f76adf69d33b</title>
+        <path class="layer-line" d="M1673.29 688.453 L1673.512 688.932 L1674.21 689.474 L1675.456 690.239 L1677.629 691.331 L1680.73 692.751 L1683.668 693.739 L1686.442 694.297 L1688.497 694.561 L1690.5 694.52" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d9d6fd75-9907-45dc-af94-e28ada872c78">
+        <title>d9d6fd75-9907-45dc-af94-e28ada872c78</title>
+        <path class="layer-line" d="M1949.801 1028.399 L1949.801 1028.399" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c253ddc4-464c-41a3-9ce1-6385eaa429ce">
+        <title>c253ddc4-464c-41a3-9ce1-6385eaa429ce</title>
+        <path class="layer-line" d="M1506.6 819 L1510.5 822.6 L1512.6 824.25 L1514.2 825.15 L1517.3 827.15 L1524.2 831.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c4743d49-1394-4197-aa24-ac365b08e338">
+        <title>c4743d49-1394-4197-aa24-ac365b08e338</title>
+        <path class="layer-line" d="M1747.142 673.338 L1745.461 674.053 L1744.418 674.248 L1743.452 674.162 L1742.674 674.386 L1742.082 674.921 L1741.195 675.196 L1740.011 675.21 L1738.665 675.713 L1736.4 677.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fba3116f-ff44-4f8e-84c9-1cf00828c068">
+        <title>fba3116f-ff44-4f8e-84c9-1cf00828c068</title>
+        <path class="layer-line" d="M1730.388 670.957 L1730.177 666.519" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c7e34a74-4f20-4896-a7d3-503a41812f5c">
+        <title>c7e34a74-4f20-4896-a7d3-503a41812f5c</title>
+        <path class="layer-line" d="M2135.516 926.529 L2136.266 923.529 L2136.666 921.329 L2136.966 918.929 L2137.166 913.879 L2137.266 906.179 L2137.066 900.829 L2136.566 897.829 L2135.716 894.329 L2134.516 890.329 L2133.916 886.779 L2133.916 883.679 L2134.166 881.279 L2134.666 879.579 L2135.516 877.429 L2137.316 873.529" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fd5ac415-71c3-47b7-873c-71e2617061d5">
+        <title>fd5ac415-71c3-47b7-873c-71e2617061d5</title>
+        <path class="layer-line" d="M2319.05 906.238 L2312.229 912.619" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fdfb3e4e-5fdb-483b-9feb-41031f0d9e81">
+        <title>fdfb3e4e-5fdb-483b-9feb-41031f0d9e81</title>
+        <path class="layer-line" d="M1682.998 664.303 L1683.346 665.666 L1683.5 667.074 L1683.577 668.982 L1683.847 670.348 L1684.31 671.17 L1684.927 671.733 L1686.084 672.188" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ff944f6c-9857-4d4a-813d-5e95850b8154">
+        <title>ff944f6c-9857-4d4a-813d-5e95850b8154</title>
+        <path class="layer-line" d="M2315.959 650.209 L2315.959 650.659 L2315.559 651.309 L2314.759 652.309 L2313.409 653.759 L2311.509 655.659 L2309.709 656.809 L2308.009 657.209 L2306.759 657.659 L2305.959 658.159 L2305.209 658.509 L2304.159 658.809" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ce44c117-2838-48bb-95f0-fdd8dfc27b1f">
+        <title>ce44c117-2838-48bb-95f0-fdd8dfc27b1f</title>
+        <path class="layer-line" d="M2396.641 625.124 L2392.441 623.474 L2390.591 622.524 L2389.691 621.724 L2389.091 621.074 L2388.791 620.574 L2388.641 619.874 L2388.641 618.974 L2388.741 618.324 L2388.941 617.924 L2389.662 617.151 L2391.523 615.433" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e3060c26-6845-45b1-bbfe-d796eb5df61d">
+        <title>e3060c26-6845-45b1-bbfe-d796eb5df61d</title>
+        <path class="layer-line" d="M2106.516 979.529 L2104.516 978.929" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d4970393-1aa0-456f-8cb8-ba98569959aa">
+        <title>d4970393-1aa0-456f-8cb8-ba98569959aa</title>
+        <path class="layer-line" d="M1683.942 679.641 L1684.521 681.093 L1684.654 681.757 L1684.536 682.116 L1683.497 682.92 L1681.539 684.166 L1679.632 685.629 L1677.778 687.308 L1675.96 688.224 L1673.29 688.453" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="de5fd547-9cbb-44e9-bbec-8825fcd09561">
+        <title>de5fd547-9cbb-44e9-bbec-8825fcd09561</title>
+        <path class="layer-line" d="M2282.18 866.619 L2285.78 866.769 L2288.88 866.619 L2292.68 866.219 L2295.03 866.119 L2295.93 866.319 L2296.717 866.809 L2297.39 867.587 L2297.926 868.427 L2298.326 869.327 L2298.781 869.901 L2299.289 870.15 L2299.519 870.615 L2299.473 871.297 L2299.85 872.888 L2300.65 875.388 L2301.1 878.088 L2301.2 880.988 L2301.1 883.038 L2300.8 884.238 L2300.25 885.588 L2299.45 887.088 L2299.05 888.388 L2299.05 889.488 L2299.1 890.238 L2299.2 890.638 L2299.6 891.338 L2300.65 892.838" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fe5ad9eb-baff-4363-82ef-2b4cf65f26ee">
+        <title>fe5ad9eb-baff-4363-82ef-2b4cf65f26ee</title>
+        <path class="layer-line" d="M1578.2 878 L1577.9 879.05 L1577.8 880.1 L1577.8 881.5 L1578.15 882.9 L1578.85 884.3 L1579.05 885.35 L1578.75 886.05 L1578.6 886.95 L1578.6 888.05 L1579 889.1 L1579.8 890.1 L1580.6 890.8 L1581.4 891.2 L1582.6 891.4 L1584.2 891.4 L1585.7 891.2 L1587.1 890.8 L1588.05 890.45 L1588.55 890.15 L1589.05 889.6 L1589.55 888.8 L1589.85 887.8 L1590 886" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c9ff0cef-9397-425f-b115-3afc14fb43ec">
+        <title>c9ff0cef-9397-425f-b115-3afc14fb43ec</title>
+        <path class="layer-line" d="M1609.4 631 L1609.55 629.35 L1609.7 628.6 L1609.9 628.2 L1610.25 627.85 L1610.75 627.55 L1611.05 627.2 L1611.15 626.8 L1611.05 625.75 L1610.75 624.05 L1610.75 622.5 L1611.05 621.1 L1611.4 620.15 L1611.8 619.65 L1611.95 619.1 L1611.85 618.5 L1611.15 618 L1609.85 617.6 L1607.8 617.15 L1605 616.65 L1603.35 616 L1602.85 615.2 L1602.65 614.1 L1602.75 612.7 L1602.65 611.65 L1602.35 610.95 L1601.75 610.45 L1600.85 610.15 L1600.2 609.8 L1599.8 609.4 L1599.45 609.35 L1599.15 609.65 L1598.3 611.65 L1596.9 615.35 L1595.25 618.6 L1593.35 621.4 L1592.15 623.65 L1591.65 625.35 L1591.1 626.85 L1590.2 628.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="cd4a733f-b4db-4ddf-8a0a-7bfe2f88599d">
+        <title>cd4a733f-b4db-4ddf-8a0a-7bfe2f88599d</title>
+        <path class="layer-line" d="M1954.6 845.4 L1961.8 844.95 L1964.2 846.45 L1964.2 851.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ce0deada-15ce-4fbe-a863-740cdef13d53">
+        <title>ce0deada-15ce-4fbe-a863-740cdef13d53</title>
+        <path class="layer-line" d="M1544 895.2 L1545.35 888.9 L1546 886.45 L1546.4 885.75 L1547.05 883.85 L1547.95 880.75 L1548.4 878.7 L1548.4 877.7 L1548.05 876.1 L1547 872.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="cdb6fc7a-9ceb-4128-b776-53ba466d16d1">
+        <title>cdb6fc7a-9ceb-4128-b776-53ba466d16d1</title>
+        <path class="layer-line" d="M2368.096 633.361 L2370.005 632.583 L2371.891 631.424 L2374.391 629.624 L2376.091 628.574 L2376.991 628.274 L2377.691 627.874 L2378.191 627.374 L2379.491 626.624 L2381.591 625.624 L2383.141 625.224 L2384.141 625.424 L2385.241 625.824 L2386.441 626.424 L2387.291 627.024 L2387.791 627.624 L2388.341 628.024 L2388.941 628.224 L2389.991 628.124 L2391.491 627.724 L2392.891 627.074 L2394.191 626.174 L2395.291 625.574 L2396.641 625.124" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="cdb851ef-5ba8-4473-ad29-2dd6f29b40e4">
+        <title>cdb851ef-5ba8-4473-ad29-2dd6f29b40e4</title>
+        <path class="layer-line" d="M2338.38 864.019 L2337.63 866.719 L2336.48 867.819 L2334.68 868.219 L2333.33 868.669 L2331.98 869.419" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="cec9937d-5bd3-4b9d-81d3-9516bff529ed">
+        <title>cec9937d-5bd3-4b9d-81d3-9516bff529ed</title>
+        <path class="layer-line" d="M2000.18 762.219 L2004.23 762.519 L2007.18 762.969 L2010.38 763.669 L2012.68 764.219 L2014.08 764.619 L2015.13 765.019 L2015.83 765.419 L2017.08 765.719 L2018.88 765.919 L2020.33 766.319 L2021.43 766.919 L2022.93 767.369 L2024.83 767.669 L2026.58 768.169 L2028.18 768.869 L2029.43 769.669 L2030.33 770.569 L2031.28 772.119 L2032.28 774.319 L2033.58 775.869 L2035.18 776.769 L2036.48 777.769 L2037.48 778.869 L2038.53 779.819 L2039.63 780.619 L2040.53 781.719 L2041.23 783.119 L2041.43 784.269 L2041.13 785.169 L2040.88 785.669 L2040.58 785.819" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d056b4bf-fce5-4abd-9850-a17489a2c99e">
+        <title>d056b4bf-fce5-4abd-9850-a17489a2c99e</title>
+        <path class="layer-line" d="M1750.6 1174.2 L1751.789 1174.113" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d026a403-89d6-4954-8e80-300b241abc3c">
+        <title>d026a403-89d6-4954-8e80-300b241abc3c</title>
+        <path class="layer-line" d="M2151.78 726.219 L2151.03 727.569 L2150.13 728.469 L2148.83 729.369 L2147.48 729.919 L2146.08 730.119 L2144.78 730.569 L2143.58 731.269 L2139.93 732.269 L2133.83 733.569 L2129.43 734.619 L2126.73 735.419 L2124.38 735.919 L2122.38 736.119 L2119.53 736.569 L2115.83 737.269 L2112.23 738.069 L2108.73 738.969 L2106.53 739.869 L2105.63 740.769 L2103.63 741.369 L2100.53 741.669 L2097.88 741.819 L2094.58 741.819" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="65ca165e-5bc5-4f37-a9c9-0002390e2b36">
+        <title>65ca165e-5bc5-4f37-a9c9-0002390e2b36</title>
+        <path class="layer-line" d="M1531.264 806.522 L1526.375 817.739 L1524.609 824.059 L1524.2 831.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ef4b731e-6b15-4340-8d95-66fc60936d2a">
+        <title>ef4b731e-6b15-4340-8d95-66fc60936d2a</title>
+        <path class="layer-line" d="M2412.8 921.4 L2410.55 924.55 L2409.6 926.4 L2409.2 928 L2408.2 929.4 L2405.8 931.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d6cf0d10-ee4a-4fb5-9749-c897d7833017">
+        <title>d6cf0d10-ee4a-4fb5-9749-c897d7833017</title>
+        <path class="layer-line" d="M1392.8 589.4 L1394.703 591.956" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d80e1a4f-33dc-4418-b3d5-0af16e292bf2">
+        <title>d80e1a4f-33dc-4418-b3d5-0af16e292bf2</title>
+        <path class="layer-line" d="M2064.78 847.219 L2065.98 849.619 L2066.58 851.219 L2066.98 852.819 L2067.53 854.419 L2068.23 856.019 L2069.33 858.119 L2070.83 860.719 L2073.13 863.169 L2076.23 865.469 L2079.58 867.319 L2084.98 869.419" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="b21dc6ed-1546-4eeb-8676-00b0cbef42f1">
+        <title>b21dc6ed-1546-4eeb-8676-00b0cbef42f1</title>
+        <path class="layer-line" d="M2181.98 799.219 L2180.78 794.419 L2179.93 792.269 L2178.58 790.619" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="dd1a0ee4-64ec-410e-8ee5-14daa90264d3">
+        <title>dd1a0ee4-64ec-410e-8ee5-14daa90264d3</title>
+        <path class="layer-line" d="M1696.2 1131.4 L1698.9 1132.75 L1701 1133.4 L1703.4 1133.8 L1707 1133.95 L1711.8 1133.85 L1715.7 1133.4 L1718.7 1132.6 L1722.25 1130.8 L1726.35 1128 L1729.45 1126.35 L1732.6 1125.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="bfa0397b-9dd6-4434-bd21-aaf54e33f476">
+        <title>bfa0397b-9dd6-4434-bd21-aaf54e33f476</title>
+        <path class="layer-line" d="M1734.6 1182.2 L1735.65 1180.4 L1736.2 1178.8 L1736.6 1176.8 L1736.9 1175.7 L1737.1 1175.5 L1739.85 1175.3 L1745.15 1175.1 L1748.5 1174.8 L1750.6 1174.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c02eb1db-beb0-42c7-9e70-0c8d4db6090c">
+        <title>c02eb1db-beb0-42c7-9e70-0c8d4db6090c</title>
+        <path class="layer-line" d="M1504.364 749.425 L1505 751.95 L1505.65 753.55 L1506.55 755.05 L1507.15 756.75 L1507.6 759.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c31232bb-87ad-4bcc-a10d-b15b0258d1b0">
+        <title>c31232bb-87ad-4bcc-a10d-b15b0258d1b0</title>
+        <path class="layer-line" d="M1507.6 759.6 L1507.897 762.616 L1507.958 765.842 L1507.883 770.284 L1508.209 773.599 L1508.936 775.788 L1510.203 778.039 L1512.008 780.352 L1514.565 784.155 L1517.875 789.447 L1521.435 794.734 L1525.247 800.014 L1528.18 803.621 L1531.264 806.522" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e4483075-7893-4375-959e-990633886ca0">
+        <title>e4483075-7893-4375-959e-990633886ca0</title>
+        <path class="layer-line" d="M2082.716 963.929 L2077.516 962.129" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c4d9516c-6cec-4892-b321-75dd1f74c3cb">
+        <title>c4d9516c-6cec-4892-b321-75dd1f74c3cb</title>
+        <path class="layer-line" d="M1587 640.6 L1586.7 639.1 L1586.9 637.85 L1587.5 636.35 L1588 634.6 L1588.4 632.6 L1588.95 630.9 L1590 628.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e4cee9fd-e5f1-4221-bc83-39b420accaf3">
+        <title>e4cee9fd-e5f1-4221-bc83-39b420accaf3</title>
+        <path class="layer-line" d="M1669.8 1106.8 L1670.7 1106.05 L1671.3 1105 L1671.9 1103.4 L1672.75 1102 L1673.85 1100.8 L1674.85 1099.3 L1675.75 1097.5 L1676.2 1095.8 L1676.2 1094.2 L1676.4 1092.85 L1676.8 1091.75 L1678.55 1089.8 L1681.65 1087 L1683.4 1085.2 L1683.8 1084.4 L1684 1083.05 L1684 1081.15 L1683.9 1079.95 L1683.7 1079.45 L1683.35 1079 L1682.85 1078.6 L1681.85 1078.4 L1680.35 1078.4 L1678.75 1078.9 L1677.05 1079.9 L1674.75 1080.8 L1671.85 1081.6 L1669.2 1082 L1666.8 1082 L1664.9 1081.9 L1663.5 1081.7 L1661.9 1081.3 L1660.1 1080.7 L1658.7 1080.1 L1657.7 1079.5 L1656.8 1078.8 L1656 1078 L1655.6 1077.35 L1655.6 1076.85 L1655.35 1076.15 L1654.85 1075.25 L1653.9 1074.2 L1652.5 1073 L1650.4 1072.15 L1647.6 1071.65 L1645.95 1071.25 L1645.45 1070.95 L1644.95 1070.45 L1644.45 1069.75 L1643.7 1070.1 L1642.7 1071.5 L1641.8 1072.5 L1641 1073.1 L1639.95 1073.8 L1638.65 1074.6 L1637.2 1075.2 L1635.6 1075.6 L1634.15 1076.1 L1632.85 1076.7 L1631.85 1077.35 L1631.15 1078.05 L1630.35 1079.35 L1629.45 1081.25 L1628.25 1083 L1626.75 1084.6 L1625.45 1086.25 L1624.35 1087.95 L1623.45 1089.05 L1622.75 1089.55 L1621.8 1090 L1620.6 1090.4 L1619.8 1090.75 L1619.4 1091.05 L1619.1 1091.45 L1618.9 1091.95 L1618.95 1093 L1619.25 1094.6 L1619.05 1096.5 L1618.35 1098.7 L1618 1100.6 L1618 1102.2 L1618.25 1103.45 L1618.75 1104.35 L1619.1 1105.3 L1619.3 1106.3 L1619.4 1107.35 L1619.4 1108.45 L1619.25 1109.8 L1618.95 1111.4 L1618.95 1112.6 L1619.25 1113.4 L1619.75 1114.3 L1620.45 1115.3 L1621.45 1116.3 L1622.75 1117.3 L1625.1 1118.65 L1628.5 1120.35 L1632 1121.75 L1635.6 1122.85 L1638.3 1123.45 L1640.1 1123.55 L1641.55 1123.8 L1642.65 1124.2 L1644.45 1125.05 L1646.95 1126.35 L1649.25 1127.75 L1651.35 1129.25 L1654.15 1130.8 L1657.65 1132.4 L1661.3 1134.65 L1665.1 1137.55 L1667.45 1139.9 L1668.35 1141.7 L1669.1 1143 L1670 1144.2" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e62f6333-d1ff-499c-95d7-3dbb2bcde36a">
+        <title>e62f6333-d1ff-499c-95d7-3dbb2bcde36a</title>
+        <path class="layer-line" d="M1709.6 686.4 L1704.876 688.303" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ddaa80f1-0655-496c-8245-39879f9e2813">
+        <title>ddaa80f1-0655-496c-8245-39879f9e2813</title>
+        <path class="layer-line" d="M1747.142 673.338 L1748.45 674.986 L1749.135 677.224 L1749.633 680.602 L1748.637 683.09 L1744.9 685.489" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e768d637-db32-443f-a068-29191e0b6249">
+        <title>e768d637-db32-443f-a068-29191e0b6249</title>
+        <path class="layer-line" d="M2355.378 646.53 L2354.628 645.63 L2354.328 645.08 L2354.228 644.58 L2353.678 643.73 L2352.678 642.53 L2352.178 639.08 L2352.178 633.38 L2352.478 629.98 L2353.378 628.33" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="c9bd56d3-77f1-4c7f-b2d8-39e8381709d2">
+        <title>c9bd56d3-77f1-4c7f-b2d8-39e8381709d2</title>
+        <path class="layer-line" d="M1992.207 956.541 L1997.999 955.512" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e65a65a0-75fa-4858-a2b3-6798b5b12dc5">
+        <title>e65a65a0-75fa-4858-a2b3-6798b5b12dc5</title>
+        <path class="layer-line" d="M1562.25 670.582 L1565.474 668.632 L1567.433 667.243 L1570.088 665.023" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="cd412d09-baf3-407f-93c0-837d82496afd">
+        <title>cd412d09-baf3-407f-93c0-837d82496afd</title>
+        <path class="layer-line" d="M1567.398 762.573 L1573.912 761.892 L1578.276 760.904 L1582.64 759.334 L1586.064 757.712 L1589.869 755.314" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ea272e1b-014b-48af-9314-d672d190f0f8">
+        <title>ea272e1b-014b-48af-9314-d672d190f0f8</title>
+        <path class="layer-line" d="M1734.6 1182.2 L1733.25 1182.8 L1731.35 1183.05 L1728.45 1183.15 L1726.05 1183.55 L1724.15 1184.25 L1723.45 1185.2 L1723.95 1186.4 L1724.35 1187.85 L1724.65 1189.55 L1724.8 1191.55 L1724.8 1193.85 L1724.45 1196.1 L1723.75 1198.3 L1725.55 1200.15 L1732 1202.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ea87c918-27bc-43c2-a9b9-474812a2adff">
+        <title>ea87c918-27bc-43c2-a9b9-474812a2adff</title>
+        <path class="layer-line" d="M1761.94 778.391 L1761.458 779.998 L1760.803 781.192 L1759.815 782.509 L1758.912 784.389 L1758.093 786.831 L1756.915 788.873 L1755.377 790.513 L1754.397 791.832 L1753.973 792.828 L1753.559 794.359 L1753.154 796.423 L1752.407 798.294 L1750.772 800.808" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d04dbc09-3a04-4671-9270-0bc5a69a66a7">
+        <title>d04dbc09-3a04-4671-9270-0bc5a69a66a7</title>
+        <path class="layer-line" d="M2329.418 632.97 L2330.168 631.77 L2330.468 630.97 L2330.568 630.17 L2330.718 629.67 L2331.018 629.37" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d0e47dcf-21cb-4119-bea6-1fff19725aad">
+        <title>d0e47dcf-21cb-4119-bea6-1fff19725aad</title>
+        <path class="layer-line" d="M1586.314 690.711 L1594.813 686.1 L1599.678 683.604 L1603.74 681.685 L1609.712 680.08 L1621.538 678.141" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ec49f007-6dff-4baf-b4f7-2c1e3d235d67">
+        <title>ec49f007-6dff-4baf-b4f7-2c1e3d235d67</title>
+        <path class="layer-line" d="M664.902 699.925 L668.075 700.63 L671.326 700.978 L675.711 701.205 L678.936 701.684 L680.999 702.414 L682.908 702.787 L684.662 702.803 L686.339 703.022 L687.939 703.444 L689.796 703.753 L691.911 703.947 L695.3 704.777 L699.962 706.242 L704.112 707.682 L707.75 709.096 L709.866 710.023 L710.462 710.461 L711.11 711.238 L711.811 712.354 L713.008 713.408 L714.702 714.399 L716.428 714.945 L718.187 715.046 L719.259 717.519 L719.643 722.364 L719.987 725.506 L720.291 726.944 L721.336 729.39 L723.122 732.842 L724.26 737.57 L724.749 743.573 L725.642 749.391 L726.938 755.024 L727.831 758.307 L728.321 759.24 L729.855 760.684 L733.725 763.617" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d2350078-9e21-45bd-9666-b80b36f67104">
+        <title>d2350078-9e21-45bd-9666-b80b36f67104</title>
+        <path class="layer-line" d="M1709.6 686.4 L1710.65 685.5 L1711.6 685.15 L1712.8 685.05 L1714.1 684.7 L1715.5 684.1 L1716.75 683.25 L1717.85 682.15 L1718.5 681.2 L1718.7 680.4 L1718.9 679.9 L1719.2 679.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e91012fa-d69e-4ce7-8aad-d687d2b16f29">
+        <title>e91012fa-d69e-4ce7-8aad-d687d2b16f29</title>
+        <path class="layer-line" d="M2336.218 620.77 L2336.068 622.27 L2335.818 623.22 L2335.418 624.12 L2334.968 624.87 L2334.468 625.47 L2333.568 626.27 L2332.268 627.27 L2331.468 628.17 L2331.018 629.37" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ece187e8-b9c1-4a70-bdd9-6a6fbd08ab73">
+        <title>ece187e8-b9c1-4a70-bdd9-6a6fbd08ab73</title>
+        <path class="layer-line" d="M2100.516 896.929 L2097.773 900.111 L2095.914 901.97 L2093.082 904.362" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="eddcada4-0751-457c-a763-dfc4424b4829">
+        <title>eddcada4-0751-457c-a763-dfc4424b4829</title>
+        <path class="layer-line" d="M1653.2 1170.8 L1653.2 1170.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="d7141062-dade-405f-8cff-c9dfbde7db22">
+        <title>d7141062-dade-405f-8cff-c9dfbde7db22</title>
+        <path class="layer-line" d="M1982.816 976.467 L1992.003 975.414 L1996.537 974.63 L2000.952 973.332" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="f8ed2fba-c61b-480d-9801-97ded1aaa948">
+        <title>f8ed2fba-c61b-480d-9801-97ded1aaa948</title>
+        <path class="layer-line" d="M1631.2 1173 L1636.3 1172.85 L1638.35 1172.9 L1639.05 1173.1 L1639.75 1173.45 L1640.45 1173.95 L1641.85 1174.2 L1643.95 1174.2 L1645.35 1174.15 L1646.05 1174.05 L1646.75 1173.8 L1647.45 1173.4 L1648.45 1173 L1649.75 1172.6 L1650.8 1172.1 L1651.6 1171.5 L1652.3 1171.1 L1653.2 1170.8" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fa7e2d70-6b53-4082-8506-daa3c8280947">
+        <title>fa7e2d70-6b53-4082-8506-daa3c8280947</title>
+        <path class="layer-line" d="M1521.091 884.855 L1518.037 881.033 L1516.001 878.771 L1513.965 876.794 L1512.36 874.949 L1511.187 873.238 L1510.485 872.004 L1510.141 870.87" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="f64ad1bb-919f-4aa5-a34a-1c9d8237836c">
+        <title>f64ad1bb-919f-4aa5-a34a-1c9d8237836c</title>
+        <path class="layer-line" d="M1437.2 711.8 L1440.05 717.8 L1441.05 720.95 L1441.15 723.25 L1441.1 724.95 L1440.8 726.6" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="f7d554b5-d73b-4d82-99dc-1b387aa9699a">
+        <title>f7d554b5-d73b-4d82-99dc-1b387aa9699a</title>
+        <path class="layer-line" d="M1561.6 519.6 L1564.6 515.1 L1566.1 512.1 L1567.1 509.1 L1567.7 507.05 L1568 505.4" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="dfcbd139-434f-436b-ac98-03733d950912">
+        <title>dfcbd139-434f-436b-ac98-03733d950912</title>
+        <path class="layer-line" d="M1975.6 946.2 L1977.25 945.75 L1980.05 945.6 L1984.55 945.6 L1988.65 945.2 L1994.2 944" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="e06f0b02-0179-445d-98a2-4f504d50fc42">
+        <title>e06f0b02-0179-445d-98a2-4f504d50fc42</title>
+        <path class="layer-line" d="M1589.869 755.314 L1592.775 759.882 L1595.222 762.642 L1599.577 766.244" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="ffd72357-16a1-4bea-9329-ef34febad6c1">
+        <title>ffd72357-16a1-4bea-9329-ef34febad6c1</title>
+        <path class="layer-line" d="M1994.2 944 L1994.2 944" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="f7c55df4-77e7-4ea5-af49-3c56d9a813c0">
+        <title>f7c55df4-77e7-4ea5-af49-3c56d9a813c0</title>
+        <path class="layer-line" d="M1579.107 574.921 L1577.591 575.594 L1575.994 575.972 L1573.81 576.281 L1569.361 576.505 L1562.646 576.645 L1557.366 577.417 L1553.519 578.822 L1550.814 579.721 L1549.249 580.115 L1547.538 580.805 L1545.68 581.791 L1543.79 582.425 L1541.867 582.707 L1539.927 583.186 L1537.971 583.864 L1536.57 584.217 L1535.299 584.259" />
+      </g>
+      <g class="feature feature-class-primary-road" data-layer-id="srf_civ_pathways_ln" data-feature-class="Primary Road" data-uuid="fc9a6163-eb28-490e-b0ce-7c8a5549382d">
+        <title>fc9a6163-eb28-490e-b0ce-7c8a5549382d</title>
+        <path class="layer-line" d="M2151.812 700.811 L2151.788 700.367 L2151.33 699.569 L2150.43 698.269 L2148.83 696.669 L2146.53 694.769 L2143.83 693.119 L2140.73 691.719 L2136.78 690.369 L2131.98 689.069 L2129.28 688.469 L2128.68 688.569 L2127.63 689.069 L2126.13 689.969 L2123.08 692.669 L2116.18 699.419" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-underwater-tunnel" data-feature-class="Underwater Tunnel">
+      <g class="feature feature-class-underwater-tunnel" data-layer-id="srf_civ_pathways_ln" data-feature-class="Underwater Tunnel" data-uuid="9dd74596-5ac1-432b-8b68-e7a8a08767fd">
+        <title>unnamed</title>
+        <path class="layer-line" d="M1127.332 567.179 L1127.25 567.393 L1127.203 567.601 L1127.182 567.995" />
+      </g>
+      <g class="feature feature-class-underwater-tunnel" data-layer-id="srf_civ_pathways_ln" data-feature-class="Underwater Tunnel" data-uuid="e9928aae-2c34-4739-b033-abc635503a37">
+        <title>unnamed</title>
+        <path class="layer-line" d="M1126.078 571.736 L1126.166 571.594 L1126.392 571.496 L1126.572 571.409 L1126.672 571.358 L1126.762 571.285 L1126.9 571.221" />
+      </g>
+      <g class="feature feature-class-underwater-tunnel" data-layer-id="srf_civ_pathways_ln" data-feature-class="Underwater Tunnel" data-uuid="4aefc4de-0bc2-4b48-b11f-4917ac9235ee">
+        <title>unnamed</title>
+        <path class="layer-line" d="M1126.336 571.986 L1126.36 571.908 L1126.351 571.808 L1126.421 571.679 L1126.456 571.559 L1126.509 571.439" />
+      </g>
+      <g class="feature feature-class-underwater-tunnel" data-layer-id="srf_civ_pathways_ln" data-feature-class="Underwater Tunnel" data-uuid="813bcacb-68cb-48cc-a9c8-0b5a2d14e81b">
+        <title>unnamed</title>
+        <path class="layer-line" d="M1127.063 571.798 L1126.922 571.49 L1126.889 571.088 L1126.911 570.13 L1126.86 569.698 L1126.98 569.15 L1127.437 568.537 L1127.662 568.358 L1127.872 568.191 L1128.043 568.064 L1128.197 567.893" />
+      </g>
+      <g class="feature feature-class-underwater-tunnel" data-layer-id="srf_civ_pathways_ln" data-feature-class="Underwater Tunnel" data-uuid="fa0b392a-7189-480f-85a4-8e633a205e09">
+        <title>unnamed</title>
+        <path class="layer-line" d="M1126.87 567.232 L1126.944 567.674 L1127.182 567.995 L1127.234 568.294 L1127.437 568.537" />
+      </g>
+    </g>
+  </g>
+</svg>

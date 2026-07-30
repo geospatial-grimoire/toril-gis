@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4000" height="2000" viewBox="0 0 4000 2000" data-layer-id="srf_nat_linear_landmarks_ln" data-map-west="-180.0" data-map-south="-90.0" data-map-east="180.0" data-map-north="90.0">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Toril GIS: Editable Offline Map of the Forgotten Realms - srf_nat_linear_landmarks_ln</dc:title>
+        <dc:creator>Geospatial Grimoire</dc:creator>
+        <dc:source>https://github.com/geospatial-grimoire/toril-gis</dc:source>
+        <dc:rights>Unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Copyright Wizards of the Coast LLC.</dc:rights>
+        <dc:description>Geospatial Grimoire. Toril GIS: Editable Offline Map of the Forgotten Realms. Available at: https://github.com/geospatial-grimoire/toril-gis</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <style>
+    .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222; stroke-width: 1; vector-effect: non-scaling-stroke; fill-rule: evenodd; }
+    .layer-line { fill: none; stroke: #222; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+    .layer-point { fill: #222; stroke: #fff; stroke-width: 1; vector-effect: non-scaling-stroke; }
+    .svg-layer-srf_nat_linear_landmarks_ln .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222222; stroke-width: 1.0; }
+    .svg-layer-srf_nat_linear_landmarks_ln .layer-line { stroke: #b7a996; stroke-width: 1.2; }
+    .svg-layer-srf_nat_linear_landmarks_ln .layer-point { fill: #222222; stroke: #ffffff; stroke-width: 1.0; }
+  </style>
+  <g id="srf_nat_linear_landmarks_ln" class="svg-layer svg-layer-srf_nat_linear_landmarks_ln">
+    <g class="feature-class-layer feature-class-cliff" data-feature-class="Cliff">
+      <g class="feature feature-class-cliff" data-layer-id="srf_nat_linear_landmarks_ln" data-feature-class="Cliff" data-uuid="ca278554-c6f1-42df-83ed-87b659c9cc31">
+        <title>ca278554-c6f1-42df-83ed-87b659c9cc31</title>
+        <path class="layer-line" d="M2113.696 597.753 L2114.087 597.534 L2114.573 597.286 L2114.792 597.149 L2114.949 596.888 L2115.012 596.641 L2115.043 596.339 L2114.73 596.038 L2114.557 595.859" />
+      </g>
+      <g class="feature feature-class-cliff" data-layer-id="srf_nat_linear_landmarks_ln" data-feature-class="Cliff" data-uuid="c16c700b-654e-4a98-ad68-217b7e9aca73">
+        <title>c16c700b-654e-4a98-ad68-217b7e9aca73</title>
+        <path class="layer-line" d="M2097.816 595.652 L2097.833 595.841 L2097.915 595.957 L2098.379 596.116 L2098.744 596.203 L2099.257 596.131 L2099.671 596.087 L2099.804 595.783 L2099.92 595.435" />
+      </g>
+      <g class="feature feature-class-cliff" data-layer-id="srf_nat_linear_landmarks_ln" data-feature-class="Cliff" data-uuid="75a0c1ff-7c07-46a4-92cc-35d39dec1636">
+        <title>75a0c1ff-7c07-46a4-92cc-35d39dec1636</title>
+        <path class="layer-line" d="M1976.229 569.818 L1977.454 570.062 L1978.23 570.185 L1979.046 570.22 L1979.802 570.097 L1980.557 569.835 L1981.415 569.416 L1982.15 569.102 L1982.558 569.015 L1983.559 569.172 L1984.865 569.469 L1986.172 569.608 L1987.193 569.731 L1988.929 569.661 L1990.276 569.416 L1991.869 568.823 L1992.767 568.3 L1993.87 567.533 L1994.625 566.523 L1995.564 565.774 L1996.769 565.426 L1997.851 565.6 L1999.199 566.035 L2000.281 566.279 L2000.71 566.314" />
+      </g>
+      <g class="feature feature-class-cliff" data-layer-id="srf_nat_linear_landmarks_ln" data-feature-class="Cliff" data-uuid="afce4d68-6180-4798-8399-a78acc6dacf3">
+        <title>afce4d68-6180-4798-8399-a78acc6dacf3</title>
+        <path class="layer-line" d="M2100.489 595.352 L2100.489 594.954 L2100.489 594.585 L2100.63 594.256 L2100.692 594.119" />
+      </g>
+      <g class="feature feature-class-cliff" data-layer-id="srf_nat_linear_landmarks_ln" data-feature-class="Cliff" data-uuid="b8246379-dabd-40ef-88cf-afbc6bb7132e">
+        <title>b8246379-dabd-40ef-88cf-afbc6bb7132e</title>
+        <path class="layer-line" d="M2100.734 598.89 L2100.3 598.678 L2099.95 598.498 L2099.806 598.393 L2100.059 597.97 L2100.228 597.674 L2100.324 597.135 L2100.384 596.502" />
+      </g>
+    </g>
+  </g>
+</svg>

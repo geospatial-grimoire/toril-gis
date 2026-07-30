@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4000" height="2000" viewBox="0 0 4000 2000" data-layer-id="udk_civ_important_sites_pt" data-map-west="-180.0" data-map-south="-90.0" data-map-east="180.0" data-map-north="90.0">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Toril GIS: Editable Offline Map of the Forgotten Realms - udk_civ_important_sites_pt</dc:title>
+        <dc:creator>Geospatial Grimoire</dc:creator>
+        <dc:source>https://github.com/geospatial-grimoire/toril-gis</dc:source>
+        <dc:rights>Unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Copyright Wizards of the Coast LLC.</dc:rights>
+        <dc:description>Geospatial Grimoire. Toril GIS: Editable Offline Map of the Forgotten Realms. Available at: https://github.com/geospatial-grimoire/toril-gis</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <style>
+    .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222; stroke-width: 1; vector-effect: non-scaling-stroke; fill-rule: evenodd; }
+    .layer-line { fill: none; stroke: #222; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+    .layer-point { fill: #222; stroke: #fff; stroke-width: 1; vector-effect: non-scaling-stroke; }
+    .svg-layer-udk_civ_important_sites_pt .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222222; stroke-width: 1.0; }
+    .svg-layer-udk_civ_important_sites_pt .layer-line { stroke: #222222; stroke-width: 1.5; }
+    .svg-layer-udk_civ_important_sites_pt .layer-point { fill: #222222; stroke: #ffffff; stroke-width: 1.0; }
+  </style>
+  <g id="udk_civ_important_sites_pt" class="svg-layer svg-layer-udk_civ_important_sites_pt">
+    <g class="feature-class-layer feature-class-ruins" data-feature-class="Ruins">
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="1119bc7b-37f2-4fe6-87d4-85eebf4187ee">
+        <title>Tethyamar</title>
+        <circle class="layer-point" cx="1376.049" cy="518.798" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="23087ae8-e7b3-4790-8fad-86d95e42478d">
+        <title>Sorath-Nu-Sum</title>
+        <circle class="layer-point" cx="1436.645" cy="527.156" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="3aeb2242-68df-45ca-ad83-232e9acba3b9">
+        <title>Oghrann</title>
+        <circle class="layer-point" cx="1310.954" cy="575.326" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="40d287fd-ef9a-4935-a59c-9fe36c12fbc0">
+        <title>Philock</title>
+        <circle class="layer-point" cx="1261.809" cy="598.832" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="0bcdaa39-4077-4357-8039-9d98f1672d38">
+        <title>Oozing Ruin</title>
+        <circle class="layer-point" cx="1456.98" cy="759.353" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="6a98da98-c8e5-4cbd-aafa-d6d3988a286d">
+        <title>Drowned Multum</title>
+        <circle class="layer-point" cx="1451.534" cy="575.395" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="72ee087e-97d0-4ba9-aeae-a18a48028e29">
+        <title>Rrinnoroth</title>
+        <circle class="layer-point" cx="1289.362" cy="650.503" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="b8690d90-5ec1-406d-84e2-a0574688c761">
+        <title>Vault of Congiured Madness</title>
+        <circle class="layer-point" cx="1413.942" cy="685.817" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="bad29a85-057e-4347-b6a5-0fb12028347e">
+        <title>Tumulus</title>
+        <circle class="layer-point" cx="1203.764" cy="521.465" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="d610a7aa-0c52-46b0-b30d-86ef5cf7e9ad">
+        <title>Gauntlgrym</title>
+        <circle class="layer-point" cx="1162.092" cy="435.315" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="db74ed6d-42e3-4795-9036-ea1e15504767">
+        <title>Dolblunde</title>
+        <circle class="layer-point" cx="1182.883" cy="496.929" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="f18567b7-29f9-4418-a7f7-8faafae39f2c">
+        <title>Chaulssin</title>
+        <circle class="layer-point" cx="1261.171" cy="426.862" r="2" />
+      </g>
+      <g class="feature feature-class-ruins" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Ruins" data-uuid="fe0bbeb8-d013-4687-be9c-ef3746ee0b31">
+        <title>Ammarindar</title>
+        <circle class="layer-point" cx="1272.124" cy="448.135" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-fortification" data-feature-class="Fortification">
+      <g class="feature feature-class-fortification" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="51e2f48e-020f-48ae-ac56-bedbf6abd0bd">
+        <title>Citadel of the Fiendish Slayer</title>
+        <circle class="layer-point" cx="1529.853" cy="641.581" r="2" />
+      </g>
+      <g class="feature feature-class-fortification" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Fortification" data-uuid="2277a5b2-80ff-4327-9fc6-ea7b92d19375">
+        <title>Shape of Water</title>
+        <circle class="layer-point" cx="1589.518" cy="675.717" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-cavern" data-feature-class="Cavern">
+      <g class="feature feature-class-cavern" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Cavern" data-uuid="595d8f6f-3953-43f7-a6cf-9b03a2ce9920">
+        <title>Gduar&#x27;s Garden</title>
+        <circle class="layer-point" cx="1446.589" cy="730.208" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-portal" data-feature-class="Portal">
+      <g class="feature feature-class-portal" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Portal" data-uuid="700684db-232b-498d-b2e8-b4983262d500">
+        <title>Тomb Tapper Tomb</title>
+        <circle class="layer-point" cx="1337.966" cy="491.834" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-other" data-feature-class="Other">
+      <g class="feature feature-class-other" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Other" data-uuid="a13d45b9-2e67-4dbd-ac19-b9dbade0ce25">
+        <title>Rootstalk</title>
+        <circle class="layer-point" cx="1419.521" cy="788.007" r="2" />
+      </g>
+      <g class="feature feature-class-other" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Other" data-uuid="e7a5e7c8-e1d1-42fb-b013-35a97d0e6ded">
+        <title>House of Dark Consumption</title>
+        <circle class="layer-point" cx="1435.83" cy="552.052" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-cave" data-feature-class="Cave">
+      <g class="feature feature-class-cave" data-layer-id="udk_civ_important_sites_pt" data-feature-class="Cave" data-uuid="b1f8024c-b6e8-4376-953a-dc943b2c1a70">
+        <title>Nuur Throth</title>
+        <circle class="layer-point" cx="1156.895" cy="441.534" r="2" />
+      </g>
+    </g>
+  </g>
+</svg>

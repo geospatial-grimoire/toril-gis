@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4000" height="2000" viewBox="0 0 4000 2000" data-layer-id="udk_nat_landmarks_pt" data-map-west="-180.0" data-map-south="-90.0" data-map-east="180.0" data-map-north="90.0">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Toril GIS: Editable Offline Map of the Forgotten Realms - udk_nat_landmarks_pt</dc:title>
+        <dc:creator>Geospatial Grimoire</dc:creator>
+        <dc:source>https://github.com/geospatial-grimoire/toril-gis</dc:source>
+        <dc:rights>Unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Copyright Wizards of the Coast LLC.</dc:rights>
+        <dc:description>Geospatial Grimoire. Toril GIS: Editable Offline Map of the Forgotten Realms. Available at: https://github.com/geospatial-grimoire/toril-gis</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <style>
+    .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222; stroke-width: 1; vector-effect: non-scaling-stroke; fill-rule: evenodd; }
+    .layer-line { fill: none; stroke: #222; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+    .layer-point { fill: #222; stroke: #fff; stroke-width: 1; vector-effect: non-scaling-stroke; }
+    .svg-layer-udk_nat_landmarks_pt .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222222; stroke-width: 1.0; }
+    .svg-layer-udk_nat_landmarks_pt .layer-line { stroke: #222222; stroke-width: 1.5; }
+    .svg-layer-udk_nat_landmarks_pt .layer-point { fill: #222222; stroke: #ffffff; stroke-width: 1.0; }
+  </style>
+  <g id="udk_nat_landmarks_pt" class="svg-layer svg-layer-udk_nat_landmarks_pt">
+    <g class="feature-class-layer feature-class-volcanic-activity" data-feature-class="Volcanic Activity">
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="7f49e0de-bd0a-48ba-a59f-eeaa97c83e3e">
+        <title>7f49e0de-bd0a-48ba-a59f-eeaa97c83e3e</title>
+        <circle class="layer-point" cx="1548.065" cy="707.883" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="39aa2719-44fc-46bc-a770-4f97d6220aae">
+        <title>39aa2719-44fc-46bc-a770-4f97d6220aae</title>
+        <circle class="layer-point" cx="1306.504" cy="726.685" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="08591358-b384-409e-9eb8-8f2495dc7c03">
+        <title>08591358-b384-409e-9eb8-8f2495dc7c03</title>
+        <circle class="layer-point" cx="1446.51" cy="750.974" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="47cfc3ce-34d9-4420-9d0b-1fe7fd5e9672">
+        <title>47cfc3ce-34d9-4420-9d0b-1fe7fd5e9672</title>
+        <circle class="layer-point" cx="1132.985" cy="832.324" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="4ecb64d6-b555-4b6e-827b-e988023364de">
+        <title>4ecb64d6-b555-4b6e-827b-e988023364de</title>
+        <circle class="layer-point" cx="1322.603" cy="748.18" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="55f49f74-5dc9-4cd5-a0e3-42f747af3cff">
+        <title>55f49f74-5dc9-4cd5-a0e3-42f747af3cff</title>
+        <circle class="layer-point" cx="1275.709" cy="857.937" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="653cd790-79aa-4816-8877-b52acde11873">
+        <title>653cd790-79aa-4816-8877-b52acde11873</title>
+        <circle class="layer-point" cx="1175.802" cy="839.542" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="718e8c74-a693-4b21-be5c-9da9c192b940">
+        <title>718e8c74-a693-4b21-be5c-9da9c192b940</title>
+        <circle class="layer-point" cx="1241.366" cy="856.184" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="867f462a-ff7b-4f59-b389-85a8969d4939">
+        <title>867f462a-ff7b-4f59-b389-85a8969d4939</title>
+        <circle class="layer-point" cx="1363.245" cy="738.675" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="92d8c631-9502-4f30-af79-dbd9abd3dd59">
+        <title>92d8c631-9502-4f30-af79-dbd9abd3dd59</title>
+        <circle class="layer-point" cx="1144.358" cy="849.831" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="b51cece1-29f8-4178-a2ca-8f47e9d49e52">
+        <title>b51cece1-29f8-4178-a2ca-8f47e9d49e52</title>
+        <circle class="layer-point" cx="1587.011" cy="604.212" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="b67d7e12-9d21-481b-b462-e751f78bc222">
+        <title>b67d7e12-9d21-481b-b462-e751f78bc222</title>
+        <circle class="layer-point" cx="1152.852" cy="426.951" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="bac9cc2a-dba7-438a-b2d8-37238e34296f">
+        <title>bac9cc2a-dba7-438a-b2d8-37238e34296f</title>
+        <circle class="layer-point" cx="1181.377" cy="855.307" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="be07c958-b6ef-43bb-9300-c98db75bb327">
+        <title>be07c958-b6ef-43bb-9300-c98db75bb327</title>
+        <circle class="layer-point" cx="1432.692" cy="645.502" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="cdc6a78a-0bea-4d4e-a405-6932697c77a5">
+        <title>cdc6a78a-0bea-4d4e-a405-6932697c77a5</title>
+        <circle class="layer-point" cx="1420.073" cy="656.738" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="d4bd9ddf-8e7a-4c8c-90e1-6205f84bc89f">
+        <title>d4bd9ddf-8e7a-4c8c-90e1-6205f84bc89f</title>
+        <circle class="layer-point" cx="1629.392" cy="652.637" r="2" />
+      </g>
+      <g class="feature feature-class-volcanic-activity" data-layer-id="udk_nat_landmarks_pt" data-feature-class="Volcanic Activity" data-uuid="d6ecc19f-cbcd-450e-addf-75bf896ef7b5">
+        <title>d6ecc19f-cbcd-450e-addf-75bf896ef7b5</title>
+        <circle class="layer-point" cx="1532.412" cy="712.147" r="2" />
+      </g>
+    </g>
+  </g>
+</svg>

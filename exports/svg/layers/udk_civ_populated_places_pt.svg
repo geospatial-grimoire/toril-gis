@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4000" height="2000" viewBox="0 0 4000 2000" data-layer-id="udk_civ_populated_places_pt" data-map-west="-180.0" data-map-south="-90.0" data-map-east="180.0" data-map-north="90.0">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Toril GIS: Editable Offline Map of the Forgotten Realms - udk_civ_populated_places_pt</dc:title>
+        <dc:creator>Geospatial Grimoire</dc:creator>
+        <dc:source>https://github.com/geospatial-grimoire/toril-gis</dc:source>
+        <dc:rights>Unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Copyright Wizards of the Coast LLC.</dc:rights>
+        <dc:description>Geospatial Grimoire. Toril GIS: Editable Offline Map of the Forgotten Realms. Available at: https://github.com/geospatial-grimoire/toril-gis</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <style>
+    .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222; stroke-width: 1; vector-effect: non-scaling-stroke; fill-rule: evenodd; }
+    .layer-line { fill: none; stroke: #222; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+    .layer-point { fill: #222; stroke: #fff; stroke-width: 1; vector-effect: non-scaling-stroke; }
+    .svg-layer-udk_civ_populated_places_pt .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222222; stroke-width: 1.0; }
+    .svg-layer-udk_civ_populated_places_pt .layer-line { stroke: #222222; stroke-width: 1.5; }
+    .svg-layer-udk_civ_populated_places_pt .layer-point { fill: #222222; stroke: #ffffff; stroke-width: 1.0; }
+  </style>
+  <g id="udk_civ_populated_places_pt" class="svg-layer svg-layer-udk_civ_populated_places_pt">
+    <g class="feature-class-layer feature-class-city" data-feature-class="City">
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="04dee5c9-0389-4e45-976d-ac0fb5149628">
+        <title>Guallidurth</title>
+        <circle class="layer-point" cx="1237.882" cy="725.052" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="078833be-3953-49f3-bacc-f55fe57eebd9">
+        <title>Cairnheim</title>
+        <circle class="layer-point" cx="1340.75" cy="623.167" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="13a4bfee-d884-4df2-9904-45ff03e08fef">
+        <title>Nanitaran</title>
+        <circle class="layer-point" cx="1620.597" cy="583.92" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="14414b94-1209-4401-9e1e-67057588a11f">
+        <title>Sshurlinder</title>
+        <circle class="layer-point" cx="1592.354" cy="617.085" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="176413c7-7369-4e2f-b1be-322191c1d389">
+        <title>Fraaszummdin</title>
+        <circle class="layer-point" cx="1625.952" cy="568.699" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="2d31c0cc-7b09-439b-a084-9de2eec38510">
+        <title>Menzoberranzan</title>
+        <circle class="layer-point" cx="1225.659" cy="433.232" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="30da5fb4-617c-4919-8aab-9adb00c7e9fd">
+        <title>Eryndlyn</title>
+        <circle class="layer-point" cx="1214.798" cy="518.8" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="32a0b558-a198-4950-887a-32b6df87804c">
+        <title>Rringlor Noroth</title>
+        <circle class="layer-point" cx="1253.533" cy="714.26" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="357bc6bb-58a4-4e0f-82fd-7d09e9426665">
+        <title>Dunspeirrin</title>
+        <circle class="layer-point" cx="1395.223" cy="641.795" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="3593a1e5-a53a-404d-b2fb-e49714d15757">
+        <title>Mezrylornyl</title>
+        <circle class="layer-point" cx="1605.834" cy="603.694" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="35cd6d16-6a2a-400a-af57-15df2fc1c9f5">
+        <title>Sphur Upra</title>
+        <circle class="layer-point" cx="1652.669" cy="655.3" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="13e488f2-3746-4a5e-bf3d-53fa52dc486a">
+        <title>Drezz&#x27;Lynur</title>
+        <circle class="layer-point" cx="1587.315" cy="571.892" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="45ebaf18-2d1e-4e2a-8f31-f7f4899c9147">
+        <title>Deep Imaskar</title>
+        <circle class="layer-point" cx="1659.967" cy="545.127" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="52cd07fb-44cb-4d1b-bb17-f7746542551b">
+        <title>Boneyard</title>
+        <circle class="layer-point" cx="1531.17" cy="569.051" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="55fc1c50-7ca3-44f8-88ca-5724e654de45">
+        <title>Fivrek&#x27;Zek</title>
+        <circle class="layer-point" cx="1580.27" cy="597.621" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="573e5855-a561-452e-a5e4-fb417545e7c2">
+        <title>Ched Nasad</title>
+        <circle class="layer-point" cx="1256.65" cy="487.343" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="14f4e83a-6d1e-40af-9062-6de39a7e360e">
+        <title>Drik Hargunen</title>
+        <circle class="layer-point" cx="1381.799" cy="625.944" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="532c6aac-81fb-494c-b4ee-82fc78791887">
+        <title>Llurth Dreir</title>
+        <circle class="layer-point" cx="1456.98" cy="759.353" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="506e624a-2ded-4367-ae52-e856828a140e">
+        <title>Sshamath</title>
+        <circle class="layer-point" cx="1298.358" cy="582.609" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="633385f2-f138-4b5f-ab0f-6491a79b4481">
+        <title>Trun&#x27;Zoyl&#x27;Zl</title>
+        <circle class="layer-point" cx="1597.474" cy="630.98" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="64b98271-659a-4cc8-9a19-0bad31dba416">
+        <title>Brundag</title>
+        <circle class="layer-point" cx="1574.946" cy="618.259" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="6d1ad07b-d53f-4a4e-ab2f-ac3cca020005">
+        <title>Morndivver</title>
+        <circle class="layer-point" cx="1249.853" cy="674.632" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="75cb206f-3770-4f1b-9599-850614e51254">
+        <title>Holorarar</title>
+        <circle class="layer-point" cx="1268.743" cy="690.196" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="78fa3cb7-fe91-4e93-8c24-9df8eae9d4f3">
+        <title>Ch&#x27;Chitl</title>
+        <circle class="layer-point" cx="1178.134" cy="475.536" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="7eedd9d7-d0e3-4da5-ac75-31c249e0356d">
+        <title>Phaundakulzan</title>
+        <circle class="layer-point" cx="1559.831" cy="588.278" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="7eeded61-b3a1-4918-bfd2-565dfa6ea1f4">
+        <title>T&#x27;lindhet</title>
+        <circle class="layer-point" cx="1506.115" cy="895.079" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="85f31b16-18b0-4cf8-acb3-7344ea176dbd">
+        <title>Deepburrow</title>
+        <circle class="layer-point" cx="1565.589" cy="831.286" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="951ded16-e516-4d0e-992a-e2590cece908">
+        <title>Jenn&#x27;Yxir</title>
+        <circle class="layer-point" cx="1618.246" cy="630.848" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="b6b1471d-b107-4ee3-891e-d5e6b28d46ef">
+        <title>Brikklext</title>
+        <circle class="layer-point" cx="1482.484" cy="562.561" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="be46bb00-7935-4b35-8212-bc7a5538daf4">
+        <title>Iltkazar</title>
+        <circle class="layer-point" cx="1295.974" cy="678.51" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="bbeab39a-d9fd-43f6-bd7d-56aa5dc48ff0">
+        <title>Fluvenilstra</title>
+        <circle class="layer-point" cx="1397.114" cy="779.443" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="bfed515a-a3de-4c9b-85cf-f2ce554991e2">
+        <title>Traaskl Thorog</title>
+        <circle class="layer-point" cx="1493.848" cy="688.721" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="c56a21f8-3c9c-45f8-9dcd-c85ab6d379af">
+        <title>Sschindylryn</title>
+        <circle class="layer-point" cx="1357.066" cy="581.549" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="ccfd43e1-6817-423c-9b46-dfa198dc02a3">
+        <title>Sloopdilmonpolop</title>
+        <circle class="layer-point" cx="1220.009" cy="664.234" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="d1e11282-2ee3-4a23-adf0-a606e7f3a378">
+        <title>Mantol-Derith</title>
+        <circle class="layer-point" cx="1201.127" cy="441.562" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="dd66b8f6-2909-4cb7-a97f-31ff5b1a626a">
+        <title>Ooltul</title>
+        <circle class="layer-point" cx="1350.491" cy="543.502" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="ddbc9b15-1608-4c45-a024-59bd5b3d45ad">
+        <title>Oryndoll</title>
+        <circle class="layer-point" cx="1340.2" cy="656.91" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="dde63d95-14e4-462e-b7ba-ce91f30505aa">
+        <title>Oaxaptupa</title>
+        <circle class="layer-point" cx="1243.516" cy="623.514" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="e25fd7f7-e055-4ec6-a2bf-624d09f7d903">
+        <title>Gracklstugh</title>
+        <circle class="layer-point" cx="1200.205" cy="448.793" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="f90f625b-5af2-4d8f-abb1-40cb8aa5e6cd">
+        <title>Maerimydra</title>
+        <circle class="layer-point" cx="1402.65" cy="539.729" r="2" />
+      </g>
+      <g class="feature feature-class-city" data-layer-id="udk_civ_populated_places_pt" data-feature-class="City" data-uuid="fad52dd6-4114-4357-adad-41e2283582aa">
+        <title>Vrasl</title>
+        <circle class="layer-point" cx="1625.414" cy="603.861" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-village" data-feature-class="Village">
+      <g class="feature feature-class-village" data-layer-id="udk_civ_populated_places_pt" data-feature-class="Village" data-uuid="074daff6-7d6b-40d7-aa94-e2eeccd798a7">
+        <title>Kuragolomsh</title>
+        <circle class="layer-point" cx="1470.689" cy="545.206" r="2" />
+      </g>
+      <g class="feature feature-class-village" data-layer-id="udk_civ_populated_places_pt" data-feature-class="Village" data-uuid="2d96d620-55fc-47d8-821d-5de231764e55">
+        <title>Dupapn</title>
+        <circle class="layer-point" cx="1401.951" cy="706.249" r="2" />
+      </g>
+      <g class="feature feature-class-village" data-layer-id="udk_civ_populated_places_pt" data-feature-class="Village" data-uuid="72ec5757-118e-4765-a5e1-368ce51b5c5f">
+        <title>Cloakerhaven</title>
+        <circle class="layer-point" cx="1476.422" cy="661.124" r="2" />
+      </g>
+      <g class="feature feature-class-village" data-layer-id="udk_civ_populated_places_pt" data-feature-class="Village" data-uuid="8b9c647e-0633-4f42-8b43-fbeecd56389f">
+        <title>Blessed Seahaven</title>
+        <circle class="layer-point" cx="1403.23" cy="579.61" r="2" />
+      </g>
+      <g class="feature feature-class-village" data-layer-id="udk_civ_populated_places_pt" data-feature-class="Village" data-uuid="9c0ec501-a266-4742-a7e4-8939f9b406a5">
+        <title>Yathchol</title>
+        <circle class="layer-point" cx="1271.952" cy="466.176" r="2" />
+      </g>
+    </g>
+    <g class="feature-class-layer feature-class-town" data-feature-class="Town">
+      <g class="feature feature-class-town" data-layer-id="udk_civ_populated_places_pt" data-feature-class="Town" data-uuid="380b60f8-5393-4124-a136-ca4ffb9c4b0c">
+        <title>Looblishar</title>
+        <circle class="layer-point" cx="1364.146" cy="618.723" r="2" />
+      </g>
+      <g class="feature feature-class-town" data-layer-id="udk_civ_populated_places_pt" data-feature-class="Town" data-uuid="6c68d191-3131-4893-bb1c-49476d918c3f">
+        <title>Earth&#x27;s End</title>
+        <circle class="layer-point" cx="1406.563" cy="874.25" r="2" />
+      </g>
+      <g class="feature feature-class-town" data-layer-id="udk_civ_populated_places_pt" data-feature-class="Town" data-uuid="849f0f97-ee28-4db5-ab86-05567773469f">
+        <title>Holy Mother Cauldron</title>
+        <circle class="layer-point" cx="1439.798" cy="616.905" r="2" />
+      </g>
+      <g class="feature feature-class-town" data-layer-id="udk_civ_populated_places_pt" data-feature-class="Town" data-uuid="d8d31829-0616-456d-a3b8-7ca36e89baec">
+        <title>Reeshov</title>
+        <circle class="layer-point" cx="1259.245" cy="532.144" r="2" />
+      </g>
+    </g>
+  </g>
+</svg>

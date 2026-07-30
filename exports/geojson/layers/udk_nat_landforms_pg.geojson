@@ -1,0 +1,3996 @@
+{
+  "type": "FeatureCollection",
+  "name": "sql_statement",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "85f7b9a9-753c-497f-ab36-e861d19b6a75",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Abyss",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-14",
+        "last_editor": "postgres",
+        "name_en": "Lorosfyr",
+        "name_ru": "Лоросфир",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Lorosfyr",
+        "label_ru": "Лоросфир",
+        "descr_en": "A vast, frigid, and largely unexplored chasm in the Lowerdark, known for its eerie silence and maddening whispers. It stretches 90 miles east to west, reaches depths of 40 miles, and features an ancient road and staircases of unknown origin on its western side. It connects to the Buried Realms.",
+        "descr_ru": "Огромная, ледяная и в значительной степени неисследованная пропасть в Нижней Тьме, известная своим жутким безмолвием и сводящими с ума шёпотами. Она простирается на 90 миль с востока на запад, достигает глубины 40 миль и имеет древнюю дорогу и лестницы неизвестного происхождения на своей западной стороне. Она соединяется с Погребёнными Царствами.",
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": "https://forgottenrealms.fandom.com/wiki/Lorosfyr",
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark, Upperdark",
+        "extra_str": "topical_tags: [\"chasm\", \"lowerdark\", \"underdark\", \"unexplored\", \"whispers\", \"madness\", \"ancient\", \"road\", \"staircase\"] | related_location_tags: [\"Tortured Lands\", \"Sharnwall\", \"Buried Realms\", \"Lowerdark\", \"Underdark\"]",
+        "location_en": "central Faerûn → Underdark → Deep Wastes",
+        "name_alt_en_str": "The Maddening Dark",
+        "location_ru": "центральный Фаэрун → Подземье → Глубинные Пустоши",
+        "name_alt_ru_str": "Безумная Тьма",
+        "geog_extent_area_sq_km": 12973.0,
+        "geog_extent_area_sq_miles": 5009.0,
+        "geog_extent_perimeter_km": 661.0,
+        "geog_extent_perimeter_miles": 411.0,
+        "geog_extent_centroid_md": "46° 02′ 57″ N 001° 09′ 04″ W",
+        "geog_extent_centroid_fria": "46° 02′ 57″ N 054° 37′ 57″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 0.122235496943,
+          "west": -2.171326372252,
+          "north": 46.92025381103083,
+          "south": 44.97237641548859
+        },
+        "geog_extent_bbox_fria": {
+          "east": -53.35926599104745,
+          "west": -55.652827860241615,
+          "north": 46.92025381103083,
+          "south": 44.97237641548859
+        },
+        "name_it": "Lorosfyr",
+        "name_abb_it": null,
+        "label_it": "Lorosfyr",
+        "descr_it": "Un vasto, gelido e in gran parte inesplorato baratro nel Sottosuolo inferiore, noto per il suo silenzio inquietante e i sussurri che portano alla follia. Si estende per 90 miglia da est a ovest, raggiunge profondità di 40 miglia e presenta un'antica strada e scale di origine sconosciuta sul suo lato occidentale. Si collega ai Reami Sepolti.",
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn centrale → Underdark → Desolazioni Profonde",
+        "name_alt_it_str": "Oscurità Inquietante",
+        "topical_tags": "chasm, lowerdark, underdark, unexplored, whispers, madness, ancient, road, staircase",
+        "related_location_tags": "Tortured Lands, Sharnwall, Buried Realms, Lowerdark, Underdark",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -53.730392507098294,
+                46.85613764528849
+              ],
+              [
+                -54.04956131090201,
+                46.739456883443886
+              ],
+              [
+                -54.376152645026735,
+                46.55833011814137
+              ],
+              [
+                -54.59140602433623,
+                46.42958695769623
+              ],
+              [
+                -54.92541988878198,
+                46.32998828831782
+              ],
+              [
+                -55.207476040980616,
+                46.23028860635104
+              ],
+              [
+                -55.48953219317925,
+                46.06585602274383
+              ],
+              [
+                -55.5934476176735,
+                45.8893707075098
+              ],
+              [
+                -55.63056026927857,
+                45.671263975825525
+              ],
+              [
+                -55.652827860241615,
+                45.49997201333728
+              ],
+              [
+                -55.64540532992061,
+                45.35798333839827
+              ],
+              [
+                -55.62313773895755,
+                45.14460750876607
+              ],
+              [
+                -55.60829267831552,
+                45.00209348811435
+              ],
+              [
+                -55.54148990542637,
+                44.97237641548859
+              ],
+              [
+                -55.39303929900604,
+                45.031801358342875
+              ],
+              [
+                -55.29654640483281,
+                45.15054100748978
+              ],
+              [
+                -55.22232110162265,
+                45.25135452626792
+              ],
+              [
+                -55.1555183287335,
+                45.292835307223655
+              ],
+              [
+                -55.01449025263419,
+                45.29875967532296
+              ],
+              [
+                -54.888307237176896,
+                45.328376054400714
+              ],
+              [
+                -54.83634952492978,
+                45.40533609990054
+              ],
+              [
+                -54.806659403645725,
+                45.49997201333728
+              ],
+              [
+                -54.89572976749791,
+                45.63584910353888
+              ],
+              [
+                -54.92541988878198,
+                45.75974463745876
+              ],
+              [
+                -54.903152297818934,
+                45.83047118091842
+              ],
+              [
+                -54.82892699460877,
+                45.9070336195027
+              ],
+              [
+                -54.710166509472494,
+                45.965886881694445
+              ],
+              [
+                -54.56171590305216,
+                46.00706304338036
+              ],
+              [
+                -54.42068782695284,
+                46.01294393428265
+              ],
+              [
+                -54.339039993421665,
+                45.98353593585048
+              ],
+              [
+                -54.25739215989047,
+                45.93057918867217
+              ],
+              [
+                -54.198011917322354,
+                45.91880711525565
+              ],
+              [
+                -54.079251432186076,
+                45.9129205452136
+              ],
+              [
+                -54.034716250259976,
+                45.96000315394772
+              ],
+              [
+                -54.034716250259976,
+                46.042343077192335
+              ],
+              [
+                -54.034716250259976,
+                46.148106833879986
+              ],
+              [
+                -54.034716250259976,
+                46.25375646559965
+              ],
+              [
+                -53.997603598654884,
+                46.32412640157664
+              ],
+              [
+                -53.88626564383965,
+                46.34171101331134
+              ],
+              [
+                -53.75266009806135,
+                46.34171101331134
+              ],
+              [
+                -53.65616720388812,
+                46.423731000848534
+              ],
+              [
+                -53.54482924907287,
+                46.57002572233929
+              ],
+              [
+                -53.45575888522066,
+                46.70442591662559
+              ],
+              [
+                -53.36668852136847,
+                46.80364824518274
+              ],
+              [
+                -53.35926599104745,
+                46.861968092698575
+              ],
+              [
+                -53.40380117297355,
+                46.92025381103083
+              ],
+              [
+                -53.730392507098294,
+                46.85613764528849
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "2e117453-2705-47fd-941d-6ab907c4c2c2",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Abyss",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": "exclude from wiki link auto-ageneration",
+        "img_url": null,
+        "last_edited": "2026-07-13",
+        "last_editor": "postgres",
+        "name_en": "Lightdrinker",
+        "name_ru": "Светоглот",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Lightdrinker",
+        "label_ru": "Светоглот",
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark, Upperdark",
+        "extra_str": null,
+        "location_en": "southern Faerûn → Underdark → Great Bhaerynden",
+        "name_alt_en_str": null,
+        "location_ru": "южный Фаэрун → Подземье → Великий Бхаэринден",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 20893.0,
+        "geog_extent_area_sq_miles": 8067.0,
+        "geog_extent_perimeter_km": 973.0,
+        "geog_extent_perimeter_miles": 604.0,
+        "geog_extent_centroid_md": "11° 53′ 58″ N 011° 46′ 31″ E",
+        "geog_extent_centroid_fria": "11° 53′ 58″ N 041° 42′ 22″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 12.557474862426,
+          "west": 11.158327896914,
+          "north": 13.712634654071838,
+          "south": 10.61995462201998
+        },
+        "geog_extent_bbox_fria": {
+          "east": -40.92402662556422,
+          "west": -42.323173591075864,
+          "north": 13.712634654071838,
+          "south": 10.61995462201998
+        },
+        "name_it": "Lightdrinker",
+        "name_abb_it": null,
+        "label_it": "Lightdrinker",
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn meridionale → Underdark → Grande Bhaerynden",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -41.58982759535942,
+                10.61995462201998
+              ],
+              [
+                -41.53193185885549,
+                10.695922342528249
+              ],
+              [
+                -41.53193185885549,
+                10.819363773792412
+              ],
+              [
+                -41.52228256943817,
+                10.961786495258275
+              ],
+              [
+                -41.58017830594209,
+                11.142173091226082
+              ],
+              [
+                -41.59947688477674,
+                11.246599209287961
+              ],
+              [
+                -41.6284247530287,
+                11.332034128294733
+              ],
+              [
+                -41.59947688477674,
+                11.426956806943467
+              ],
+              [
+                -41.52228256943817,
+                11.474416130697275
+              ],
+              [
+                -41.3582446493437,
+                11.436448780133945
+              ],
+              [
+                -41.23280388691851,
+                11.388988375847623
+              ],
+              [
+                -41.08806454565869,
+                11.379496134131927
+              ],
+              [
+                -40.98192236206815,
+                11.455432564113625
+              ],
+              [
+                -40.92402662556422,
+                11.588312906664234
+              ],
+              [
+                -41.00122094090279,
+                11.778122775684162
+              ],
+              [
+                -41.165258860997255,
+                12.034328549029201
+              ],
+              [
+                -41.3582446493437,
+                12.318947985768284
+              ],
+              [
+                -41.52228256943817,
+                12.565569592969226
+              ],
+              [
+                -41.676671200115315,
+                12.878520061937918
+              ],
+              [
+                -41.74421622603656,
+                13.096588511694012
+              ],
+              [
+                -41.80211196254049,
+                13.219826095682981
+              ],
+              [
+                -41.87930627787907,
+                13.343049870276033
+              ],
+              [
+                -41.917903435548354,
+                13.399917623059405
+              ],
+              [
+                -41.917903435548354,
+                13.399917623059405
+              ],
+              [
+                -41.94685130380032,
+                13.447305084316236
+              ],
+              [
+                -42.0722920662255,
+                13.48521351121378
+              ],
+              [
+                -42.10123993447747,
+                13.456782320059064
+              ],
+              [
+                -42.149486381564074,
+                13.523120555551161
+              ],
+              [
+                -42.168784960398725,
+                13.589454523412854
+              ],
+              [
+                -42.23632998631997,
+                13.665259470998622
+              ],
+              [
+                -42.28457643340659,
+                13.712634654071838
+              ],
+              [
+                -42.323173591075864,
+                13.693684851298542
+              ],
+              [
+                -42.323173591075864,
+                13.579978505804984
+              ],
+              [
+                -42.27492714398926,
+                13.428350355813484
+              ],
+              [
+                -42.20738211806801,
+                13.267221509234227
+              ],
+              [
+                -42.13018780272943,
+                13.106068807894449
+              ],
+              [
+                -42.00474704030426,
+                12.888002147703274
+              ],
+              [
+                -41.93720201438299,
+                12.793177893846947
+              ],
+              [
+                -41.86965698846174,
+                12.660411460985141
+              ],
+              [
+                -41.821410541375144,
+                12.556085014366195
+              ],
+              [
+                -41.78281338370586,
+                12.470720646783295
+              ],
+              [
+                -41.77316409428853,
+                12.394836494902052
+              ],
+              [
+                -41.78281338370586,
+                12.385350667991927
+              ],
+              [
+                -41.821410541375144,
+                12.413807944330827
+              ],
+              [
+                -41.86000769904444,
+                12.470720646783295
+              ],
+              [
+                -41.908254146131036,
+                12.556085014366195
+              ],
+              [
+                -41.94685130380032,
+                12.65092759703681
+              ],
+              [
+                -41.975799172052284,
+                12.726796475413487
+              ],
+              [
+                -42.00474704030426,
+                12.764729158258293
+              ],
+              [
+                -42.03369490855622,
+                12.793177893846947
+              ],
+              [
+                -42.081941355642826,
+                12.831108497894151
+              ],
+              [
+                -42.081941355642826,
+                12.755246098170739
+              ],
+              [
+                -42.05299348739086,
+                12.660411460985141
+              ],
+              [
+                -42.024045619138896,
+                12.584538537683207
+              ],
+              [
+                -41.995097750886934,
+                12.33792051740251
+              ],
+              [
+                -42.01439632972158,
+                12.271515488466328
+              ],
+              [
+                -42.05299348739086,
+                12.224081336887151
+              ],
+              [
+                -42.10123993447747,
+                12.167158196895452
+              ],
+              [
+                -42.13983709214676,
+                12.148183298725645
+              ],
+              [
+                -42.149486381564074,
+                12.072281145751932
+              ],
+              [
+                -42.168784960398725,
+                11.92995377149514
+              ],
+              [
+                -42.149486381564074,
+                11.74016265071692
+              ],
+              [
+                -42.13018780272943,
+                11.578821814512487
+              ],
+              [
+                -42.091590645060144,
+                11.370003839095583
+              ],
+              [
+                -42.04334419797353,
+                11.208626788425336
+              ],
+              [
+                -41.975799172052284,
+                10.999764084807168
+              ],
+              [
+                -41.86965698846174,
+                10.857344196890972
+              ],
+              [
+                -41.81176125195781,
+                10.724409504910547
+              ],
+              [
+                -41.705619068367284,
+                10.638946816571826
+              ],
+              [
+                -41.66702191069799,
+                10.61995462201998
+              ],
+              [
+                -41.58982759535942,
+                10.61995462201998
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "fde8ec50-a6fc-4fae-91eb-92a4ab5308af",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Cavern Network",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-14",
+        "last_editor": "postgres",
+        "name_en": "Labyrinth",
+        "name_ru": "Лабиринт",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Labyrinth",
+        "label_ru": "Лабиринт",
+        "descr_en": "An ancient maze of tunnels in the Northdark, spanning the Upperdark and Middledark beneath the Dessarin River. It connects the northern Underdark to southern regions and contains lava tube tunnels of cold black basalt, with some paths and bridges. The network is inhabited by minotaurs and a fallen angel named Baatral, and includes several portals to other locations.",
+        "descr_ru": "Древний лабиринт туннелей в Северной Тьме, проходящий через Верхнюю Тьму и Среднюю Тьму под рекой Дессарин. Он соединяет северное Подземье с южными регионами и содержит туннели из лавовых труб из холодного чёрного базальта, с некоторыми тропами и мостами. Сеть населена минотаврами и падшим ангелом по имени Баатрал, а также включает несколько порталов в другие места.",
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": "https://forgottenrealms.fandom.com/wiki/Labyrinth",
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Middledark, Upperdark",
+        "extra_str": "topical_tags: [\"maze\", \"tunnels\", \"underdark\", \"lava_tubes\", \"portals\", \"basalt\"] | related_cultures_tags: [\"baphitaurs\", \"minotaurs\", \"dwarves\"] | related_factions_tags: [\"House Jaelre\"] | related_location_tags: [\"Northdark\", \"Upperdark\", \"Middledark\", \"Dessarin River\", \"Darklake\", \"Gracklstugh\", \"Menzoberranzan\", \"Ammarindar\"]",
+        "location_en": "western Faerûn → Underdark → Northdark",
+        "name_alt_en_str": null,
+        "location_ru": "западный Фаэрун → Подземье → Нортдарк",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 16484.0,
+        "geog_extent_area_sq_miles": 6364.0,
+        "geog_extent_perimeter_km": 526.0,
+        "geog_extent_perimeter_miles": 327.0,
+        "geog_extent_centroid_md": "47° 49′ 21″ N 019° 30′ 16″ W",
+        "geog_extent_centroid_fria": "47° 49′ 21″ N 072° 59′ 09″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": -18.819171117089,
+          "west": -20.208668793183,
+          "north": 48.770086355603155,
+          "south": 46.899158824256936
+        },
+        "geog_extent_bbox_fria": {
+          "east": -72.30067260507899,
+          "west": -73.6901702811733,
+          "north": 48.770086355603155,
+          "south": 46.899158824256936
+        },
+        "name_it": "Labirinto",
+        "name_abb_it": null,
+        "label_it": "Labirinto",
+        "descr_it": "Un antico labirinto di tunnel nel Nordoscuro, che si estende dal Sottosuolo superiore al Sottosuolo intermedio sotto il Fiume Dessarin. Collega il Sottosuolo settentrionale alle regioni meridionali e contiene tunnel di tubi di lava di basalto nero freddo, con alcuni sentieri e ponti. La rete è abitata da minotauri e da un angelo caduto di nome Baatral, e include diversi portali verso altre località.",
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn occidentale → Underdark → Sottosuolo Settentrionale",
+        "name_alt_it_str": null,
+        "topical_tags": "maze, tunnels, underdark, lava_tubes, portals, basalt",
+        "related_location_tags": "Northdark, Upperdark, Middledark, Dessarin River, Darklake, Gracklstugh, Menzoberranzan, Ammarindar",
+        "related_cultures_tags": "baphitaurs, minotaurs, dwarves",
+        "related_factions_tags": "House Jaelre"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -72.65695406048776,
+                48.770086355603155
+              ],
+              [
+                -72.43130913872886,
+                48.69663446861477
+              ],
+              [
+                -72.34817679913348,
+                48.57716523966967
+              ],
+              [
+                -72.30067260507899,
+                48.42072954197064
+              ],
+              [
+                -72.31254865359261,
+                48.22715915039897
+              ],
+              [
+                -72.33630075061986,
+                48.08867179409921
+              ],
+              [
+                -72.43130913872886,
+                47.78333859787798
+              ],
+              [
+                -72.47881333278337,
+                47.579272477397474
+              ],
+              [
+                -72.47881333278337,
+                47.49567194794397
+              ],
+              [
+                -72.51444147832424,
+                47.36548846407161
+              ],
+              [
+                -72.60944986643327,
+                47.1512477773533
+              ],
+              [
+                -72.63320196346052,
+                47.02061482072475
+              ],
+              [
+                -72.74008640008316,
+                46.917854046855794
+              ],
+              [
+                -73.00135946738294,
+                46.917854046855794
+              ],
+              [
+                -73.1201199525192,
+                46.899158824256936
+              ],
+              [
+                -73.21512834062823,
+                46.899158824256936
+              ],
+              [
+                -73.45264931090077,
+                46.95523391647486
+              ],
+              [
+                -73.54765769900978,
+                47.07662137135553
+              ],
+              [
+                -73.57140979603703,
+                47.11394156351884
+              ],
+              [
+                -73.58328584455066,
+                47.18854003718415
+              ],
+              [
+                -73.67829423265965,
+                47.37479288310096
+              ],
+              [
+                -73.6901702811733,
+                47.45849387040106
+              ],
+              [
+                -73.6901702811733,
+                47.58855714838224
+              ],
+              [
+                -73.64266608711877,
+                47.69990670897714
+              ],
+              [
+                -73.64266608711877,
+                47.792604574672964
+              ],
+              [
+                -73.59516189306427,
+                47.90373048955639
+              ],
+              [
+                -73.54765769900978,
+                48.04246780203651
+              ],
+              [
+                -73.4645253594144,
+                48.14408912749178
+              ],
+              [
+                -73.41702116535988,
+                48.24561005900748
+              ],
+              [
+                -73.40514511684624,
+                48.35624631368293
+              ],
+              [
+                -73.381393019819,
+                48.43914596012944
+              ],
+              [
+                -73.35764092279173,
+                48.55877323092473
+              ],
+              [
+                -73.25075648616912,
+                48.613939539946415
+              ],
+              [
+                -73.10824390400558,
+                48.7150022588519
+              ],
+              [
+                -72.65695406048776,
+                48.770086355603155
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "49cbf1af-6f8c-456f-8e78-97521e167aba",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Abyss",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-14",
+        "last_editor": "postgres",
+        "name_en": "Throrgar",
+        "name_ru": "Троргар",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Throrgar",
+        "label_ru": "Троргар",
+        "descr_en": "A massive chasm in the Lowerdark, known for constant powerful winds. Its depths contain portals to Cocytus, ancient carvings, and castles inhabited by demons and slaad.",
+        "descr_ru": "Огромная пропасть в Нижней Тьме, известная постоянными сильными ветрами. В её глубинах находятся порталы в Коцит, древние резные изображения и замки, населённые демонами и слаадами.",
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": "https://forgottenrealms.fandom.com/wiki/Throrgar",
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark, Upperdark",
+        "extra_str": "topical_tags: [\"chasm\", \"lowerdark\", \"portals\", \"winds\", \"eldritch\", \"demons\", \"slaad\"] | related_factions_tags: [\"Purple Claws\"] | related_location_tags: [\"Chionthar River\", \"Northdark\", \"Old Shanatar\", \"Lowerdark\"]",
+        "location_en": "western Faerûn → Underdark",
+        "name_alt_en_str": "The Shrieking Abyss",
+        "location_ru": "западный Фаэрун → Подземье",
+        "name_alt_ru_str": "Вопящая Бездна",
+        "geog_extent_area_sq_km": 21041.0,
+        "geog_extent_area_sq_miles": 8124.0,
+        "geog_extent_perimeter_km": 840.0,
+        "geog_extent_perimeter_miles": 522.0,
+        "geog_extent_centroid_md": "37° 31′ 23″ N 016° 45′ 56″ W",
+        "geog_extent_centroid_fria": "37° 31′ 23″ N 070° 14′ 50″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": -16.109699555195,
+          "west": -17.470249363038,
+          "north": 39.13391394383271,
+          "south": 36.181567058532316
+        },
+        "geog_extent_bbox_fria": {
+          "east": -69.59120104318535,
+          "west": -70.95175085102773,
+          "north": 39.13391394383271,
+          "south": 36.181567058532316
+        },
+        "name_it": "Throrgar",
+        "name_abb_it": null,
+        "label_it": "Throrgar",
+        "descr_it": "Un enorme baratro nel Sottosuolo inferiore, noto per i venti costanti e potenti. Le sue profondità contengono portali per il Cocyto, antiche incisioni e castelli abitati da demoni e slaad.",
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn occidentale → Underdark",
+        "name_alt_it_str": "L'Abisso Urlante",
+        "topical_tags": "chasm, lowerdark, portals, winds, eldritch, demons, slaad",
+        "related_location_tags": "Chionthar River, Northdark, Old Shanatar, Lowerdark",
+        "related_cultures_tags": "",
+        "related_factions_tags": "Purple Claws"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -70.27630059181519,
+                36.19002906243339
+              ],
+              [
+                -70.1026133823034,
+                36.31687679188889
+              ],
+              [
+                -70.03506835638215,
+                36.35912504026793
+              ],
+              [
+                -69.97717261987822,
+                36.48576668359344
+              ],
+              [
+                -69.94822475162627,
+                36.612253506622764
+              ],
+              [
+                -69.89032901512232,
+                36.78066142117025
+              ],
+              [
+                -69.81313469978376,
+                36.873168136754664
+              ],
+              [
+                -69.67804464794126,
+                37.02436246220506
+              ],
+              [
+                -69.60085033260268,
+                37.133419031537024
+              ],
+              [
+                -69.60085033260268,
+                37.22560631014274
+              ],
+              [
+                -69.59120104318535,
+                37.32607867306928
+              ],
+              [
+                -69.6973432267759,
+                37.40972941140103
+              ],
+              [
+                -69.80348541036643,
+                37.46824367398563
+              ],
+              [
+                -69.83243327861841,
+                37.59351691980456
+              ],
+              [
+                -69.78418683153178,
+                37.760304978161926
+              ],
+              [
+                -69.80348541036643,
+                37.96839933905363
+              ],
+              [
+                -69.80348541036643,
+                38.15116304318993
+              ],
+              [
+                -69.82278398920107,
+                38.25900159116801
+              ],
+              [
+                -69.89997830453966,
+                38.408122461566485
+              ],
+              [
+                -70.01576977754752,
+                38.55701796626525
+              ],
+              [
+                -70.04471764579947,
+                38.672669768824534
+              ],
+              [
+                -70.01576977754752,
+                38.77993865994981
+              ],
+              [
+                -70.03506835638215,
+                38.87061284333844
+              ],
+              [
+                -70.12191196113805,
+                39.027033720398364
+              ],
+              [
+                -70.17015840822465,
+                39.11747847722205
+              ],
+              [
+                -70.19910627647663,
+                39.13391394383271
+              ],
+              [
+                -70.28594988123254,
+                39.06815539876859
+              ],
+              [
+                -70.35349490715379,
+                38.90356441222908
+              ],
+              [
+                -70.36314419657108,
+                38.8541328867934
+              ],
+              [
+                -70.4113906436577,
+                38.755194732990745
+              ],
+              [
+                -70.43068922249233,
+                38.71394094490781
+              ],
+              [
+                -70.47893566957895,
+                38.69743456107724
+              ],
+              [
+                -70.52718211666557,
+                38.722193093539275
+              ],
+              [
+                -70.56577927433486,
+                38.81292082612494
+              ],
+              [
+                -70.5850778531695,
+                38.88709001845385
+              ],
+              [
+                -70.60437643200416,
+                38.952970906467264
+              ],
+              [
+                -70.62367501083878,
+                38.977664767729394
+              ],
+              [
+                -70.66227216850807,
+                38.977664767729394
+              ],
+              [
+                -70.72981719442932,
+                38.87885177856934
+              ],
+              [
+                -70.73946648384666,
+                38.74694536637534
+              ],
+              [
+                -70.70086932617738,
+                38.51568071072022
+              ],
+              [
+                -70.6815707473427,
+                38.300446660001626
+              ],
+              [
+                -70.65262287909076,
+                38.08474244789178
+              ],
+              [
+                -70.62367501083878,
+                37.876891323299816
+              ],
+              [
+                -70.62367501083878,
+                37.67694566541122
+              ],
+              [
+                -70.60437643200416,
+                37.56012598626493
+              ],
+              [
+                -70.52718211666557,
+                37.38464146886896
+              ],
+              [
+                -70.51753282724825,
+                37.26748191865892
+              ],
+              [
+                -70.54648069550021,
+                37.07471079209562
+              ],
+              [
+                -70.57542856375217,
+                36.9487932904046
+              ],
+              [
+                -70.60437643200416,
+                36.84794731794854
+              ],
+              [
+                -70.60437643200416,
+                36.755417821416465
+              ],
+              [
+                -70.6333243002561,
+                36.67122764976037
+              ],
+              [
+                -70.69122003676003,
+                36.620680451688564
+              ],
+              [
+                -70.8070115097679,
+                36.54481314694235
+              ],
+              [
+                -70.87455653568915,
+                36.48576668359344
+              ],
+              [
+                -70.91315369335844,
+                36.44356999426503
+              ],
+              [
+                -70.95175085102773,
+                36.37601953019417
+              ],
+              [
+                -70.79736222035056,
+                36.33377815208844
+              ],
+              [
+                -70.67192145792541,
+                36.367572628828036
+              ],
+              [
+                -70.55612998491752,
+                36.37601953019417
+              ],
+              [
+                -70.48858495899627,
+                36.325327815418476
+              ],
+              [
+                -70.45963709074432,
+                36.24924388488152
+              ],
+              [
+                -70.38244277540574,
+                36.181567058532316
+              ],
+              [
+                -70.27630059181519,
+                36.19002906243339
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "bc786351-a11b-4aa1-b857-d42bfcdddefb",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Abyss",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": "exclude from wiki link auto-ageneration",
+        "img_url": null,
+        "last_edited": "2026-07-13",
+        "last_editor": "postgres",
+        "name_en": "Pit of Jhaam",
+        "name_ru": "Пропасть Джаама",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Pit of Jhaam",
+        "label_ru": "Пропасть Джаама",
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark, Upperdark",
+        "extra_str": null,
+        "location_en": "southern Faerûn → Underdark → Darklands",
+        "name_alt_en_str": null,
+        "location_ru": "южный Фаэрун → Подземье → Тёмные Земли",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 26903.0,
+        "geog_extent_area_sq_miles": 10387.0,
+        "geog_extent_perimeter_km": 952.0,
+        "geog_extent_perimeter_miles": 592.0,
+        "geog_extent_centroid_md": "26° 26′ 03″ N 002° 13′ 11″ E",
+        "geog_extent_centroid_fria": "26° 26′ 03″ N 051° 15′ 41″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 3.095427648313,
+          "west": 1.329607684944,
+          "north": 27.690157832787445,
+          "south": 24.952727029795525
+        },
+        "geog_extent_bbox_fria": {
+          "east": -50.38607383967655,
+          "west": -52.151893803046434,
+          "north": 27.690157832787445,
+          "south": 24.952727029795525
+        },
+        "name_it": "Pozzo di Jhaam",
+        "name_abb_it": null,
+        "label_it": "Pozzo di Jhaam",
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn meridionale → Underdark → Terre Oscure",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -51.67907862159767,
+                27.47271878833771
+              ],
+              [
+                -51.75627293693624,
+                27.382034885166572
+              ],
+              [
+                -51.804519384022846,
+                27.264072353748688
+              ],
+              [
+                -51.804519384022846,
+                27.155110670070755
+              ],
+              [
+                -51.794870094605535,
+                27.00972001971754
+              ],
+              [
+                -51.794870094605535,
+                26.882402435767805
+              ],
+              [
+                -51.804519384022846,
+                26.782301769883645
+              ],
+              [
+                -51.872064409944095,
+                26.682143964484403
+              ],
+              [
+                -51.93960943586534,
+                26.60926626147099
+              ],
+              [
+                -52.14224451362911,
+                26.408699076873827
+              ],
+              [
+                -52.151893803046434,
+                26.353960165362842
+              ],
+              [
+                -52.151893803046434,
+                26.24443292895287
+              ],
+              [
+                -52.084348777125186,
+                26.12570458203603
+              ],
+              [
+                -51.93960943586534,
+                26.025182633763297
+              ],
+              [
+                -51.804519384022846,
+                25.897167399574755
+              ],
+              [
+                -51.698377200432304,
+                25.75991190270283
+              ],
+              [
+                -51.60188430625909,
+                25.640877322335186
+              ],
+              [
+                -51.428197096747304,
+                25.494272524473796
+              ],
+              [
+                -51.39924922849533,
+                25.45760409857294
+              ],
+              [
+                -51.32205491315676,
+                25.356730660787424
+              ],
+              [
+                -51.15801699306229,
+                25.127282339729888
+              ],
+              [
+                -51.080822677723724,
+                25.062989891787364
+              ],
+              [
+                -50.95538191529853,
+                25.00786589501835
+              ],
+              [
+                -50.723798969282825,
+                24.952727029795525
+              ],
+              [
+                -50.656253943361556,
+                24.952727029795525
+              ],
+              [
+                -50.49221602326709,
+                25.02624221597425
+              ],
+              [
+                -50.44396957618049,
+                25.127282339729888
+              ],
+              [
+                -50.395723129093874,
+                25.31086208160472
+              ],
+              [
+                -50.395723129093874,
+                25.45760409857294
+              ],
+              [
+                -50.38607383967655,
+                25.567588743995824
+              ],
+              [
+                -50.47291744443244,
+                25.714138101925535
+              ],
+              [
+                -50.60800749627496,
+                25.796523054897573
+              ],
+              [
+                -50.64660465394424,
+                25.83312717389951
+              ],
+              [
+                -50.62730607510959,
+                25.970329646323655
+              ],
+              [
+                -50.656253943361556,
+                26.080019521472867
+              ],
+              [
+                -50.71414967986549,
+                26.116568469832483
+              ],
+              [
+                -50.85888902112532,
+                26.07088116101732
+              ],
+              [
+                -50.93608333646388,
+                25.961185921122595
+              ],
+              [
+                -51.00362836238514,
+                25.86972424010387
+              ],
+              [
+                -51.06152409888907,
+                25.86057563582406
+              ],
+              [
+                -51.19661415073157,
+                25.924606572571225
+              ],
+              [
+                -51.32205491315676,
+                25.988615760264988
+              ],
+              [
+                -51.428197096747304,
+                26.08915743288637
+              ],
+              [
+                -51.53433928033784,
+                26.153110214055797
+              ],
+              [
+                -51.61153359567642,
+                26.21704087301521
+              ],
+              [
+                -51.60188430625909,
+                26.33571019321927
+              ],
+              [
+                -51.54398856975517,
+                26.417820620740475
+              ],
+              [
+                -51.43784638616463,
+                26.481658524016098
+              ],
+              [
+                -51.31240562373944,
+                26.51812716071082
+              ],
+              [
+                -51.090471967141035,
+                26.60926626147099
+              ],
+              [
+                -50.945732625881206,
+                26.727677297764664
+              ],
+              [
+                -50.8106425740387,
+                26.973353124463557
+              ],
+              [
+                -50.69485110103084,
+                27.10968935478482
+              ],
+              [
+                -50.64660465394424,
+                27.227759573306162
+              ],
+              [
+                -50.58870891744031,
+                27.372963786013123
+              ],
+              [
+                -50.58870891744031,
+                27.499914328854846
+              ],
+              [
+                -50.66590323277888,
+                27.608651825950368
+              ],
+              [
+                -50.76239612695209,
+                27.653937942965765
+              ],
+              [
+                -50.916784757629244,
+                27.68110361179511
+              ],
+              [
+                -51.02292694121979,
+                27.68110361179511
+              ],
+              [
+                -51.22556201898354,
+                27.690157832787445
+              ],
+              [
+                -51.360652070826056,
+                27.64488171902746
+              ],
+              [
+                -51.49574212266855,
+                27.599593104786333
+              ],
+              [
+                -51.67907862159767,
+                27.47271878833771
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "7bdcd257-dbca-46fc-be2c-bb1b57ff12e3",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Abyss",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": "exclude from wiki link auto-ageneration",
+        "img_url": null,
+        "last_edited": "2026-07-13",
+        "last_editor": "postgres",
+        "name_en": "Heart of the Dark",
+        "name_ru": "Сердце Тьмы",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Heart of the Dark",
+        "label_ru": "Сердце Тьмы",
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark, Upperdark",
+        "extra_str": null,
+        "location_en": "western Faerûn → Underdark → Buried Realms",
+        "name_alt_en_str": null,
+        "location_ru": "западный Фаэрун → Подземье → Погребённые Царства",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 12323.0,
+        "geog_extent_area_sq_miles": 4758.0,
+        "geog_extent_perimeter_km": 801.0,
+        "geog_extent_perimeter_miles": 498.0,
+        "geog_extent_centroid_md": "48° 44′ 48″ N 006° 23′ 15″ W",
+        "geog_extent_centroid_fria": "48° 44′ 48″ N 059° 52′ 08″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": -5.66733815345,
+          "west": -7.010816141555,
+          "north": 49.80453430865484,
+          "south": 47.17630788050427
+        },
+        "geog_extent_bbox_fria": {
+          "east": -59.14883964144049,
+          "west": -60.492317629544516,
+          "north": 49.80453430865484,
+          "south": 47.17630788050427
+        },
+        "name_it": "Cuore dell'Oscurità",
+        "name_abb_it": null,
+        "label_it": "Cuore dell'Oscurità",
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn occidentale → Underdark → Reami Sepolti",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -60.492317629544516,
+                49.75917587464294
+              ],
+              [
+                -60.492317629544516,
+                49.67407888006052
+              ],
+              [
+                -60.455204977939445,
+                49.60595417939844
+              ],
+              [
+                -60.39582473537133,
+                49.52073910343616
+              ],
+              [
+                -60.32902196248215,
+                49.452519446709374
+              ],
+              [
+                -60.262219189593004,
+                49.36718506477383
+              ],
+              [
+                -60.217684007666904,
+                49.29886947665325
+              ],
+              [
+                -60.173148825740796,
+                49.1792137419182
+              ],
+              [
+                -60.16572629541978,
+                49.12218829767085
+              ],
+              [
+                -60.23252906830894,
+                49.03088479980384
+              ],
+              [
+                -60.31417690184012,
+                48.9852039538357
+              ],
+              [
+                -60.351289553445206,
+                48.9452172423552
+              ],
+              [
+                -60.351289553445206,
+                48.859481058493
+              ],
+              [
+                -60.31417690184012,
+                48.756506539718075
+              ],
+              [
+                -60.23252906830894,
+                48.607588917644215
+              ],
+              [
+                -60.150881234777756,
+                48.43549927905951
+              ],
+              [
+                -60.032120749641486,
+                48.263126632614686
+              ],
+              [
+                -59.92820532514727,
+                48.06742530447345
+              ],
+              [
+                -59.861402552258106,
+                47.86558034528049
+              ],
+              [
+                -59.81686737033201,
+                47.692254070095196
+              ],
+              [
+                -59.75006459744286,
+                47.5302169394089
+              ],
+              [
+                -59.698106885195735,
+                47.39112192227163
+              ],
+              [
+                -59.5941914607015,
+                47.28086920335842
+              ],
+              [
+                -59.519966157491325,
+                47.19374231764831
+              ],
+              [
+                -59.46800844524422,
+                47.17630788050427
+              ],
+              [
+                -59.34924796010796,
+                47.20536359589915
+              ],
+              [
+                -59.31213530850287,
+                47.33310918774789
+              ],
+              [
+                -59.31955783882388,
+                47.512840495571034
+              ],
+              [
+                -59.356670490428975,
+                47.65176894935106
+              ],
+              [
+                -59.40862820267608,
+                47.86558034528049
+              ],
+              [
+                -59.50512109684931,
+                48.078947381836784
+              ],
+              [
+                -59.57934640005947,
+                48.23437014629102
+              ],
+              [
+                -59.660994233590664,
+                48.36083937782791
+              ],
+              [
+                -59.70552941551675,
+                48.42975809939083
+              ],
+              [
+                -59.72037447615878,
+                48.49289379789893
+              ],
+              [
+                -59.69068435487472,
+                48.50436893739474
+              ],
+              [
+                -59.60161399102252,
+                48.50436893739474
+              ],
+              [
+                -59.50512109684931,
+                48.51584282408885
+              ],
+              [
+                -59.47543097556525,
+                48.561725859646074
+              ],
+              [
+                -59.47543097556525,
+                48.607588917644215
+              ],
+              [
+                -59.52738868781234,
+                48.70498183083748
+              ],
+              [
+                -59.61645905166456,
+                48.81944725159641
+              ],
+              [
+                -59.698106885195735,
+                48.90521558553916
+              ],
+              [
+                -59.73521953680083,
+                48.99662598866665
+              ],
+              [
+                -59.7277970064798,
+                49.07083961047594
+              ],
+              [
+                -59.70552941551675,
+                49.08795855923551
+              ],
+              [
+                -59.653571703269634,
+                49.05371793810353
+              ],
+              [
+                -59.519966157491325,
+                48.97378070200203
+              ],
+              [
+                -59.43831832396015,
+                48.8937837904974
+              ],
+              [
+                -59.356670490428975,
+                48.77939838349534
+              ],
+              [
+                -59.304712778181845,
+                48.68207391770362
+              ],
+              [
+                -59.21564241432965,
+                48.636243208020794
+              ],
+              [
+                -59.14883964144049,
+                48.64770274798879
+              ],
+              [
+                -59.14883964144049,
+                48.70498183083748
+              ],
+              [
+                -59.20079735368762,
+                48.80800625631642
+              ],
+              [
+                -59.2824451872188,
+                48.9452172423552
+              ],
+              [
+                -59.356670490428975,
+                49.099369680074346
+              ],
+              [
+                -59.44574085428116,
+                49.25899889598826
+              ],
+              [
+                -59.542233748454386,
+                49.40132681336085
+              ],
+              [
+                -59.698106885195735,
+                49.49231940103633
+              ],
+              [
+                -59.92820532514727,
+                49.64569868976711
+              ],
+              [
+                -60.05438834060453,
+                49.72514490632139
+              ],
+              [
+                -60.22510653798793,
+                49.78185740154423
+              ],
+              [
+                -60.39582473537133,
+                49.80453430865484
+              ],
+              [
+                -60.492317629544516,
+                49.75917587464294
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "13e079f7-8363-4662-8324-523475958967",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Abyss",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-03-06",
+        "last_editor": "postgres",
+        "name_en": null,
+        "name_ru": null,
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": null,
+        "label_ru": null,
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark, Upperdark",
+        "extra_str": null,
+        "location_en": "south-eastern Faerûn → Underdark → Deep Raurin",
+        "name_alt_en_str": null,
+        "location_ru": "юго-восточный Фаэрун → Подземье → Глубинный Раурин",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 28998.0,
+        "geog_extent_area_sq_miles": 11196.0,
+        "geog_extent_perimeter_km": 804.0,
+        "geog_extent_perimeter_miles": 500.0,
+        "geog_extent_centroid_md": "20° 10′ 27″ N 022° 52′ 10″ E",
+        "geog_extent_centroid_fria": "20° 10′ 27″ N 030° 36′ 42″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 24.020092239734,
+          "west": 21.762158516081,
+          "north": 21.426603811468276,
+          "south": 18.85876174492138
+        },
+        "geog_extent_bbox_fria": {
+          "east": -29.46140924825582,
+          "west": -31.719342971909107,
+          "north": 21.426603811468276,
+          "south": 18.85876174492138
+        },
+        "name_it": null,
+        "name_abb_it": null,
+        "label_it": null,
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn sud-orientale → Underdark → Raurin Profondo",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -31.11722731226823,
+                21.41448109924968
+              ],
+              [
+                -31.00433062608557,
+                21.353860135091114
+              ],
+              [
+                -30.92906616863046,
+                21.24471151571112
+              ],
+              [
+                -30.841257634932823,
+                21.074846843323858
+              ],
+              [
+                -30.740905024992685,
+                20.892745516364336
+              ],
+              [
+                -30.678184643780092,
+                20.75913776973896
+              ],
+              [
+                -30.602920186324983,
+                20.57685607187362
+              ],
+              [
+                -30.427303118929725,
+                20.333656975621896
+              ],
+              [
+                -30.352038661474626,
+                20.199822756550876
+              ],
+              [
+                -30.25168605153447,
+                20.053762581367952
+              ],
+              [
+                -30.088613060381732,
+                19.883282382072682
+              ],
+              [
+                -29.900451916743958,
+                19.798011833485912
+              ],
+              [
+                -29.77501115431878,
+                19.737092033994376
+              ],
+              [
+                -29.56176185819597,
+                19.688348895596246
+              ],
+              [
+                -29.524129629468412,
+                19.627410914598247
+              ],
+              [
+                -29.473953324498336,
+                19.50550505459349
+              ],
+              [
+                -29.46140924825582,
+                19.40795200636081
+              ],
+              [
+                -29.499041476983372,
+                19.212771622463976
+              ],
+              [
+                -29.536673705710932,
+                19.054116048569483
+              ],
+              [
+                -29.599394086923528,
+                18.96866007797722
+              ],
+              [
+                -29.712290773106183,
+                18.88318614094421
+              ],
+              [
+                -29.800099306803812,
+                18.85876174492138
+              ],
+              [
+                -30.013348602926623,
+                18.895397795559155
+              ],
+              [
+                -30.13878936535181,
+                18.993077911902486
+              ],
+              [
+                -30.214053822806918,
+                19.10293988573065
+              ],
+              [
+                -30.377126813959663,
+                19.285975763471928
+              ],
+              [
+                -30.427303118929725,
+                19.420147503768817
+              ],
+              [
+                -30.56528795759743,
+                19.566462941743715
+              ],
+              [
+                -30.665640567537572,
+                19.60303292013078
+              ],
+              [
+                -30.76599317747772,
+                19.627410914598247
+              ],
+              [
+                -30.96669839735801,
+                19.639599312632267
+              ],
+              [
+                -31.092139159783194,
+                19.688348895596246
+              ],
+              [
+                -31.230123998450896,
+                19.749276806953482
+              ],
+              [
+                -31.393196989603634,
+                19.858921422770383
+              ],
+              [
+                -31.493549599543776,
+                20.005062309839545
+              ],
+              [
+                -31.54372590451385,
+                20.16331346480522
+              ],
+              [
+                -31.644078514454,
+                20.35798482320734
+              ],
+              [
+                -31.694254819424078,
+                20.649781000860347
+              ],
+              [
+                -31.719342971909107,
+                20.880601674875848
+              ],
+              [
+                -31.618990361968965,
+                21.05057280483897
+              ],
+              [
+                -31.55626998075637,
+                21.2083198861787
+              ],
+              [
+                -31.455917370816223,
+                21.32960830705526
+              ],
+              [
+                -31.355564760876074,
+                21.426603811468276
+              ],
+              [
+                -31.11722731226823,
+                21.41448109924968
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "b6d003a7-404f-438f-b17e-c5b33b61a440",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Abyss",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-14",
+        "last_editor": "postgres",
+        "name_en": "Burning Rift",
+        "name_ru": "Горящая Бездна",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Burning Rift",
+        "label_ru": "Горящая Бездна",
+        "descr_en": "An underground volcanic rift located in the Firelands region of Chult, beneath the Peaks of Flame. It contains portals to the Elemental Plane of Fire and is connected to the volcanoes above via lava tubes.",
+        "descr_ru": "Подземный вулканический разлом, расположенный в области Огненных Земель Чулта, под Пиками Пламени. Он содержит порталы на Стихийный План Огня и соединён с вулканами на поверхности через лавовые трубки.",
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": "https://forgottenrealms.fandom.com/wiki/Burning_Rift",
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark, Upperdark",
+        "extra_str": "topical_tags: [\"rift\", \"volcanic\", \"underground\", \"portal\", \"fire\", \"elemental\"] | related_cultures_tags: [\"firenewt\", \"pterafolk\"] | related_factions_tags: [\"Ak'ta tribe\"] | related_location_tags: [\"Firelands\", \"Chult\", \"Peaks of Flame\", \"Elemental Plane of Fire\"]",
+        "location_en": "south-western Faerûn → Underdark → Firelands",
+        "name_alt_en_str": null,
+        "location_ru": "юго-западный Фаэрун → Подземье → Огненные Земли",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 15082.0,
+        "geog_extent_area_sq_miles": 5823.0,
+        "geog_extent_perimeter_km": 633.0,
+        "geog_extent_perimeter_miles": 393.0,
+        "geog_extent_centroid_md": "13° 33′ 51″ N 021° 59′ 33″ W",
+        "geog_extent_centroid_fria": "13° 33′ 51″ N 075° 28′ 26″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": -21.351363782912,
+          "west": -22.443960246166,
+          "north": 14.505483186506991,
+          "south": 12.522738470864244
+        },
+        "geog_extent_bbox_fria": {
+          "east": -74.83286527090213,
+          "west": -75.92546173415579,
+          "north": 14.505483186506991,
+          "south": 12.522738470864244
+        },
+        "name_it": "Baratro Ardente",
+        "name_abb_it": null,
+        "label_it": "Baratro Ardente",
+        "descr_it": "Una fenditura vulcanica sotterranea situata nella regione delle Terre di Fuoco di Chult, sotto i Picchi della Fiamma. Contiene portali verso il Piano Elementale del Fuoco ed è collegata ai vulcani sovrastanti tramite tubi di lava.",
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn sud-occidentale → Underdark → Terre di Fuoco",
+        "name_alt_it_str": null,
+        "topical_tags": "rift, volcanic, underground, portal, fire, elemental",
+        "related_location_tags": "Firelands, Chult, Peaks of Flame, Elemental Plane of Fire",
+        "related_cultures_tags": "firenewt, pterafolk",
+        "related_factions_tags": "Ak'ta tribe"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -75.74732100645141,
+                14.47052887950291
+              ],
+              [
+                -75.62856052131512,
+                14.505483186506991
+              ],
+              [
+                -75.45041979361072,
+                14.482180475020341
+              ],
+              [
+                -75.29603116293357,
+                14.435573138125914
+              ],
+              [
+                -75.20102277482457,
+                14.354004217267335
+              ],
+              [
+                -75.16539462928367,
+                14.249118686801301
+              ],
+              [
+                -75.16539462928367,
+                14.144220787930912
+              ],
+              [
+                -75.1772706777973,
+                14.050968031420677
+              ],
+              [
+                -75.16539462928367,
+                13.969364153680392
+              ],
+              [
+                -75.14164253225643,
+                13.864434495398228
+              ],
+              [
+                -75.15351858077004,
+                13.7711540601741
+              ],
+              [
+                -75.22477487185182,
+                13.666202958550745
+              ],
+              [
+                -75.24852696887906,
+                13.584566702256751
+              ],
+              [
+                -75.24852696887906,
+                13.491260112837164
+              ],
+              [
+                -75.18914672631092,
+                13.39794513556432
+              ],
+              [
+                -75.1297664837428,
+                13.339619087390602
+              ],
+              [
+                -74.98725390157927,
+                13.28128986524378
+              ],
+              [
+                -74.88036946495663,
+                13.176289391011176
+              ],
+              [
+                -74.84474131941576,
+                13.082947290339849
+              ],
+              [
+                -74.83286527090213,
+                12.989597497200641
+              ],
+              [
+                -74.868493416443,
+                12.907910239096356
+              ],
+              [
+                -74.93974970752477,
+                12.79120434616756
+              ],
+              [
+                -74.98725390157927,
+                12.68615939233523
+              ],
+              [
+                -75.02288204712016,
+                12.616124452759994
+              ],
+              [
+                -75.09413833820192,
+                12.55775901820331
+              ],
+              [
+                -75.27227906590632,
+                12.522738470864244
+              ],
+              [
+                -75.36728745401535,
+                12.522738470864244
+              ],
+              [
+                -75.41479164806985,
+                12.522738470864244
+              ],
+              [
+                -75.48604793915159,
+                12.604451581604318
+              ],
+              [
+                -75.52167608469247,
+                12.70950349395052
+              ],
+              [
+                -75.54542818171973,
+                12.814546436253833
+              ],
+              [
+                -75.5335521332061,
+                12.872899672699106
+              ],
+              [
+                -75.59293237577425,
+                12.907910239096356
+              ],
+              [
+                -75.64043656982875,
+                12.919580196881835
+              ],
+              [
+                -75.73544495793774,
+                12.884569976709553
+              ],
+              [
+                -75.7948252005059,
+                12.884569976709553
+              ],
+              [
+                -75.85420544307402,
+                12.907910239096356
+              ],
+              [
+                -75.90170963712852,
+                12.966258865056458
+              ],
+              [
+                -75.84232939456041,
+                13.082947290339849
+              ],
+              [
+                -75.81857729753314,
+                13.106283542732982
+              ],
+              [
+                -75.77107310347864,
+                13.152954595503758
+              ],
+              [
+                -75.73544495793774,
+                13.211290663798371
+              ],
+              [
+                -75.73544495793774,
+                13.292955961718945
+              ],
+              [
+                -75.74732100645141,
+                13.339619087390602
+              ],
+              [
+                -75.81857729753314,
+                13.467932148518948
+              ],
+              [
+                -75.78294915199227,
+                13.584566702256751
+              ],
+              [
+                -75.68794076388325,
+                13.677864739941864
+              ],
+              [
+                -75.62856052131512,
+                13.759493377590104
+              ],
+              [
+                -75.56918027874697,
+                13.841115228793932
+              ],
+              [
+                -75.5810563272606,
+                13.911071328269104
+              ],
+              [
+                -75.64043656982875,
+                13.981022286653563
+              ],
+              [
+                -75.80670124901951,
+                14.027653366956617
+              ],
+              [
+                -75.87795754010128,
+                14.074282108475687
+              ],
+              [
+                -75.90170963712852,
+                14.144220787930912
+              ],
+              [
+                -75.92546173415579,
+                14.237463970859489
+              ],
+              [
+                -75.92546173415579,
+                14.307389969150613
+              ],
+              [
+                -75.88983358861489,
+                14.365657390578821
+              ],
+              [
+                -75.74732100645141,
+                14.47052887950291
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "733498be-2488-4b7a-9e31-c1d90cb509d3",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Cavern Network",
+        "feature_rank": 2,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-14",
+        "last_editor": "postgres",
+        "name_en": "Fardrimm",
+        "name_ru": "Фардримм",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Fardrimm",
+        "label_ru": "Фардримм",
+        "descr_en": "A network of tunnels and caverns located in the Northdark region of the Underdark, beneath the surface lands of Old Delzoun. It connected various subterranean areas and was used as a secret link between dwarfholds.",
+        "descr_ru": "Сеть тоннелей и пещер, расположенная в области Северного Подземья, под поверхностными землями Старого Дельзуна. Она соединяла различные подземные области и использовалась как тайная связь между дварфийскими крепостями.",
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": "https://forgottenrealms.fandom.com/wiki/Fardrimm",
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Middledark",
+        "extra_str": "topical_tags: [\"tunnels\", \"caverns\", \"underdark\", \"northdark\", \"subterranean\", \"trade-routes\", \"dwarfholds\"] | related_cultures_tags: [\"dwarves\", \"drow\"] | related_location_tags: [\"Old Delzoun\", \"Northdark\", \"Underdark\", \"Ched Nasad\", \"Yathcol\", \"Menzoberranzan\", \"Lowroad\", \"Anauroch\"]",
+        "location_en": "north-western Faerûn → Middledark → Northdark",
+        "name_alt_en_str": null,
+        "location_ru": "северо-западный Фаэрун → Среднее Подземье → Нортдарк",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 60786.0,
+        "geog_extent_area_sq_miles": 23470.0,
+        "geog_extent_perimeter_km": 1156.0,
+        "geog_extent_perimeter_miles": 718.0,
+        "geog_extent_centroid_md": "51° 35′ 32″ N 013° 37′ 07″ W",
+        "geog_extent_centroid_fria": "51° 35′ 32″ N 067° 06′ 01″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": -10.728599990678,
+          "west": -16.030388057207,
+          "north": 53.14143285132296,
+          "south": 50.48498848368497
+        },
+        "geog_extent_bbox_fria": {
+          "east": -64.21010147866771,
+          "west": -69.51188954519709,
+          "north": 53.14143285132296,
+          "south": 50.48498848368497
+        },
+        "name_it": "Fardrimm",
+        "name_abb_it": null,
+        "label_it": "Fardrimm",
+        "descr_it": "Una rete di tunnel e caverne situata nella regione del Sottosuolo Settentrionale del Sottosuolo, sotto le terre superficiali dell'Antico Delzoun. Collegava varie aree sotterranee ed era usata come collegamento segreto tra le Rocche Naniche.",
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn nord-occidentale → Middledark → Sottosuolo Settentrionale",
+        "name_alt_it_str": null,
+        "topical_tags": "tunnels, caverns, underdark, northdark, subterranean, trade-routes, dwarfholds",
+        "related_location_tags": "Old Delzoun, Northdark, Underdark, Ched Nasad, Yathcol, Menzoberranzan, Lowroad, Anauroch",
+        "related_cultures_tags": "dwarves, drow",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -69.1918794987671,
+                51.263731726845286
+              ],
+              [
+                -69.24377301980982,
+                51.31590286233227
+              ],
+              [
+                -69.37350682241656,
+                51.33546128520051
+              ],
+              [
+                -69.40810250311172,
+                51.3289421589269
+              ],
+              [
+                -69.47729386450196,
+                51.4136637311108
+              ],
+              [
+                -69.51188954519709,
+                51.49181643669537
+              ],
+              [
+                -69.4686449443282,
+                51.569919739738566
+              ],
+              [
+                -69.42540034345927,
+                51.62196132995068
+              ],
+              [
+                -69.39080466276413,
+                51.72597949558363
+              ],
+              [
+                -69.39080466276413,
+                51.790947119730475
+              ],
+              [
+                -69.42540034345927,
+                51.868864198026905
+              ],
+              [
+                -69.45134710398061,
+                51.93375860447908
+              ],
+              [
+                -69.45134710398061,
+                52.01158840028005
+              ],
+              [
+                -69.42540034345927,
+                52.09585085092477
+              ],
+              [
+                -69.26971978033116,
+                52.16063076832061
+              ],
+              [
+                -69.17458165841953,
+                52.199483221750945
+              ],
+              [
+                -69.07079461633414,
+                52.32243987353936
+              ],
+              [
+                -69.00160325494386,
+                52.4194298786286
+              ],
+              [
+                -68.8718694523371,
+                52.4905108758381
+              ],
+              [
+                -68.75078456990413,
+                52.52926638884037
+              ],
+              [
+                -68.50861480503822,
+                52.56155409591932
+              ],
+              [
+                -68.37023208225766,
+                52.58092299912216
+              ],
+              [
+                -68.28374288051982,
+                52.626106289551565
+              ],
+              [
+                -68.14536015773928,
+                52.71642768126247
+              ],
+              [
+                -68.05022203582766,
+                52.77445983009501
+              ],
+              [
+                -67.9723817542636,
+                52.826023344664286
+              ],
+              [
+                -67.9204882332209,
+                52.974161346172814
+              ],
+              [
+                -67.89454147269954,
+                53.01921555738589
+              ],
+              [
+                -67.73886090957144,
+                53.08355364174619
+              ],
+              [
+                -67.62642494731226,
+                53.09641773464459
+              ],
+              [
+                -67.41020194296767,
+                53.12214240992729
+              ],
+              [
+                -67.28046814036091,
+                53.12214240992729
+              ],
+              [
+                -67.09019189653768,
+                53.14143285132296
+              ],
+              [
+                -66.99505377462604,
+                53.11571167939454
+              ],
+              [
+                -66.70963940889119,
+                53.01921555738589
+              ],
+              [
+                -66.66639480802228,
+                52.96128604749794
+              ],
+              [
+                -66.63179912732714,
+                52.87112558906727
+              ],
+              [
+                -66.63179912732714,
+                52.81313427900472
+              ],
+              [
+                -66.64044804750093,
+                52.73577446840242
+              ],
+              [
+                -66.63179912732714,
+                52.68417693330034
+              ],
+              [
+                -66.58855452645822,
+                52.593834054249776
+              ],
+              [
+                -66.56260776593687,
+                52.509890034507954
+              ],
+              [
+                -66.54530992558931,
+                52.41296608712486
+              ],
+              [
+                -66.52801208524174,
+                52.26421162261393
+              ],
+              [
+                -66.38098044228742,
+                52.21243146642413
+              ],
+              [
+                -66.19935311863797,
+                52.21243146642413
+              ],
+              [
+                -66.05232147568364,
+                52.21243146642413
+              ],
+              [
+                -65.93123659325066,
+                52.17358287431688
+              ],
+              [
+                -65.87934307220796,
+                52.128244854552676
+              ],
+              [
+                -65.81015171081769,
+                52.08937107719851
+              ],
+              [
+                -65.6977157485585,
+                52.037521177560066
+              ],
+              [
+                -65.63717330734201,
+                51.94024622892775
+              ],
+              [
+                -65.57663086612553,
+                51.84289716141585
+              ],
+              [
+                -65.55068410560419,
+                51.784451863598235
+              ],
+              [
+                -65.42095030299744,
+                51.7064826656531
+              ],
+              [
+                -65.32581218108582,
+                51.66747991283486
+              ],
+              [
+                -65.16148269778391,
+                51.65447629522136
+              ],
+              [
+                -65.0663445758723,
+                51.62846500050655
+              ],
+              [
+                -64.98850429430824,
+                51.608952971206605
+              ],
+              [
+                -64.83282373118014,
+                51.608952971206605
+              ],
+              [
+                -64.69444100839961,
+                51.615457320249696
+              ],
+              [
+                -64.50416476457637,
+                51.62196132995068
+              ],
+              [
+                -64.39172880231717,
+                51.54389077365973
+              ],
+              [
+                -64.2706439198842,
+                51.42669262712411
+              ],
+              [
+                -64.24469715936284,
+                51.355016578259104
+              ],
+              [
+                -64.21010147866771,
+                51.27677660618768
+              ],
+              [
+                -64.22739931901528,
+                51.17890582753934
+              ],
+              [
+                -64.26199499971041,
+                51.12014534243394
+              ],
+              [
+                -64.34848420144827,
+                51.01561134055841
+              ],
+              [
+                -64.36578204179584,
+                50.9894635824158
+              ],
+              [
+                -64.35713312162204,
+                50.91752767794907
+              ],
+              [
+                -64.3225374409269,
+                50.85863863379756
+              ],
+              [
+                -64.33983528127446,
+                50.806268219785046
+              ],
+              [
+                -64.40902664266476,
+                50.66868500833979
+              ],
+              [
+                -64.42632448301232,
+                50.66868500833979
+              ],
+              [
+                -64.49551584440258,
+                50.68834962829153
+              ],
+              [
+                -64.56470720579286,
+                50.721116663377394
+              ],
+              [
+                -64.73768560926851,
+                50.76042503753198
+              ],
+              [
+                -64.89336617239663,
+                50.78007429961283
+              ],
+              [
+                -65.07499349604609,
+                50.753874554505636
+              ],
+              [
+                -65.17013161795771,
+                50.721116663377394
+              ],
+              [
+                -65.33446110125959,
+                50.70801094793793
+              ],
+              [
+                -65.4901416643877,
+                50.71456398863115
+              ],
+              [
+                -65.57663086612553,
+                50.73422091578319
+              ],
+              [
+                -65.60257762664689,
+                50.753874554505636
+              ],
+              [
+                -65.73231142925364,
+                50.740772493820096
+              ],
+              [
+                -65.90528983272931,
+                50.6817951219259
+              ],
+              [
+                -65.95718335377201,
+                50.64901708300154
+              ],
+              [
+                -66.02637471516228,
+                50.6227880320655
+              ],
+              [
+                -66.06097039585741,
+                50.642460372480954
+              ],
+              [
+                -66.09556607655254,
+                50.655573425692886
+              ],
+              [
+                -66.13881067742146,
+                50.69490376795652
+              ],
+              [
+                -66.21665095898551,
+                50.72766897236519
+              ],
+              [
+                -66.38098044228742,
+                50.73422091578319
+              ],
+              [
+                -66.46746964402526,
+                50.67524024867137
+              ],
+              [
+                -66.50206532472039,
+                50.596553083845194
+              ],
+              [
+                -66.59720344663201,
+                50.54406544756018
+              ],
+              [
+                -66.64909696767471,
+                50.511248629064816
+              ],
+              [
+                -66.82207537115038,
+                50.511248629064816
+              ],
+              [
+                -66.93451133340956,
+                50.48498848368497
+              ],
+              [
+                -67.04694729566876,
+                50.54406544756018
+              ],
+              [
+                -67.07289405619011,
+                50.642460372480954
+              ],
+              [
+                -67.1334364974066,
+                50.721116663377394
+              ],
+              [
+                -67.27181922018714,
+                50.79317198705904
+              ],
+              [
+                -67.43614870348902,
+                50.806268219785046
+              ],
+              [
+                -67.67831846835496,
+                50.8455482047946
+              ],
+              [
+                -67.73021198939767,
+                50.865183305527935
+              ],
+              [
+                -67.79075443061417,
+                50.930610166523465
+              ],
+              [
+                -67.98103067443739,
+                50.9894635824158
+              ],
+              [
+                -68.05022203582766,
+                51.05482226535011
+              ],
+              [
+                -68.05022203582766,
+                51.09402037202381
+              ],
+              [
+                -68.15400907791307,
+                51.12014534243394
+              ],
+              [
+                -68.27509396034603,
+                51.06135617215744
+              ],
+              [
+                -68.41347668312658,
+                51.06788972309754
+              ],
+              [
+                -68.50861480503822,
+                51.06788972309754
+              ],
+              [
+                -68.5691572462547,
+                51.139735351116464
+              ],
+              [
+                -68.68159320851386,
+                51.17890582753934
+              ],
+              [
+                -68.81132701112061,
+                51.14626464663212
+              ],
+              [
+                -68.92376297337981,
+                51.1332057020399
+              ],
+              [
+                -68.94106081372738,
+                51.19195983172116
+              ],
+              [
+                -68.94106081372738,
+                51.25720876243407
+              ],
+              [
+                -68.97565649442251,
+                51.296341304408365
+              ],
+              [
+                -69.1918794987671,
+                51.263731726845286
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "80d55ae3-63fe-45ba-a4a1-8b61f1f9940a",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Cavern Network",
+        "feature_rank": 2,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-14",
+        "last_editor": "postgres",
+        "name_en": "Sharnlands",
+        "name_ru": "Шарнские земли",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Sharnlands",
+        "label_ru": "Шарнские земли",
+        "descr_en": "A vast network of interconnected caverns in the Lowerdark, known for hosting the largest concentration of sharn in Faerûn and various dangerous predators. Some caverns are made of crystal and contain earth nodes.",
+        "descr_ru": "Огромная сеть взаимосвязанных пещер в Нижней Тьме, известная тем, что содержит крупнейшее скопление шарнов в Фаэруне и различных опасных хищников. Некоторые пещеры состоят из кристалла и содержат земляные узлы.",
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": "https://forgottenrealms.fandom.com/wiki/Sharnlands",
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "2e, 3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark",
+        "extra_str": "topical_tags: [\"caves\", \"lowerdark\", \"underground\", \"caverns\", \"crystal\", \"earth_nodes\"] | related_cultures_tags: [\"sharn\"] | related_location_tags: [\"Delimbiyr Vale\", \"Northdark\", \"Faerûn\"]",
+        "location_en": "western Faerûn → Underdark → Northdark",
+        "name_alt_en_str": null,
+        "location_ru": "западный Фаэрун → Подземье → Нортдарк",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 79471.0,
+        "geog_extent_area_sq_miles": 30684.0,
+        "geog_extent_perimeter_km": 1360.0,
+        "geog_extent_perimeter_miles": 845.0,
+        "geog_extent_centroid_md": "43° 46′ 21″ N 016° 27′ 17″ W",
+        "geog_extent_centroid_fria": "43° 46′ 21″ N 069° 56′ 10″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": -13.048269388434,
+          "west": -19.51198798679,
+          "north": 45.02703214469124,
+          "south": 42.78466235529866
+        },
+        "geog_extent_bbox_fria": {
+          "east": -66.52977087642415,
+          "west": -72.99348947478035,
+          "north": 45.02703214469124,
+          "south": 42.78466235529866
+        },
+        "name_it": "Terre di Sharn",
+        "name_abb_it": null,
+        "label_it": "Terre di Sharn",
+        "descr_it": "Una vasta rete di caverne interconnesse nel Sottosuolo inferiore, nota per ospitare la più grande concentrazione di sharn in Faerûn e vari predatori pericolosi. Alcune caverne sono fatte di cristallo e contengono nodi di terra.",
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn occidentale → Underdark → Sottosuolo Settentrionale",
+        "name_alt_it_str": null,
+        "topical_tags": "caves, lowerdark, underground, caverns, crystal, earth_nodes",
+        "related_location_tags": "Delimbiyr Vale, Northdark, Faerûn",
+        "related_cultures_tags": "sharn",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -72.82483553139157,
+                44.2755760495538
+              ],
+              [
+                -72.99348947478035,
+                44.58411854163198
+              ],
+              [
+                -72.98224587855442,
+                44.86456786609011
+              ],
+              [
+                -72.7348867615842,
+                45.02703214469124
+              ],
+              [
+                -72.39757887480664,
+                44.99095281789719
+              ],
+              [
+                -72.13897616161053,
+                44.88263309549416
+              ],
+              [
+                -71.95907862199583,
+                44.77419041506259
+              ],
+              [
+                -71.80189314675746,
+                44.67957299593587
+              ],
+              [
+                -71.55487133767403,
+                44.6489281770196
+              ],
+              [
+                -71.364854561456,
+                44.633602065027496
+              ],
+              [
+                -70.96581933139817,
+                44.60294243012774
+              ],
+              [
+                -70.69979584469291,
+                44.55693443302301
+              ],
+              [
+                -70.50955419655038,
+                44.47533548540085
+              ],
+              [
+                -69.90150051265269,
+                44.47533548540085
+              ],
+              [
+                -69.64919421334304,
+                44.40918898098957
+              ],
+              [
+                -69.40217240425959,
+                44.43986345285526
+              ],
+              [
+                -68.94613214133634,
+                44.4551969780943
+              ],
+              [
+                -68.69843571647938,
+                44.38458779925661
+              ],
+              [
+                -68.5185381768647,
+                44.12092811174253
+              ],
+              [
+                -68.24610584031065,
+                43.818662286611705
+              ],
+              [
+                -67.93128514598492,
+                43.79131374424885
+              ],
+              [
+                -67.45905410449632,
+                43.818662286611705
+              ],
+              [
+                -67.20303741843219,
+                43.99338132508777
+              ],
+              [
+                -66.96680946172562,
+                43.91318567607528
+              ],
+              [
+                -66.7577910078858,
+                43.74399774151715
+              ],
+              [
+                -66.64378094215498,
+                43.66699420282977
+              ],
+              [
+                -66.58677590928957,
+                43.54365817436912
+              ],
+              [
+                -66.52977087642415,
+                43.37380825399786
+              ],
+              [
+                -66.54877255404597,
+                43.18816878634756
+              ],
+              [
+                -66.60577758691136,
+                42.97112732146268
+              ],
+              [
+                -66.60577758691136,
+                42.940080627438114
+              ],
+              [
+                -66.77679268550762,
+                42.877956584298765
+              ],
+              [
+                -66.98581113934743,
+                42.84687921998533
+              ],
+              [
+                -67.30883965891809,
+                42.84687921998533
+              ],
+              [
+                -67.5178581127579,
+                42.84687921998533
+              ],
+              [
+                -67.76487992184133,
+                42.862419181491475
+              ],
+              [
+                -67.89789166519395,
+                42.84687921998533
+              ],
+              [
+                -68.25993546366855,
+                42.95754960200143
+              ],
+              [
+                -68.6801086546311,
+                43.0028869515177
+              ],
+              [
+                -69.11714723993255,
+                42.97174290404648
+              ],
+              [
+                -69.59218918047763,
+                42.92500754362197
+              ],
+              [
+                -69.89621602242647,
+                42.847063778699535
+              ],
+              [
+                -70.31425293010614,
+                42.78466235529866
+              ],
+              [
+                -70.63728144967676,
+                42.800266582275746
+              ],
+              [
+                -70.99831332449102,
+                42.847063778699535
+              ],
+              [
+                -71.22633345595266,
+                42.90942394276604
+              ],
+              [
+                -71.5873653307669,
+                42.98731621312923
+              ],
+              [
+                -71.89139217271575,
+                43.018455120117345
+              ],
+              [
+                -71.98640056082476,
+                43.03402071983647
+              ],
+              [
+                -72.2714257251518,
+                43.142908066121
+              ],
+              [
+                -72.46144250136983,
+                43.34479467361821
+              ],
+              [
+                -72.47628404838808,
+                43.573084928408704
+              ],
+              [
+                -72.62245079932502,
+                43.71948689989123
+              ],
+              [
+                -72.71239956913237,
+                43.97514633114918
+              ],
+              [
+                -72.82483553139157,
+                44.2755760495538
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "94391d94-6255-49c7-abce-d917fed52e07",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Abyss",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": "exclude from wiki link auto-ageneration",
+        "img_url": null,
+        "last_edited": "2026-07-13",
+        "last_editor": "postgres",
+        "name_en": "Spawning Deep",
+        "name_ru": "Роящаяся Бездна",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Spawning Deep",
+        "label_ru": "Роящаяся Бездна",
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark, Upperdark",
+        "extra_str": null,
+        "location_en": "south-eastern Faerûn → Underdark",
+        "name_alt_en_str": null,
+        "location_ru": "юго-восточный Фаэрун → Подземье",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 23704.0,
+        "geog_extent_area_sq_miles": 9152.0,
+        "geog_extent_perimeter_km": 845.0,
+        "geog_extent_perimeter_miles": 525.0,
+        "geog_extent_centroid_md": "25° 00′ 53″ N 019° 52′ 37″ E",
+        "geog_extent_centroid_fria": "25° 00′ 53″ N 033° 36′ 16″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 20.625836435149,
+          "west": 18.970018371137,
+          "north": 26.35603731582364,
+          "south": 23.52455053726696
+        },
+        "geog_extent_bbox_fria": {
+          "east": -32.85566505284054,
+          "west": -34.51148311685295,
+          "north": 26.35603731582364,
+          "south": 23.52455053726696
+        },
+        "name_it": "Profondità della Generazione",
+        "name_abb_it": null,
+        "label_it": "Profondità della Generazione",
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn sud-orientale → Underdark",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -33.98463191466718,
+                25.249635327010516
+              ],
+              [
+                -34.03480821963726,
+                25.11835284249137
+              ],
+              [
+                -34.05989637212229,
+                25.010876472265508
+              ],
+              [
+                -34.16024898206245,
+                24.628283711069876
+              ],
+              [
+                -34.19788121079,
+                24.484631687380713
+              ],
+              [
+                -34.29823382073014,
+                24.376829476456418
+              ],
+              [
+                -34.423674583155325,
+                24.19704024064378
+              ],
+              [
+                -34.46130681188288,
+                24.10109255967267
+              ],
+              [
+                -34.51148311685295,
+                23.993102014816042
+              ],
+              [
+                -34.48639496436791,
+                23.837024306452594
+              ],
+              [
+                -34.46130681188288,
+                23.728907958930392
+              ],
+              [
+                -34.43621865939784,
+                23.60871935885584
+              ],
+              [
+                -34.398586430670285,
+                23.52455053726696
+              ],
+              [
+                -34.21042528703252,
+                23.572650699945978
+              ],
+              [
+                -34.12261675333489,
+                23.716891898738563
+              ],
+              [
+                -34.05989637212229,
+                23.82501389335705
+              ],
+              [
+                -33.97208783842466,
+                23.921079494533316
+              ],
+              [
+                -33.909367457212085,
+                24.017104410203398
+              ],
+              [
+                -33.846647075999485,
+                24.089096185193362
+              ],
+              [
+                -33.64594185611919,
+                24.18504905366434
+              ],
+              [
+                -33.43269255999638,
+                24.209030776091012
+              ],
+              [
+                -33.257075492601125,
+                24.316916162717657
+              ],
+              [
+                -32.99364989150824,
+                24.40079017386124
+              ],
+              [
+                -32.943473586538175,
+                24.460680299054694
+              ],
+              [
+                -32.8932972815681,
+                24.628283711069876
+              ],
+              [
+                -32.880753205325576,
+                24.819668055973647
+              ],
+              [
+                -32.905841357810615,
+                25.02282109293691
+              ],
+              [
+                -32.905841357810615,
+                25.225772164011996
+              ],
+              [
+                -32.93092951029565,
+                25.38083168392303
+              ],
+              [
+                -32.95601766278069,
+                25.52385569103642
+              ],
+              [
+                -32.8932972815681,
+                25.619146908229382
+              ],
+              [
+                -32.86820912908306,
+                25.702488261670194
+              ],
+              [
+                -32.85566505284054,
+                25.85716900355036
+              ],
+              [
+                -32.99364989150824,
+                26.201769362217632
+              ],
+              [
+                -33.018738043993274,
+                26.261118584854714
+              ],
+              [
+                -33.10654657769091,
+                26.3441751777638
+              ],
+              [
+                -33.156722882660986,
+                26.35603731582364
+              ],
+              [
+                -33.156722882660986,
+                26.261118584854714
+              ],
+              [
+                -33.131634730175946,
+                26.1898972178557
+              ],
+              [
+                -33.1692669589035,
+                26.083013571071348
+              ],
+              [
+                -33.26961956884364,
+                25.98795425460838
+              ],
+              [
+                -33.35742810254127,
+                25.91662809334593
+              ],
+              [
+                -33.482868864966456,
+                25.91662809334593
+              ],
+              [
+                -33.608309627391634,
+                25.91662809334593
+              ],
+              [
+                -33.73375038981682,
+                25.90473777204125
+              ],
+              [
+                -33.75883854230185,
+                25.84527494396929
+              ],
+              [
+                -33.658485932361714,
+                25.773894951616068
+              ],
+              [
+                -33.55813332242156,
+                25.702488261670194
+              ],
+              [
+                -33.507957017451496,
+                25.642962397772504
+              ],
+              [
+                -33.495412941208976,
+                25.559595371713623
+              ],
+              [
+                -33.495412941208976,
+                25.45235670775914
+              ],
+              [
+                -33.54558924617905,
+                25.30928076610531
+              ],
+              [
+                -33.59576555114912,
+                25.261565841150503
+              ],
+              [
+                -33.68357408484675,
+                25.249635327010516
+              ],
+              [
+                -33.73375038981682,
+                25.27349564281028
+              ],
+              [
+                -33.884279304727045,
+                25.30928076610531
+              ],
+              [
+                -33.98463191466718,
+                25.249635327010516
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "f6f68b63-22f2-4341-a043-b3d21179f196",
+        "layer_id": "udk_nat_landforms_pg",
+        "timeframe": null,
+        "feature_class": "Abyss",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-14",
+        "last_editor": "postgres",
+        "name_en": "Ramparts of Night",
+        "name_ru": "Оплоты Ночи",
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": "Ramparts of Night",
+        "label_ru": "Оплоты Ночи",
+        "descr_en": "A vast, bottomless chasm located within the Earthroot region of the Underdark, situated beneath the Sunrise Mountains and later expanding under the Copper Mountains. Its walls are inhabited by various creatures, including a shadar-kai settlement.",
+        "descr_ru": "Огромная бездонная пропасть, расположенная в области Земляного Корня Подземья, под Горами Восхода, а затем расширяющаяся под Медными Горами. Её стены населены различными существами, включая поселение шадар-кай.",
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "descr_html_ru": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">()</p></body></html>",
+        "url_en": "https://forgottenrealms.fandom.com/wiki/Ramparts_of_Night",
+        "url_ru": null,
+        "source_name": "WotC Underdark 3e",
+        "source_url": "https://forgottenrealms.fandom.com/wiki/Underdark_(sourcebook)",
+        "dnd_editions_str": "3e, 5e",
+        "feature_levels_str": "Lowerdark, Middledark, Upperdark",
+        "extra_str": "topical_tags: [\"abyss\", \"underdark\", \"earthroot\", \"bottomless\"] | related_cultures_tags: [\"shadar-kai\", \"gulgars\", \"cloakers\"] | related_factions_tags: [\"Netheril\"] | related_location_tags: [\"Earthroot\", \"Underdark\", \"Sunrise Mountains\", \"Thay\", \"Copper Mountains\", \"Murghôm\", \"Shadowfell\"]",
+        "location_en": "eastern Faerûn → Underdark → Earthroot",
+        "name_alt_en_str": null,
+        "location_ru": "восточный Фаэрун → Подземье → Корень Земли",
+        "name_alt_ru_str": null,
+        "geog_extent_area_sq_km": 37497.0,
+        "geog_extent_area_sq_miles": 14478.0,
+        "geog_extent_perimeter_km": 1232.0,
+        "geog_extent_perimeter_miles": 765.0,
+        "geog_extent_centroid_md": "33° 54′ 15″ N 020° 42′ 28″ E",
+        "geog_extent_centroid_fria": "33° 54′ 15″ N 032° 46′ 25″ W",
+        "geog_extent_length_km": null,
+        "geog_extent_length_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 21.694202864649,
+          "west": 19.56170990342,
+          "north": 35.82204233269034,
+          "south": 32.06088545977666
+        },
+        "geog_extent_bbox_fria": {
+          "east": -31.787298623341513,
+          "west": -33.91979158456962,
+          "north": 35.82204233269034,
+          "south": 32.06088545977666
+        },
+        "name_it": "Baluardi della Notte",
+        "name_abb_it": null,
+        "label_it": "Baluardi della Notte",
+        "descr_it": "Un vasto baratro senza fondo situato nella regione di Radice della Terra del Sottosuolo, situato sotto le Montagne del Sol Levante e successivamente espanso sotto le Montagne del Rame. Le sue pareti sono abitate da varie creature, inclusi un insediamento di shadar-kai.",
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Faerûn orientale → Underdark → Radice della Terra",
+        "name_alt_it_str": null,
+        "topical_tags": "abyss, underdark, earthroot, bottomless",
+        "related_location_tags": "Earthroot, Underdark, Sunrise Mountains, Thay, Copper Mountains, Murghôm, Shadowfell",
+        "related_cultures_tags": "shadar-kai, gulgars, cloakers",
+        "related_factions_tags": "Netheril"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -32.778280646500455,
+                35.81100298849897
+              ],
+              [
+                -32.84100102771305,
+                35.733695304406886
+              ],
+              [
+                -32.86608918019809,
+                35.63421679498542
+              ],
+              [
+                -32.86608918019809,
+                35.55678021367594
+              ],
+              [
+                -32.91626548516816,
+                35.390655250973154
+              ],
+              [
+                -33.00407401886579,
+                35.268666430885396
+              ],
+              [
+                -33.11697070504845,
+                35.1354299771029
+              ],
+              [
+                -33.22986739123112,
+                35.02427413571485
+              ],
+              [
+                -33.355308153656296,
+                34.87960143362362
+              ],
+              [
+                -33.355308153656296,
+                34.73473692753679
+              ],
+              [
+                -33.33022000117126,
+                34.60084608316382
+              ],
+              [
+                -33.20477923874608,
+                34.500321279044215
+              ],
+              [
+                -33.129514781290965,
+                34.366146352242545
+              ],
+              [
+                -33.07933847632089,
+                34.26540902799082
+              ],
+              [
+                -33.054250323835866,
+                34.11973942409969
+              ],
+              [
+                -33.07933847632089,
+                33.99633313716879
+              ],
+              [
+                -33.2173233149886,
+                33.80534956364018
+              ],
+              [
+                -33.41802853486889,
+                33.59151855280658
+              ],
+              [
+                -33.568557449779114,
+                33.411141798407684
+              ],
+              [
+                -33.706542288446805,
+                33.26437899232312
+              ],
+              [
+                -33.83198305087199,
+                33.094808098350164
+              ],
+              [
+                -33.89470343208458,
+                32.97030070515643
+              ],
+              [
+                -33.91979158456962,
+                32.84566236428721
+              ],
+              [
+                -33.89470343208458,
+                32.73224157020627
+              ],
+              [
+                -33.79435082214443,
+                32.5959948511248
+              ],
+              [
+                -33.64382190723422,
+                32.5505450186876
+              ],
+              [
+                -33.468204839838954,
+                32.539179889653106
+              ],
+              [
+                -33.38039630614133,
+                32.52781369304412
+              ],
+              [
+                -33.31767592492874,
+                32.425469948778186
+              ],
+              [
+                -33.342764077413776,
+                32.288877667330524
+              ],
+              [
+                -33.367852229898816,
+                32.22052431585901
+              ],
+              [
+                -33.392940382383856,
+                32.12932738572897
+              ],
+              [
+                -33.26749961995868,
+                32.06088545977666
+              ],
+              [
+                -33.129514781290965,
+                32.10651761699152
+              ],
+              [
+                -32.953897713895714,
+                32.140730691144455
+              ],
+              [
+                -32.79082472274297,
+                32.16353414195393
+              ],
+              [
+                -32.577575426620164,
+                32.20912839168626
+              ],
+              [
+                -32.45213466419498,
+                32.1863333765895
+              ],
+              [
+                -32.28906167304225,
+                32.11792302753679
+              ],
+              [
+                -32.15107683437454,
+                32.09511115451754
+              ],
+              [
+                -32.025636071949364,
+                32.07229507548409
+              ],
+              [
+                -31.875107157039142,
+                32.16353414195393
+              ],
+              [
+                -31.83747492831159,
+                32.23191918389013
+              ],
+              [
+                -31.824930852069066,
+                32.33442540112437
+              ],
+              [
+                -31.875107157039142,
+                32.41409309848456
+              ],
+              [
+                -32.06326830067692,
+                32.493708701763985
+              ],
+              [
+                -32.1887090631021,
+                32.5619090797493
+              ],
+              [
+                -32.25142944431469,
+                32.664137505149185
+              ],
+              [
+                -32.36432613049735,
+                32.84566236428721
+              ],
+              [
+                -32.414502435467426,
+                33.00427027428536
+              ],
+              [
+                -32.47722281668002,
+                33.094808098350164
+              ],
+              [
+                -32.62775173159024,
+                33.11743169899667
+              ],
+              [
+                -32.778280646500455,
+                33.12874186900854
+              ],
+              [
+                -32.8786332564406,
+                33.21918405393593
+              ],
+              [
+                -32.8786332564406,
+                33.36600370788779
+              ],
+              [
+                -32.815912875228015,
+                33.512638341963346
+              ],
+              [
+                -32.652839884075284,
+                33.72661612699791
+              ],
+              [
+                -32.51485504540758,
+                33.99633313716879
+              ],
+              [
+                -32.45213466419498,
+                34.186995032866264
+              ],
+              [
+                -32.427046511709946,
+                34.37733377811957
+              ],
+              [
+                -32.56503135037765,
+                34.52266801412829
+              ],
+              [
+                -32.577575426620164,
+                34.72358557518009
+              ],
+              [
+                -32.53994319789261,
+                34.83504814299078
+              ],
+              [
+                -32.439590587952466,
+                34.94639731631931
+              ],
+              [
+                -32.17616498685958,
+                35.02427413571485
+              ],
+              [
+                -32.03818014819188,
+                35.14653929270216
+              ],
+              [
+                -31.875107157039142,
+                35.246471776170644
+              ],
+              [
+                -31.79984269958403,
+                35.42390088539738
+              ],
+              [
+                -31.787298623341513,
+                35.6120978045325
+              ],
+              [
+                -31.83747492831159,
+                35.68949414263684
+              ],
+              [
+                -32.0507242244344,
+                35.733695304406886
+              ],
+              [
+                -32.263973520557215,
+                35.722646741093385
+              ],
+              [
+                -32.401958359224906,
+                35.766834083180626
+              ],
+              [
+                -32.590119502862684,
+                35.82204233269034
+              ],
+              [
+                -32.778280646500455,
+                35.81100298849897
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

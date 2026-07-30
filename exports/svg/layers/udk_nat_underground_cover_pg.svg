@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="4000" height="2000" viewBox="0 0 4000 2000" data-layer-id="udk_nat_underground_cover_pg" data-map-west="-180.0" data-map-south="-90.0" data-map-east="180.0" data-map-north="90.0">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="">
+        <dc:title>Toril GIS: Editable Offline Map of the Forgotten Realms - udk_nat_underground_cover_pg</dc:title>
+        <dc:creator>Geospatial Grimoire</dc:creator>
+        <dc:source>https://github.com/geospatial-grimoire/toril-gis</dc:source>
+        <dc:rights>Unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. Copyright Wizards of the Coast LLC.</dc:rights>
+        <dc:description>Geospatial Grimoire. Toril GIS: Editable Offline Map of the Forgotten Realms. Available at: https://github.com/geospatial-grimoire/toril-gis</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+  <style>
+    .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222; stroke-width: 1; vector-effect: non-scaling-stroke; fill-rule: evenodd; }
+    .layer-line { fill: none; stroke: #222; stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+    .layer-point { fill: #222; stroke: #fff; stroke-width: 1; vector-effect: non-scaling-stroke; }
+    .svg-layer-udk_nat_underground_cover_pg .layer-fill { fill: #d8d8d8; fill-opacity: 0.45; stroke: #222222; stroke-width: 1.0; }
+    .svg-layer-udk_nat_underground_cover_pg .layer-line { stroke: #222222; stroke-width: 1.5; }
+    .svg-layer-udk_nat_underground_cover_pg .layer-point { fill: #222222; stroke: #ffffff; stroke-width: 1.0; }
+  </style>
+  <g id="udk_nat_underground_cover_pg" class="svg-layer svg-layer-udk_nat_underground_cover_pg">
+    <g class="feature-class-layer feature-class-fungal-forest" data-feature-class="Fungal Forest">
+      <g class="feature feature-class-fungal-forest" data-layer-id="udk_nat_underground_cover_pg" data-feature-class="Fungal Forest" data-uuid="2734224c-40a0-4259-8453-369c671d86da">
+        <title>Araumycos</title>
+        <path class="layer-fill" d="M1227.468 449.984 L1226.278 450.876 L1225.906 451.769 L1225.906 452.81 L1225.832 453.851 L1225.386 454.966 L1223.973 455.784 L1222.337 456.454 L1220.775 457.048 L1218.842 457.866 L1217.577 459.205 L1216.759 460.097 L1215.57 461.064 L1214.231 461.882 L1213.785 462.923 L1214.157 463.667 L1215.272 464.262 L1215.57 464.559 L1215.495 465.303 L1214.231 466.939 L1214.008 467.608 L1214.157 468.575 L1215.57 469.467 L1216.685 469.765 L1218.619 470.062 L1219.511 470.434 L1219.734 470.88 L1219.808 471.921 L1218.99 472.665 L1218.024 473.557 L1217.057 474.896 L1216.239 475.788 L1215.495 476.606 L1215.272 477.573 L1215.347 478.539 L1215.867 479.432 L1216.759 480.175 L1218.024 480.101 L1218.842 479.506 L1219.734 479.357 L1220.031 480.175 L1219.362 480.993 L1218.172 481.737 L1217.503 482.852 L1217.206 483.67 L1216.983 485.083 L1217.354 485.455 L1218.247 485.901 L1219.66 486.199 L1220.924 485.53 L1221.519 485.232 L1223.08 484.488 L1224.047 484.637 L1224.642 485.306 L1224.642 486.273 L1224.642 486.868 L1224.419 488.132 L1224.568 489.694 L1225.088 490.512 L1225.609 490.958 L1226.873 491.627 L1229.624 492.073 L1230.963 491.999 L1231.632 491.33 L1232.822 490.437 L1233.863 489.545 L1234.83 488.355 L1235.722 486.571 L1236.614 485.381 L1237.804 483.373 L1237.953 482.704 L1238.622 480.696 L1238.845 479.878 L1239.589 478.762 L1239.961 478.316 L1240.184 477.944 L1240.779 477.944 L1241.225 478.316 L1241.522 479.209 L1241.82 480.696 L1241.969 481.886 L1242.266 482.852 L1242.787 483.894 L1243.381 484.488 L1244.571 484.414 L1245.538 483.894 L1246.282 482.778 L1246.653 482.034 L1247.248 480.77 L1247.546 479.506 L1248.215 478.762 L1248.884 477.126 L1249.479 475.937 L1250.446 473.854 L1251.264 473.334 L1252.379 473.036 L1253.272 472.665 L1254.015 472.516 L1254.759 472.442 L1256.544 472.219 L1257.287 471.772 L1259.37 470.88 L1260.634 470.508 L1261.229 470.211 L1262.121 469.467 L1262.865 468.352 L1263.683 466.79 L1264.054 466.046 L1264.426 465.526 L1264.575 464.559 L1264.129 463.518 L1263.683 463.295 L1262.567 462.774 L1261.898 461.956 L1261.824 460.915 L1262.121 460.172 L1262.939 459.577 L1264.649 458.684 L1265.244 458.015 L1265.69 456.825 L1266.062 455.933 L1266.508 454.074 L1266.434 452.884 L1266.211 451.694 L1264.724 450.058 L1263.534 449.24 L1262.344 448.497 L1261.154 447.679 L1260.188 446.861 L1258.477 446.34 L1257.362 446.117 L1255.056 446.117 L1254.908 446.414 L1254.239 448.422 L1254.239 448.868 L1254.462 449.91 L1254.462 451.174 L1253.792 451.769 L1252.603 451.917 L1251.487 451.694 L1250 451.471 L1249.033 451.546 L1247.471 451.843 L1246.579 451.992 L1244.869 451.992 L1243.679 451.62 L1243.233 450.802 L1242.861 449.91 L1242.489 449.538 L1241.374 449.315 L1240.779 449.612 L1239.663 449.761 L1238.102 449.017 L1237.953 448.794 L1237.209 448.571 L1235.945 448.348 L1235.425 448.422 L1235.053 449.24 L1234.681 450.281 L1234.532 450.951 L1234.384 451.843 L1234.235 452.81 L1233.937 453.182 L1233.342 453.33 L1232.524 452.958 L1231.706 452.215 L1230.888 451.174 L1230.591 450.951 L1229.922 450.356 L1229.029 450.058 L1227.468 449.984 Z" />
+      </g>
+    </g>
+  </g>
+</svg>

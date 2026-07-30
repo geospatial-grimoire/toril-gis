@@ -1,0 +1,621 @@
+{
+  "type": "FeatureCollection",
+  "name": "sql_statement",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "ca278554-c6f1-42df-83ed-87b659c9cc31",
+        "layer_id": "srf_nat_linear_landmarks_ln",
+        "timeframe": null,
+        "feature_class": "Cliff",
+        "feature_rank": 5,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-22",
+        "last_editor": "postgres",
+        "name_en": null,
+        "name_ru": null,
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": null,
+        "label_ru": null,
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">—</p></body></html>",
+        "descr_html_ru": null,
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "TSR FRIA 2e",
+        "source_url": "https://www.profantasy.com/fratlas/fratlashome.htm",
+        "dnd_editions_str": "2e, 3e, 5e",
+        "feature_levels_str": null,
+        "extra_str": null,
+        "location_en": "western Kara-Tur → Chukei Province",
+        "name_alt_en_str": null,
+        "location_ru": "западный Кара-Тур → Провинция Чукеи",
+        "name_alt_ru_str": null,
+        "geog_extent_length_km": 25.0,
+        "geog_extent_length_miles": 16.0,
+        "geog_extent_centroid_md": "36° 16′ 47″ N 063° 47′ 49″ E",
+        "geog_extent_centroid_fria": "36° 16′ 47″ N 010° 18′ 56″ E",
+        "geog_extent_perimeter_km": null,
+        "geog_extent_perimeter_miles": null,
+        "geog_extent_area_sq_km": null,
+        "geog_extent_area_sq_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 63.835384180524,
+          "west": 63.714123115574,
+          "north": 36.37266331285815,
+          "south": 36.20219001630628
+        },
+        "geog_extent_bbox_fria": {
+          "east": 10.353882692533979,
+          "west": 10.232621627584336,
+          "north": 36.37266331285815,
+          "south": 36.20219001630628
+        },
+        "name_it": null,
+        "name_abb_it": null,
+        "label_it": null,
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Kara-Tur occidentale → Provincia di Chukei",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              10.232621627584336,
+              36.20219001630628
+            ],
+            [
+              10.26787193716272,
+              36.221969340459616
+            ],
+            [
+              10.31158232103992,
+              36.24421659769647
+            ],
+            [
+              10.331322494403812,
+              36.2565741338112
+            ],
+            [
+              10.34542261823517,
+              36.28004941494283
+            ],
+            [
+              10.35106266776771,
+              36.30228427367923
+            ],
+            [
+              10.353882692533979,
+              36.32945376053996
+            ],
+            [
+              10.325682444871273,
+              36.35661614853056
+            ],
+            [
+              10.310172308656785,
+              36.37266331285815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "c16c700b-654e-4a98-ad68-217b7e9aca73",
+        "layer_id": "srf_nat_linear_landmarks_ln",
+        "timeframe": null,
+        "feature_class": "Cliff",
+        "feature_rank": 5,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-22",
+        "last_editor": "postgres",
+        "name_en": null,
+        "name_ru": null,
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": null,
+        "label_ru": null,
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">—</p></body></html>",
+        "descr_html_ru": null,
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "TSR FRIA 2e",
+        "source_url": "https://www.profantasy.com/fratlas/fratlashome.htm",
+        "dnd_editions_str": "2e, 3e, 5e",
+        "feature_levels_str": null,
+        "extra_str": null,
+        "location_en": "western Kara-Tur → Chukei Province",
+        "name_alt_en_str": null,
+        "location_ru": "западный Кара-Тур → Провинция Чукеи",
+        "name_alt_ru_str": null,
+        "geog_extent_length_km": 25.0,
+        "geog_extent_length_miles": 15.0,
+        "geog_extent_centroid_md": "36° 21′ 42″ N 062° 23′ 09″ E",
+        "geog_extent_centroid_fria": "36° 21′ 42″ N 008° 54′ 16″ E",
+        "geog_extent_perimeter_km": null,
+        "geog_extent_perimeter_miles": null,
+        "geog_extent_area_sq_km": null,
+        "geog_extent_area_sq_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 62.474295125807,
+          "west": 62.284937536659,
+          "north": 36.41087843051257,
+          "south": 36.34170519107751
+        },
+        "geog_extent_bbox_fria": {
+          "east": 8.992793637817222,
+          "west": 8.803436048668683,
+          "north": 36.41087843051257,
+          "south": 36.34170519107751
+        },
+        "name_it": null,
+        "name_abb_it": null,
+        "label_it": null,
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Kara-Tur occidentale → Provincia di Chukei",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.803436048668683,
+              36.39130577550779
+            ],
+            [
+              8.80492705330765,
+              36.37433982080975
+            ],
+            [
+              8.812382076502471,
+              36.36389785491949
+            ],
+            [
+              8.854130206393489,
+              36.34953843731742
+            ],
+            [
+              8.886932308450715,
+              36.34170519107751
+            ],
+            [
+              8.933153452258628,
+              36.34823293728667
+            ],
+            [
+              8.970428568232748,
+              36.352149388165834
+            ],
+            [
+              8.982356605344467,
+              36.379560409948446
+            ],
+            [
+              8.992793637817222,
+              36.41087843051257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "75a0c1ff-7c07-46a4-92cc-35d39dec1636",
+        "layer_id": "srf_nat_linear_landmarks_ln",
+        "timeframe": null,
+        "feature_class": "Cliff",
+        "feature_rank": 3,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-22",
+        "last_editor": "postgres",
+        "name_en": null,
+        "name_ru": null,
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": null,
+        "label_ru": null,
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">—</p></body></html>",
+        "descr_html_ru": null,
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "TSR FRIA 2e",
+        "source_url": "https://www.profantasy.com/fratlas/fratlashome.htm",
+        "dnd_editions_str": "2e, 3e, 5e",
+        "feature_levels_str": null,
+        "extra_str": null,
+        "location_en": "western Kara-Tur → Chukei Province",
+        "name_alt_en_str": null,
+        "location_ru": "западный Кара-Тур → Провинция Чукеи",
+        "name_alt_ru_str": null,
+        "geog_extent_length_km": 214.0,
+        "geog_extent_length_miles": 133.0,
+        "geog_extent_centroid_md": "38° 50′ 43″ N 052° 28′ 14″ E",
+        "geog_extent_centroid_fria": "38° 50′ 43″ N 001° 00′ 38″ W",
+        "geog_extent_perimeter_km": null,
+        "geog_extent_perimeter_miles": null,
+        "geog_extent_area_sq_km": null,
+        "geog_extent_area_sq_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 53.545360439086,
+          "west": 51.342091905541,
+          "north": 39.11161798182065,
+          "south": 38.68023660011341
+        },
+        "geog_extent_bbox_fria": {
+          "east": 0.06385895109626841,
+          "west": -2.139409582448958,
+          "north": 39.11161798182065,
+          "south": 38.68023660011341
+        },
+        "name_it": null,
+        "name_abb_it": null,
+        "label_it": null,
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Kara-Tur occidentale → Provincia di Chukei",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -2.139409582448958,
+              38.71638885527862
+            ],
+            [
+              -2.029154276349947,
+              38.694384723889726
+            ],
+            [
+              -1.959325915820574,
+              38.68338080419298
+            ],
+            [
+              -1.885822378421234,
+              38.68023660011341
+            ],
+            [
+              -1.817831606326844,
+              38.69124087295719
+            ],
+            [
+              -1.749840834232454,
+              38.7148172955656
+            ],
+            [
+              -1.672662119963147,
+              38.752527766934854
+            ],
+            [
+              -1.606508936303741,
+              38.780801086152124
+            ],
+            [
+              -1.569757167604071,
+              38.78865333565704
+            ],
+            [
+              -1.479715334289879,
+              38.7745188325529
+            ],
+            [
+              -1.362109674450934,
+              38.747814752550575
+            ],
+            [
+              -1.24450401461199,
+              38.73524560437236
+            ],
+            [
+              -1.152624592862814,
+              38.724246275483935
+            ],
+            [
+              -0.996429575889216,
+              38.730531757619225
+            ],
+            [
+              -0.875148739180304,
+              38.752527766934854
+            ],
+            [
+              -0.731816841251591,
+              38.805926065069436
+            ],
+            [
+              -0.650962950112316,
+              38.8530179982419
+            ],
+            [
+              -0.551733174623207,
+              38.92204511094399
+            ],
+            [
+              -0.483742402528817,
+              39.0129608097021
+            ],
+            [
+              -0.399213334519576,
+              39.08030908324824
+            ],
+            [
+              -0.290795616855549,
+              39.11161798182065
+            ],
+            [
+              -0.193403429801423,
+              39.0959647927337
+            ],
+            [
+              -0.072122593092511,
+              39.0568207930103
+            ],
+            [
+              0.025269593961615,
+              39.034893271788796
+            ],
+            [
+              0.063858951096268,
+              39.03176036542822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "afce4d68-6180-4798-8399-a78acc6dacf3",
+        "layer_id": "srf_nat_linear_landmarks_ln",
+        "timeframe": null,
+        "feature_class": "Cliff",
+        "feature_rank": 5,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-22",
+        "last_editor": "postgres",
+        "name_en": null,
+        "name_ru": null,
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": null,
+        "label_ru": null,
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">—</p></body></html>",
+        "descr_html_ru": null,
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "TSR FRIA 2e",
+        "source_url": "https://www.profantasy.com/fratlas/fratlashome.htm",
+        "dnd_editions_str": "2e, 3e, 5e",
+        "feature_levels_str": null,
+        "extra_str": null,
+        "location_en": "western Kara-Tur → Chukei Province",
+        "name_alt_en_str": null,
+        "location_ru": "западный Кара-Тур → Провинция Чукеи",
+        "name_alt_ru_str": null,
+        "geog_extent_length_km": 13.0,
+        "geog_extent_length_miles": 8.0,
+        "geog_extent_centroid_md": "36° 28′ 28″ N 062° 31′ 44″ E",
+        "geog_extent_centroid_fria": "36° 28′ 28″ N 009° 02′ 51″ E",
+        "geog_extent_perimeter_km": null,
+        "geog_extent_perimeter_miles": null,
+        "geog_extent_area_sq_km": null,
+        "geog_extent_area_sq_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 62.543812837572,
+          "west": 62.525482676591,
+          "north": 36.52930124081246,
+          "south": 36.41832243601266
+        },
+        "geog_extent_bbox_fria": {
+          "east": 9.06231134958195,
+          "west": 9.04398118860119,
+          "north": 36.52930124081246,
+          "south": 36.41832243601266
+        },
+        "name_it": null,
+        "name_abb_it": null,
+        "label_it": null,
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Kara-Tur occidentale → Provincia di Chukei",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              9.04398118860119,
+              36.41832243601266
+            ],
+            [
+              9.04398118860119,
+              36.45409526624825
+            ],
+            [
+              9.04398118860119,
+              36.487389900932776
+            ],
+            [
+              9.056671300049409,
+              36.51697613975433
+            ],
+            [
+              9.06231134958195,
+              36.52930124081246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uuid": "b8246379-dabd-40ef-88cf-afbc6bb7132e",
+        "layer_id": "srf_nat_linear_landmarks_ln",
+        "timeframe": null,
+        "feature_class": "Cliff",
+        "feature_rank": 5,
+        "is_visible": true,
+        "is_labeled": true,
+        "needs_review": false,
+        "review_notes": null,
+        "img_url": null,
+        "last_edited": "2026-07-22",
+        "last_editor": "postgres",
+        "name_en": null,
+        "name_ru": null,
+        "name_abb_en": null,
+        "name_abb_ru": null,
+        "label_en": null,
+        "label_ru": null,
+        "descr_en": null,
+        "descr_ru": null,
+        "descr_html_en": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">—</p></body></html>",
+        "descr_html_ru": null,
+        "url_en": null,
+        "url_ru": null,
+        "source_name": "TSR FRIA 2e",
+        "source_url": "https://www.profantasy.com/fratlas/fratlashome.htm",
+        "dnd_editions_str": "2e, 3e, 5e",
+        "feature_levels_str": null,
+        "extra_str": null,
+        "location_en": "western Kara-Tur → Chukei Province",
+        "name_alt_en_str": null,
+        "location_ru": "западный Кара-Тур → Провинция Чукеи",
+        "name_alt_ru_str": null,
+        "geog_extent_length_km": 29.0,
+        "geog_extent_length_miles": 18.0,
+        "geog_extent_centroid_md": "36° 11′ 39″ N 062° 30′ 03″ E",
+        "geog_extent_centroid_fria": "36° 11′ 39″ N 009° 01′ 10″ E",
+        "geog_extent_perimeter_km": null,
+        "geog_extent_perimeter_miles": null,
+        "geog_extent_area_sq_km": null,
+        "geog_extent_area_sq_miles": null,
+        "geog_extent_bbox_md": {
+          "east": 62.547544364426,
+          "west": 62.464028246348,
+          "north": 36.314857072367985,
+          "south": 36.099937625407364
+        },
+        "geog_extent_bbox_fria": {
+          "east": 9.066042876436141,
+          "west": 8.98252675835812,
+          "north": 36.314857072367985,
+          "south": 36.099937625407364
+        },
+        "name_it": null,
+        "name_abb_it": null,
+        "label_it": null,
+        "descr_it": null,
+        "descr_html_it": null,
+        "url_it": null,
+        "location_it": "Kara-Tur occidentale → Provincia di Chukei",
+        "name_alt_it_str": null,
+        "topical_tags": "",
+        "related_location_tags": "",
+        "related_cultures_tags": "",
+        "related_factions_tags": ""
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              9.066042876436141,
+              36.099937625407364
+            ],
+            [
+              9.02699637967239,
+              36.11897489107812
+            ],
+            [
+              8.995542257279372,
+              36.13515384445381
+            ],
+            [
+              8.98252675835812,
+              36.14466970701274
+            ],
+            [
+              9.005303881470306,
+              36.18272449686466
+            ],
+            [
+              9.020488630211768,
+              36.20935460252876
+            ],
+            [
+              9.0291656294926,
+              36.25784197799937
+            ],
+            [
+              9.034588754043117,
+              36.314857072367985
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
