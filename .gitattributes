@@ -1,27 +1,27 @@
-# Geospatial Grimoire Git LFS configuration
-# Tracks large geospatial and archive files using Git LFS.
+# Geospatial Grimoire binary file configuration
+# Store public distribution files directly in Git.
 
 # QGIS project files and attachments
-*.qgs filter=lfs diff=lfs merge=lfs -text
-*.qgz filter=lfs diff=lfs merge=lfs -text
+*.qgs -text -diff
+*.qgz -text
 
 # GeoPackage files (GPKG)
-*.gpkg filter=lfs diff=lfs merge=lfs -text
+*.gpkg -text
 
 # GeoTIFF files (for rasters like DEMs or basemaps)
-*.tif filter=lfs diff=lfs merge=lfs -text
-*.tiff filter=lfs diff=lfs merge=lfs -text
+*.tif -text
+*.tiff -text
 
 # Georeferenced JPEG images and their world files
-*.jpg filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.jgw filter=lfs diff=lfs merge=lfs -text
+*.jpg -text
+*.jpeg -text
+*.jgw -text
 
 # Georeferenced PNG images and their world files
-*.png filter=lfs diff=lfs merge=lfs -text
-*.pgw filter=lfs diff=lfs merge=lfs -text
+*.png -text
+*.pgw -text
 
 # Compressed archives (e.g., shapefiles, large datasets)
-*.zip filter=lfs diff=lfs merge=lfs -text
-*.7z filter=lfs diff=lfs merge=lfs -text
-*.rar filter=lfs diff=lfs merge=lfs -text
+*.zip -text
+*.7z -text
+*.rar -text
